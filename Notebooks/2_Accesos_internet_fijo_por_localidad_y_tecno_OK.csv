@@ -1,0 +1,3143 @@
+Provincia,Partido,Localidad,ADSL,CABLEMODEM,DIAL UP,FIBRA OPTICA,OTROS,SATELITAL,WIMAX,WIRELESS,Total general
+BUENOS AIRES,25 de Mayo,25 de Mayo,873,4704,0,2,0,975,0,664,7218
+BUENOS AIRES,25 de Mayo,Del Valle,181,0,0,0,10,1,0,0,192
+BUENOS AIRES,25 de Mayo,Gobernador Ugarte,0,0,0,0,0,0,0,181,181
+BUENOS AIRES,25 de Mayo,Norberto de la Riestra,0,782,0,6,167,0,0,327,1282
+BUENOS AIRES,25 de Mayo,Lucas Monteverde,0,0,0,0,0,0,0,6,6
+BUENOS AIRES,25 de Mayo,Ernestina,66,0,0,0,0,0,0,0,66
+BUENOS AIRES,25 de Mayo,Pedernales,568,0,0,0,0,0,0,7,575
+BUENOS AIRES,9 de Julio,12 de Octubre,0,0,0,0,0,0,0,19,19
+BUENOS AIRES,9 de Julio,9 de Julio,4360,3362,82,5886,83,1,0,831,14605
+BUENOS AIRES,9 de Julio,Alfredo Demarchi  (Est. Facundo Quiroga),450,0,0,0,60,0,0,0,510
+BUENOS AIRES,9 de Julio,Dudignac,0,0,1,0,0,0,0,463,464
+BUENOS AIRES,9 de Julio,Manuel B. Gonnet  (Est. French),199,0,0,2,2,0,0,0,203
+BUENOS AIRES,9 de Julio,Villa General Fournier  (Est. 9 de Julio Sud),0,0,0,88,0,0,0,42,130
+BUENOS AIRES,9 de Julio,Patricios,76,0,0,0,0,0,0,0,76
+BUENOS AIRES,Adolfo Alsina,Carhué,780,0,1,1418,1,0,0,283,2483
+BUENOS AIRES,Adolfo Alsina,Maza,0,0,0,390,0,2,0,14,406
+BUENOS AIRES,Adolfo Alsina,Rivera,0,0,0,1202,0,0,0,0,1202
+BUENOS AIRES,Adolfo Alsina,Colonia San Miguel Arcángel,0,0,0,198,0,0,0,0,198
+BUENOS AIRES,Adolfo Alsina,Esteban Agustín Gascón,0,0,0,58,0,0,0,0,58
+BUENOS AIRES,Adolfo Gonzales Chaves,Adolfo Gonzales Chaves  (Est. Chaves),549,0,2,943,0,0,0,313,1807
+BUENOS AIRES,Adolfo Gonzales Chaves,De la Garma,0,0,0,630,0,0,0,59,689
+BUENOS AIRES,Adolfo Gonzales Chaves,Juan E. Barra,0,0,0,0,0,0,0,45,45
+BUENOS AIRES,Adolfo Gonzales Chaves,Vásquez,0,0,0,0,0,0,0,14,14
+BUENOS AIRES,Alberti,Alberti   (Est. Andrés Vaccarezza),457,0,6,1,0,0,0,8,472
+BUENOS AIRES,Alberti,Mechita,285,0,0,0,0,0,0,0,285
+BUENOS AIRES,Almirante Brown,Adrogué,214,9259,59,11442,2,1,0,26,21003
+BUENOS AIRES,Almirante Brown,Burzaco,142,16127,35,11335,40,2,0,292,27973
+BUENOS AIRES,Almirante Brown,Claypole,5,7568,3,4149,13,0,0,2,11740
+BUENOS AIRES,Almirante Brown,Don Orione,0,5184,0,0,0,0,0,1,5185
+BUENOS AIRES,Almirante Brown,Glew,55,7978,10,11652,12,0,0,54,19761
+BUENOS AIRES,Almirante Brown,Jose Mármol,0,7374,1,1410,2,0,0,1,8788
+BUENOS AIRES,Almirante Brown,Longchamps,30,9559,20,14739,24,0,0,1,24373
+BUENOS AIRES,Almirante Brown,Malvinas Argentinas,2,5311,3,54,2,0,0,1,5373
+BUENOS AIRES,Almirante Brown,Ministro Rivadavia,3,3418,4,4066,4,0,0,1,7496
+BUENOS AIRES,Almirante Brown,Rafael Calzada,37,10375,15,9925,193,0,0,340,20885
+BUENOS AIRES,Almirante Brown,San Francisco Solano,26,4232,4,3261,131,0,0,2,7656
+BUENOS AIRES,Almirante Brown,San Jose,3,9174,2,195,0,3,0,1,9378
+BUENOS AIRES,Arrecifes,Arrecifes,906,1127,12,4393,60,1,0,1882,8381
+BUENOS AIRES,Arrecifes,Todd,0,0,0,304,0,0,0,0,304
+BUENOS AIRES,Arrecifes,Viña,50,60,0,0,0,0,0,0,110
+BUENOS AIRES,Avellaneda,Avellaneda,1486,8698,48,5769,68,5,0,87,16161
+BUENOS AIRES,Avellaneda,Crucesita,1,4956,0,2723,2,0,0,0,7682
+BUENOS AIRES,Avellaneda,Dock Sud,11,664,0,2421,12,0,0,26,3134
+BUENOS AIRES,Avellaneda,Gerli,3,6053,0,4334,0,0,0,0,10390
+BUENOS AIRES,Avellaneda,Pineyro,9,5981,1,2324,0,0,0,0,8315
+BUENOS AIRES,Avellaneda,Sarandí,1935,10031,67,11628,4,2,0,1,23668
+BUENOS AIRES,Avellaneda,Villa Domínico,16,8928,2,6819,11,0,0,191,15967
+BUENOS AIRES,Avellaneda,Wilde,2052,12587,66,12956,8,0,0,0,27669
+BUENOS AIRES,Ayacucho,Ayacucho,2053,0,2,0,0,0,0,139,2194
+BUENOS AIRES,Ayacucho,La Constancia,0,0,0,0,0,0,0,10,10
+BUENOS AIRES,Ayacucho,Solanet,0,0,0,0,0,0,0,27,27
+BUENOS AIRES,Ayacucho,Udaquiola,0,0,0,0,0,1,0,46,47
+BUENOS AIRES,Azul,Azul,2424,13779,51,56,65,2,0,1145,17522
+BUENOS AIRES,Azul,Cacharí,0,0,2,0,0,0,0,521,523
+BUENOS AIRES,Azul,Chillar,0,0,0,0,0,1,0,565,566
+BUENOS AIRES,Bahía Blanca,Bahía Blanca,4690,103773,402,9084,463,7,0,2824,121243
+BUENOS AIRES,Bahía Blanca,Cabildo,0,193,4,6,5,0,0,153,361
+BUENOS AIRES,Bahía Blanca,General Daniel Cerri  (Est. General Cerri),373,1481,1,0,0,0,0,20,1875
+BUENOS AIRES,Bahía Blanca,Ingeniero White,0,0,0,1,0,4,0,0,5
+BUENOS AIRES,Balcarce,Balcarce,1503,11047,38,37,47,0,0,883,13555
+BUENOS AIRES,Balcarce,Los Pinos,0,0,0,0,9,0,0,30,39
+BUENOS AIRES,Balcarce,Napaleofú,0,0,0,15,0,0,0,50,65
+BUENOS AIRES,Balcarce,Ramos Otero,0,0,0,0,0,0,0,8,8
+BUENOS AIRES,Balcarce,San Agustín,0,0,0,0,3,0,0,72,75
+BUENOS AIRES,Balcarce,Villa Laguna La Brava,0,0,0,0,0,0,0,34,34
+BUENOS AIRES,Baradero,Baradero,1882,6807,0,3,0,1,0,809,9502
+BUENOS AIRES,Baradero,Villa Alsina  (Est. Alsina),127,0,0,0,0,0,0,150,277
+BUENOS AIRES,Baradero,Irineo Portela,0,0,0,1,0,1,0,76,78
+BUENOS AIRES,Baradero,Santa Coloma,0,0,0,0,0,0,0,53,53
+BUENOS AIRES,Benito Juárez,Barker,0,0,1,10,0,2,0,70,83
+BUENOS AIRES,Benito Juárez,Benito Juárez  (Est. Juárez),782,0,20,563,4,1,0,147,1517
+BUENOS AIRES,Benito Juárez,López,0,0,0,4,0,0,0,12,16
+BUENOS AIRES,Benito Juárez,Villa Cacique  (Est. Alfredo Fortabat),0,0,0,20,0,1,0,100,121
+BUENOS AIRES,Berazategui,Berazategui,1620,18057,42,24092,57,4,0,49,43921
+BUENOS AIRES,Berazategui,Berazategui Oeste,16,79,0,15170,0,0,0,0,15265
+BUENOS AIRES,Berazategui,Carlos Tomás Sourigues,17,1485,0,1605,0,0,0,0,3107
+BUENOS AIRES,Berazategui,Centro Agrícola El Pato,2031,1291,0,0,0,0,0,16,3338
+BUENOS AIRES,Berazategui,Guillermo E. Hudson,133,6657,2,8962,3,0,0,0,15757
+BUENOS AIRES,Berazategui,Juan María Gutierrez,501,2376,4,3072,0,0,0,44,5997
+BUENOS AIRES,Berazategui,Pereyra,9,236,1,310,0,0,0,0,556
+BUENOS AIRES,Berazategui,Plátanos,0,1960,0,2161,1,0,0,0,4122
+BUENOS AIRES,Berazategui,Ranelagh,39,2962,13,7344,0,1,0,0,10359
+BUENOS AIRES,Berazategui,Villa España,2,1270,0,2040,0,0,0,0,3312
+BUENOS AIRES,Berisso,Berisso,4198,12465,23,6195,29,0,0,368,23278
+BUENOS AIRES,Berisso,Villa Nueva,0,0,0,132,0,0,0,250,382
+BUENOS AIRES,Berisso,Barrio El Carmen (Este),0,0,0,132,0,0,0,250,382
+BUENOS AIRES,Berisso,Villa Arguello,0,0,0,132,0,0,0,250,382
+BUENOS AIRES,Berisso,Villa Progreso,0,0,0,132,0,0,0,250,382
+BUENOS AIRES,Bolívar,OTROS,0,1,0,1,0,0,0,0,2
+BUENOS AIRES,Bolívar,Pirovano,0,0,0,0,50,0,0,45,95
+BUENOS AIRES,Bolívar,San Carlos de Bolívar  (Est. Bolívar),963,5122,2,0,0,0,0,255,6342
+BUENOS AIRES,Bolívar,Urdampilleta,0,0,6,2,6,0,0,71,85
+BUENOS AIRES,Bolívar,Paula,0,0,0,0,0,1,0,0,1
+BUENOS AIRES,Bolívar,Hale,10,0,0,0,0,0,0,0,10
+BUENOS AIRES,Bragado,Bragado,674,4209,10,45,0,0,0,210,5148
+BUENOS AIRES,Bragado,General O'Brien,321,0,0,83,0,0,0,31,435
+BUENOS AIRES,Bragado,Irala,0,3,0,0,0,0,0,22,25
+BUENOS AIRES,Bragado,Mechita (Est. Mecha),10,12,0,0,0,0,0,12,34
+BUENOS AIRES,Bragado,Warnes,135,0,0,0,9,0,0,7,151
+BUENOS AIRES,Bragado,Comodoro Py,0,0,0,220,0,0,0,2,222
+BUENOS AIRES,Bragado,Olascoaga,0,0,0,0,0,0,0,40,40
+BUENOS AIRES,Brandsen,Coronel Brandsen,1805,5,0,1480,2,0,0,1135,4427
+BUENOS AIRES,Brandsen,Jeppener,676,0,0,2,0,0,0,0,678
+BUENOS AIRES,Campana,Campana,2242,17445,1,8700,18,3,0,43,28452
+BUENOS AIRES,Campana,Lomas del Río Luján (Est. Río Luján),0,50,0,0,0,0,0,0,50
+BUENOS AIRES,Campana,Alto Los Cardales,0,0,0,80,0,0,0,41,121
+BUENOS AIRES,Campana,Barrio Los Pioneros,0,0,0,0,0,0,0,40,40
+BUENOS AIRES,Campana,Chacras Del Río Luján,0,0,0,0,0,0,0,35,35
+BUENOS AIRES,Cañuelas,Alejandro Petión,206,830,7,0,0,0,0,42,1085
+BUENOS AIRES,Cañuelas,Barrio El Taladro,0,0,0,0,0,0,0,5,5
+BUENOS AIRES,Cañuelas,Cañuelas,1228,5116,33,2261,0,1,0,526,9165
+BUENOS AIRES,Cañuelas,Máximo Paz,0,2692,0,2,0,0,0,270,2964
+BUENOS AIRES,Cañuelas,Santa Rosa,0,0,0,0,0,2,0,233,235
+BUENOS AIRES,Cañuelas,Uribelarrea,60,0,0,403,0,0,0,20,483
+BUENOS AIRES,Cañuelas,Vicente Casares,228,0,2,0,0,0,0,25,255
+BUENOS AIRES,Cañuelas,Barrio Belgrano-Máximo Paz,0,0,0,0,0,0,0,48,48
+BUENOS AIRES,Cañuelas,Gobernador Udaondo,0,0,0,0,0,0,0,20,20
+BUENOS AIRES,Capitán Sarmiento,Capitán Sarmiento,180,4011,0,0,0,0,0,89,4280
+BUENOS AIRES,Capitán Sarmiento,La Luisa,0,0,0,0,0,0,0,44,44
+BUENOS AIRES,Carlos Casares,Cadret,0,0,0,0,1,0,0,48,49
+BUENOS AIRES,Carlos Casares,Carlos Casares,1425,9,8,1477,0,0,0,2461,5380
+BUENOS AIRES,Carlos Casares,La Sofía,0,0,0,0,0,0,0,1,1
+BUENOS AIRES,Carlos Casares,Moctezuma,0,0,0,0,0,0,0,152,152
+BUENOS AIRES,Carlos Casares,Santo Tomás,0,0,0,0,0,0,0,44,44
+BUENOS AIRES,Carlos Casares,Smith,0,0,0,0,0,0,0,191,191
+BUENOS AIRES,Carlos Casares,Mauricio Hirsch,0,0,0,0,0,0,0,47,47
+BUENOS AIRES,Carlos Casares,Bellocq,0,0,1,0,0,0,0,0,1
+BUENOS AIRES,Carlos Tejedor,Carlos Tejedor,15,476,1,68,0,0,0,1188,1748
+BUENOS AIRES,Carlos Tejedor,Colonia Seré,0,0,0,0,0,0,0,81,81
+BUENOS AIRES,Carlos Tejedor,Tres Algarrobos  (Est. Cuenca),0,0,0,0,0,1,0,198,199
+BUENOS AIRES,Carlos Tejedor,Curarú,0,0,0,0,0,0,0,16,16
+BUENOS AIRES,Carlos Tejedor,Timote,0,0,0,0,0,0,0,61,61
+BUENOS AIRES,Carmen de Areco,Carmen de Areco,388,1707,5,0,1,0,0,905,3006
+BUENOS AIRES,Carmen de Areco,Pueblo Gouin,0,0,0,0,0,0,0,31,31
+BUENOS AIRES,Carmen de Areco,Tres Sargentos,0,0,0,0,0,0,0,107,107
+BUENOS AIRES,Castelli,Castelli,67,1109,0,1121,0,2,0,28,2327
+BUENOS AIRES,Castelli,Centro Guerrero,0,0,0,46,0,0,0,3,49
+BUENOS AIRES,Castelli,Cerro De La Gloria,0,0,0,7,0,0,0,0,7
+BUENOS AIRES,Chacabuco,Castilla,0,0,0,0,0,0,0,274,274
+BUENOS AIRES,Chacabuco,Chacabuco,925,9896,16,14,16,0,0,2,10869
+BUENOS AIRES,Chacabuco,O'Higgins,54,95,0,0,0,0,0,12,161
+BUENOS AIRES,Chacabuco,Rawson,73,0,0,303,28,0,0,128,532
+BUENOS AIRES,Chascomús,Chascomús,2159,7510,85,1159,85,1,0,0,10999
+BUENOS AIRES,Chascomús,Manuel J. Cobo  (Est. Lezama),104,1718,0,0,0,0,444,0,2266
+BUENOS AIRES,Chascomús,Barrio San Cayetano,0,0,0,132,0,0,0,0,132
+BUENOS AIRES,Chivilcoy,Chivilcoy,2628,9147,119,815,119,1,0,3172,16001
+BUENOS AIRES,Chivilcoy,La Rica,39,0,0,0,0,0,0,97,136
+BUENOS AIRES,Chivilcoy,Moquehuá,0,338,0,546,0,0,0,29,913
+BUENOS AIRES,Chivilcoy,Ramón Biaus,3,0,0,0,0,0,0,47,50
+BUENOS AIRES,Chivilcoy,San Sebastián,3,0,0,0,0,0,0,49,52
+BUENOS AIRES,Chivilcoy,Gorostiaga,55,0,0,0,0,0,0,2,57
+BUENOS AIRES,Colón,Colón,4143,1588,0,1794,0,0,0,20,7545
+BUENOS AIRES,Colón,Sarasa,0,0,0,0,0,0,0,15,15
+BUENOS AIRES,Coronel de Marina L. Rosales,Balneario Pehuen Co,0,0,0,0,0,1,0,0,1
+BUENOS AIRES,Coronel de Marina L. Rosales,Punta Alta  (Est Almirante Solier),852,20293,48,5,0,6,0,0,21204
+BUENOS AIRES,Coronel de Marina L. Rosales,Villa General Arias  (Est. Kilómetro 638),0,0,0,0,0,0,0,10,10
+BUENOS AIRES,Coronel de Marina L. Rosales,Pago Chico,0,0,0,0,0,0,0,62,62
+BUENOS AIRES,Coronel de Marina L. Rosales,Bajo Hondo,0,0,0,0,0,0,0,74,74
+BUENOS AIRES,Coronel Dorrego,Coronel Dorrego,228,1160,3,1,0,0,0,32,1424
+BUENOS AIRES,Coronel Dorrego,El Perdido  (Est. José A. Guisasola),0,0,0,32,0,0,0,5,37
+BUENOS AIRES,Coronel Dorrego,Oriente,0,0,0,586,0,0,0,48,634
+BUENOS AIRES,Coronel Dorrego,Balneario Marisol,0,0,0,342,0,0,0,0,342
+BUENOS AIRES,Coronel Pringles,Coronel Pringles  (Est. Pringles),649,2056,3,5,0,0,0,171,2884
+BUENOS AIRES,Coronel Pringles,Indio Rico,0,0,1,24,0,0,0,3,28
+BUENOS AIRES,Coronel Suárez,Coronel Suárez,817,2427,88,1609,88,0,0,785,5814
+BUENOS AIRES,Coronel Suárez,Huanguelén,0,0,1,1384,0,0,0,527,1912
+BUENOS AIRES,Coronel Suárez,Pasman,0,0,0,0,0,0,0,48,48
+BUENOS AIRES,Coronel Suárez,San José,0,45,0,706,0,0,0,0,751
+BUENOS AIRES,Coronel Suárez,Santa María,0,18,0,465,0,0,0,0,483
+BUENOS AIRES,Coronel Suárez,Santa Trinidad,0,65,0,550,0,0,0,0,615
+BUENOS AIRES,Coronel Suárez,Villa La Arcadia,0,104,0,72,0,0,0,0,176
+BUENOS AIRES,Daireaux,Daireaux,281,0,0,0,194,50,0,339,864
+BUENOS AIRES,Daireaux,Salazar,0,0,0,0,0,0,0,79,79
+BUENOS AIRES,Dolores,Dolores,1575,10215,1,8,0,0,325,0,12124
+BUENOS AIRES,Dolores,Sevigne,0,0,0,0,0,0,0,1,1
+BUENOS AIRES,Ensenada,Ensenada,1534,10765,17,2923,6,0,0,2092,17337
+BUENOS AIRES,Ensenada,Villa Catela,0,0,0,0,0,0,0,7,7
+BUENOS AIRES,Escobar,Belen de Escobar,2964,17071,21,8652,333,1,0,97,29139
+BUENOS AIRES,Escobar,El cazador,0,971,0,2226,0,0,0,0,3197
+BUENOS AIRES,Escobar,Garín,4638,9481,3,3422,2,1,0,11,17558
+BUENOS AIRES,Escobar,Ingeniero Maschwitz,1126,4227,3,2969,1,0,0,300,8626
+BUENOS AIRES,Escobar,Loma Verde,0,0,0,999,0,0,0,0,999
+BUENOS AIRES,Escobar,Maquinista F. Savio (este),533,4392,0,13,2,0,0,14,4954
+BUENOS AIRES,Escobar,Matheu,1390,2515,2,1,3,1,0,58,3970
+BUENOS AIRES,Esteban Echeverría,9 De Abril,237,6483,6,12,1,0,0,153,6892
+BUENOS AIRES,Esteban Echeverría,Canning,3,3488,0,1049,1,0,0,94,4635
+BUENOS AIRES,Esteban Echeverría,El Jagüel,0,6691,0,5,2,1,0,89,6788
+BUENOS AIRES,Esteban Echeverría,Luis Guillón,4,7207,2,1757,1,0,0,77,9048
+BUENOS AIRES,Esteban Echeverría,Monte Grande,211,27688,61,24799,70,4,0,312,53145
+BUENOS AIRES,Esteban Echeverría,Zona Aeropuerto Internacional Ezeiza,2,0,0,0,0,0,0,0,2
+BUENOS AIRES,Exaltación de la Cruz,Arroyo de la Cruz,0,0,0,0,0,0,0,92,92
+BUENOS AIRES,Exaltación de la Cruz,Capilla del Señor  (Est. Capilla),359,0,6,82,0,0,0,0,447
+BUENOS AIRES,Exaltación de la Cruz,Los Cardales,2,7166,2,0,0,1,0,0,7171
+BUENOS AIRES,Exaltación de la Cruz,OTROS,0,0,0,0,0,0,0,84,84
+BUENOS AIRES,Exaltación de la Cruz,Parada Orlando,0,0,0,0,0,1,0,30,31
+BUENOS AIRES,Exaltación de la Cruz,Parada Robles - Pavón,2709,0,0,235,0,0,0,0,2944
+BUENOS AIRES,Ezeiza,Aeropuerto Internacional Ezeiza,224,0,3,4,0,1,0,0,232
+BUENOS AIRES,Ezeiza,Canning,194,1722,1,1030,1,0,0,50,2998
+BUENOS AIRES,Ezeiza,Carlos Spegazzini,343,5545,2,1349,164,1,0,1,7405
+BUENOS AIRES,Ezeiza,José Maria Ezeiza,540,13930,13,4959,0,2,0,92,19536
+BUENOS AIRES,Ezeiza,La Unión,107,9052,1,823,0,2,0,0,9985
+BUENOS AIRES,Ezeiza,OTROS,3,1,0,5,0,0,0,0,9
+BUENOS AIRES,Ezeiza,Tristán Suarez,571,10640,5,982,18,0,0,4,12220
+BUENOS AIRES,Florencio Varela,Bosques,35,7673,3,3293,13,0,0,266,11283
+BUENOS AIRES,Florencio Varela,Estanislao Severo Zeballos,7,2482,4,3935,0,0,0,0,6428
+BUENOS AIRES,Florencio Varela,Florencio Varela,661,18474,30,22792,263,3,0,810,43033
+BUENOS AIRES,Florencio Varela,Gobernador Julio A. Costa,13,7558,6,471,0,0,0,0,8048
+BUENOS AIRES,Florencio Varela,Ingeniero Juan Allan,2505,5087,0,907,0,0,0,0,8499
+BUENOS AIRES,Florencio Varela,La Capilla,0,0,0,4,0,0,0,0,4
+BUENOS AIRES,Florencio Varela,la rotonda,357,0,0,0,0,0,0,0,357
+BUENOS AIRES,Florencio Varela,Villa Brown,0,85,0,264,0,0,0,0,349
+BUENOS AIRES,Florencio Varela,Villa San Luis,0,350,0,0,0,0,0,0,350
+BUENOS AIRES,Florencio Varela,Villa Santa Rosa,31,4100,1,226,0,0,0,0,4358
+BUENOS AIRES,Florencio Varela,Villa Vatteone,12,4586,1,2184,0,0,0,0,6783
+BUENOS AIRES,Florentino Ameghino,Blaquier,0,0,0,0,0,1,0,5,6
+BUENOS AIRES,Florentino Ameghino,Florentino Ameghino,117,0,0,297,0,0,0,0,414
+BUENOS AIRES,Florentino Ameghino,Porvenir,0,0,0,0,0,0,0,2,2
+BUENOS AIRES,General Alvarado,Comandante Nicanor Otamendi,0,0,3,930,0,1,0,31,965
+BUENOS AIRES,General Alvarado,Mar del Sur,0,0,2,0,0,0,0,142,144
+BUENOS AIRES,General Alvarado,Mechongué,256,0,0,0,0,0,0,3,259
+BUENOS AIRES,General Alvarado,Miramar,4888,1584,74,1,76,1,0,957,7581
+BUENOS AIRES,General Alvarado,Centinela Del Mar,0,0,0,0,0,0,0,1,1
+BUENOS AIRES,General Arenales,Arribeños,305,301,1,144,15,0,0,261,1027
+BUENOS AIRES,General Arenales,Ascensión,1200,505,0,0,250,0,0,139,2094
+BUENOS AIRES,General Arenales,Ferré,0,152,0,282,0,0,0,441,875
+BUENOS AIRES,General Arenales,General Arenales,0,883,1,99,0,0,0,512,1495
+BUENOS AIRES,General Arenales,La Angelita,26,0,0,0,2,0,0,67,95
+BUENOS AIRES,General Arenales,La Trinidad,0,15,0,0,0,0,0,95,110
+BUENOS AIRES,General Belgrano,General Belgrano,513,1507,5,2,0,1,0,894,2922
+BUENOS AIRES,General Belgrano,Gorchs,0,0,0,0,0,1,0,27,28
+BUENOS AIRES,General Guido,General Guido,0,0,1,302,0,0,0,228,531
+BUENOS AIRES,General Guido,Labarden,0,0,0,0,0,0,0,72,72
+BUENOS AIRES,General Juan Madariaga,General Juan Madariaga,460,486,8,4033,0,1,0,0,4988
+BUENOS AIRES,General La Madrid,General La Madrid,2510,0,74,1148,74,0,0,265,4071
+BUENOS AIRES,General La Madrid,Las Martinetas,0,0,0,0,0,0,0,16,16
+BUENOS AIRES,General Las Heras,General Las Heras  (Est. Las Heras),272,889,3,1890,1,0,0,2,3057
+BUENOS AIRES,General Las Heras,Lozano,0,0,0,0,0,1,0,0,1
+BUENOS AIRES,General Las Heras,Villars,0,167,1,45,0,0,0,0,213
+BUENOS AIRES,General Lavalle,General Lavalle,0,358,0,4,0,1,0,69,432
+BUENOS AIRES,General Lavalle,OTROS,0,0,0,1,0,0,0,0,1
+BUENOS AIRES,General Lavalle,Pavón,0,0,0,201,22,0,0,3,226
+BUENOS AIRES,General Lavalle,Chacras de San Clemente,0,0,0,0,0,0,0,1,1
+BUENOS AIRES,General Paz,Loma Verde,0,0,0,0,0,0,0,184,184
+BUENOS AIRES,General Paz,Ranchos,1243,0,11,553,11,0,0,1313,3131
+BUENOS AIRES,General Paz,Villanueva  (Ap. Río Salado),0,0,0,0,0,0,0,143,143
+BUENOS AIRES,General Pinto,Colonia San Ricardo  (Est. Iriarte),141,0,0,0,0,0,0,112,253
+BUENOS AIRES,General Pinto,General Pinto,0,0,3,0,0,1,0,0,4
+BUENOS AIRES,General Pinto,Germania  (Est. Mayor José Orellano),1112,0,0,0,0,0,0,0,1112
+BUENOS AIRES,General Pinto,Villa Francia  (Est. Coronel Granada),0,0,0,332,0,2,0,0,334
+BUENOS AIRES,General Pueyrredón,Barrio Colinas Verdes,0,0,0,0,0,0,0,46,46
+BUENOS AIRES,General Pueyrredón,Barrio El Boquerón,0,0,0,0,0,0,0,74,74
+BUENOS AIRES,General Pueyrredón,Barrio El Casal,0,0,0,0,0,0,0,72,72
+BUENOS AIRES,General Pueyrredón,Barrio El Coyunco,0,0,0,25,1,0,0,73,99
+BUENOS AIRES,General Pueyrredón,Barrio La Gloria,0,0,0,0,0,0,0,324,324
+BUENOS AIRES,General Pueyrredón,Barrio Santa Paula,0,0,0,127,0,1,0,102,230
+BUENOS AIRES,General Pueyrredón,Batán,1266,0,0,1110,7,1,0,634,3018
+BUENOS AIRES,General Pueyrredón,Chapadmalal,83,0,0,1664,0,1,0,353,2101
+BUENOS AIRES,General Pueyrredón,Estación Chapadmalal,249,0,0,19,0,1,0,208,477
+BUENOS AIRES,General Pueyrredón,Mar del Plata,15285,121533,533,103846,567,7,0,1117,242888
+BUENOS AIRES,General Pueyrredón,OTROS,0,0,0,151,0,0,0,0,151
+BUENOS AIRES,General Pueyrredón,Sierra de los Padres,468,0,0,210,1,0,0,256,935
+BUENOS AIRES,General Pueyrredón,Camet,1226,0,0,377,0,0,0,254,1857
+BUENOS AIRES,General Pueyrredón,El Marquesado,0,0,0,0,0,0,0,8,8
+BUENOS AIRES,General Rodríguez,General Rodríguez,1293,10535,21,3249,4,1,0,505,15608
+BUENOS AIRES,General Rodríguez,Barrio Ruta 24 Kilómetro 10,0,0,0,2,0,0,0,0,2
+BUENOS AIRES,General San Martín,Barrio Parque General San Martin,0,0,3,2486,0,0,0,2,2491
+BUENOS AIRES,General San Martín,Billinghurst,15,735,0,3301,0,0,0,0,4051
+BUENOS AIRES,General San Martín,Ciudad Del Libertador General San Martin,4382,25191,5,5514,88,4,0,4,35188
+BUENOS AIRES,General San Martín,OTROS,11,0,0,0,0,0,0,0,11
+BUENOS AIRES,General San Martín,Va Ma Irene De Los Remedios De Escalada,0,90,0,0,0,0,0,0,90
+BUENOS AIRES,General San Martín,Villa Ayacucho,0,170,0,436,0,0,0,0,606
+BUENOS AIRES,General San Martín,Villa Ballester,2333,22665,1,7192,32,0,0,347,32570
+BUENOS AIRES,General San Martín,Villa Bernardo Monteagudo,0,564,0,930,0,0,0,0,1494
+BUENOS AIRES,General San Martín,Villa Chacabuco,0,717,0,16,0,0,0,0,733
+BUENOS AIRES,General San Martín,Villa Coronel Jose M. Zapiola,0,1365,0,1842,0,0,0,0,3207
+BUENOS AIRES,General San Martín,Villa General Antonio J.  De Sucre,0,569,0,684,0,0,0,0,1253
+BUENOS AIRES,General San Martín,Villa General Eugenio Necochea,0,2955,0,2291,0,0,0,0,5246
+BUENOS AIRES,General San Martín,Villa General Jose Tomas Guido,0,1393,0,1923,0,0,0,0,3316
+BUENOS AIRES,General San Martín,Villa General Juan G. Las Heras,0,617,0,948,0,0,0,0,1565
+BUENOS AIRES,General San Martín,Villa Godoy Cruz,0,729,0,1073,0,0,0,0,1802
+BUENOS AIRES,General San Martín,Villa Granaderos De San Martín,0,935,0,2345,0,0,0,382,3662
+BUENOS AIRES,General San Martín,Villa Gregoria Matorras,0,1075,0,1859,0,0,0,0,2934
+BUENOS AIRES,General San Martín,Villa José León Suarez,1903,3678,0,643,16,0,0,1333,7573
+BUENOS AIRES,General San Martín,Villa Juan Martín De Pueyrredon,0,1177,0,2369,0,0,0,0,3546
+BUENOS AIRES,General San Martín,Villa Libertad,0,1220,0,2219,0,0,0,0,3439
+BUENOS AIRES,General San Martín,Villa Lynch,283,2191,2,14,2,0,0,0,2492
+BUENOS AIRES,General San Martín,Villa Maipu,109,1556,0,2748,0,0,0,545,4958
+BUENOS AIRES,General San Martín,Villa Marqués Alejandro  María De Aguado,0,596,0,1096,0,0,0,0,1692
+BUENOS AIRES,General San Martín,Villa Parque Pres Figueroa Alcorta,0,204,0,328,0,0,0,0,532
+BUENOS AIRES,General San Martín,Villa Parque San Lorenzo,0,161,0,351,32,0,0,0,544
+BUENOS AIRES,General San Martín,Villa San Andrés,1112,5854,0,1068,20,0,0,586,8640
+BUENOS AIRES,General San Martín,Villa Yapeyú,0,289,0,460,0,0,0,0,749
+BUENOS AIRES,General San Martín,Ciudad Jardin El Libertador,0,12,0,0,0,0,0,0,12
+BUENOS AIRES,General Viamonte,Baigorrita,562,0,0,0,0,0,0,61,623
+BUENOS AIRES,General Viamonte,Los Toldos,262,0,1,4159,0,0,0,57,4479
+BUENOS AIRES,General Viamonte,Zavalía,0,0,0,0,0,0,0,27,27
+BUENOS AIRES,General Villegas,Banderaló,0,0,0,0,250,1,0,0,251
+BUENOS AIRES,General Villegas,Cañada Seca,0,0,0,0,200,0,0,0,200
+BUENOS AIRES,General Villegas,Coronel Charlone,317,0,0,60,0,1,0,0,378
+BUENOS AIRES,General Villegas,Emilio V. Bunge,0,0,0,0,0,1,0,0,1
+BUENOS AIRES,General Villegas,General Villegas  (Est. Villegas),340,24,0,3388,0,1,0,46,3799
+BUENOS AIRES,General Villegas,Piedritas,368,0,0,189,0,1,0,58,616
+BUENOS AIRES,General Villegas,Santa Regina,0,75,0,0,0,0,0,0,75
+BUENOS AIRES,General Villegas,Pichincha,0,0,0,0,0,1,0,0,1
+BUENOS AIRES,Guaminí,Casbas,0,0,1,0,0,0,0,125,126
+BUENOS AIRES,Guaminí,Guaminí,0,0,0,75,0,0,0,345,420
+BUENOS AIRES,Guaminí,Laguna Alsina  (Est. Bonifacio),198,0,0,0,0,0,0,247,445
+BUENOS AIRES,Guaminí,Arroyo Venado,0,0,0,0,0,0,0,44,44
+BUENOS AIRES,Guaminí,Garré,0,0,0,288,0,0,0,0,288
+BUENOS AIRES,Hipólito Yrigoyen,Henderson,113,0,1,0,0,0,0,810,924
+BUENOS AIRES,Hurlingham,Hurlingham,548,15221,57,16573,65,0,0,296,32760
+BUENOS AIRES,Hurlingham,Villa Santos Tesei,122,7225,27,13068,1,0,0,72,20515
+BUENOS AIRES,Hurlingham,William C. Morris,0,11,0,16,0,0,0,351,378
+BUENOS AIRES,Ituzaingó,Ituzaingó Centro,419,26821,122,22279,122,3,0,199,49965
+BUENOS AIRES,Ituzaingó,Ituzaingó Sur,0,0,0,0,0,0,0,30,30
+BUENOS AIRES,Ituzaingó,OTROS,2,0,0,2,0,0,0,0,4
+BUENOS AIRES,Ituzaingó,Villa Gobernador Udaondo,21,8796,9,3253,0,0,0,338,12417
+BUENOS AIRES,José C. Paz,Del Viso,0,217,0,0,0,0,0,0,217
+BUENOS AIRES,José C. Paz,José C Paz,2429,28431,84,12224,482,2,0,108,43760
+BUENOS AIRES,José C. Paz,Tortuguitas,0,1388,0,0,0,0,0,0,1388
+BUENOS AIRES,Junín,Agustín Roca,0,0,0,89,0,0,0,215,304
+BUENOS AIRES,Junín,Agustina,0,0,0,8,0,0,0,0,8
+BUENOS AIRES,Junín,Balneario Laguna de Gómez,0,0,0,0,0,0,0,8,8
+BUENOS AIRES,Junín,Fortín Tiburcio,0,0,0,0,0,0,0,69,69
+BUENOS AIRES,Junín,Junín,3361,18285,87,3058,89,1,0,8310,33191
+BUENOS AIRES,Junín,Laplacette,0,0,0,1,0,0,16,0,17
+BUENOS AIRES,Junín,Morse,0,61,0,254,0,0,0,110,425
+BUENOS AIRES,Junín,Saforcada,0,0,0,0,1,0,0,75,76
+BUENOS AIRES,La Costa,Las Toninas,444,1076,2,61,401,0,0,26,2010
+BUENOS AIRES,La Costa,Mar de Ajó - San Bernardo,1749,4326,33,8970,891,0,0,1,15970
+BUENOS AIRES,La Costa,San Clemente del Tuyú,1684,3140,5,358,0,0,0,40,5227
+BUENOS AIRES,La Costa,Santa Teresita - Mar del Tuyú,3600,7654,16,191,18,0,0,201,11680
+BUENOS AIRES,La Costa,Aguas Verdes,29,0,0,137,0,0,0,1,167
+BUENOS AIRES,La Costa,Lucila Del Mar,153,943,0,1452,173,0,0,1,2722
+BUENOS AIRES,La Matanza,20 De Junio,26,682,4,0,0,0,0,1,713
+BUENOS AIRES,La Matanza,Aldo Bonzi,3,3154,0,0,1,0,0,1,3159
+BUENOS AIRES,La Matanza,Ciudad Evita,351,10138,27,3175,31,0,0,99,13821
+BUENOS AIRES,La Matanza,Gonzalez Catán,119,31528,27,15835,33,7,0,1502,49051
+BUENOS AIRES,La Matanza,Gregorio De Laferrere,88,26889,15,19628,29,0,0,1451,48100
+BUENOS AIRES,La Matanza,Isidro Casanova,191,21818,34,26985,61,0,0,253,49342
+BUENOS AIRES,La Matanza,La Tablada,365,15630,2,10,7,0,0,933,16947
+BUENOS AIRES,La Matanza,Lomas Del Mirador,637,12926,11,4,13,0,0,65,13656
+BUENOS AIRES,La Matanza,Rafael Castillo,34,14297,10,9215,7,0,0,274,23837
+BUENOS AIRES,La Matanza,Ramos Mejía,818,37021,80,7809,95,2,0,19,45844
+BUENOS AIRES,La Matanza,San Justo,668,24933,101,13387,111,1,0,857,40058
+BUENOS AIRES,La Matanza,Tapiales,696,3719,27,7683,14,1,0,1,12141
+BUENOS AIRES,La Matanza,Villa  Eduardo Madero,194,16709,50,11900,76,0,0,168,29097
+BUENOS AIRES,La Matanza,Villa Luzuriaga,170,17378,1,30,1,0,0,114,17694
+BUENOS AIRES,La Matanza,Virrey Del Pino,4526,19962,0,1128,0,0,0,367,25983
+BUENOS AIRES,La Plata,Abasto,376,608,0,3174,0,0,0,5,4163
+BUENOS AIRES,La Plata,Angel Etcheverry,0,700,0,0,0,0,0,5,705
+BUENOS AIRES,La Plata,Arturo Segui,0,183,0,0,0,0,0,0,183
+BUENOS AIRES,La Plata,Barrio El Peligro,466,0,0,0,0,0,0,0,466
+BUENOS AIRES,La Plata,City Bell,0,12230,0,185,0,0,0,145,12560
+BUENOS AIRES,La Plata,colonia la plata,63,0,0,0,0,0,0,0,63
+BUENOS AIRES,La Plata,Ignacio Correas,0,0,0,0,2,0,0,46,48
+BUENOS AIRES,La Plata,Joaquin Gorina,0,876,0,125,0,0,0,0,1001
+BUENOS AIRES,La Plata,Jose Hernandez,0,31,0,0,0,0,0,0,31
+BUENOS AIRES,La Plata,Jose Melchor Romero,0,934,0,0,0,0,0,0,934
+BUENOS AIRES,La Plata,La Cumbre,0,0,0,0,0,0,0,145,145
+BUENOS AIRES,La Plata,La Plata,11819,131591,537,39467,805,9,0,3239,187467
+BUENOS AIRES,La Plata,Lisandro Olmos,0,2592,0,0,0,0,0,0,2592
+BUENOS AIRES,La Plata,Los Hornos,0,3567,0,254,0,0,0,145,3966
+BUENOS AIRES,La Plata,Manuel B Gonnet,0,12238,0,170,0,0,0,0,12408
+BUENOS AIRES,La Plata,OTROS,0,22,0,9,0,0,0,0,31
+BUENOS AIRES,La Plata,Ringuelet,0,4085,0,89,0,0,0,0,4174
+BUENOS AIRES,La Plata,Tolosa,0,13308,0,264,0,0,0,0,13572
+BUENOS AIRES,La Plata,Villa Elisa,0,6262,0,150,0,0,0,145,6557
+BUENOS AIRES,La Plata,Villa Elvira,0,4556,0,153,0,0,0,1068,5777
+BUENOS AIRES,La Plata,ruta del sol,292,0,0,0,0,0,0,0,292
+BUENOS AIRES,La Plata,El Retiro,0,0,0,1,0,0,0,0,1
+BUENOS AIRES,La Plata,Transradio,0,0,0,0,0,1,0,0,1
+BUENOS AIRES,La Plata,Arana,0,0,0,0,0,0,0,129,129
+BUENOS AIRES,La Plata,Villa Garibaldi,0,0,0,0,0,0,0,904,904
+BUENOS AIRES,La Plata,Villa Parque Sicardi,0,0,0,0,0,0,0,1094,1094
+BUENOS AIRES,La Plata,Barrio El Carmen Oeste,0,0,0,0,0,0,0,145,145
+BUENOS AIRES,La Plata,Barrio Gambier,0,0,0,0,0,0,0,145,145
+BUENOS AIRES,La Plata,Villa Montoro,0,0,0,0,0,0,0,145,145
+BUENOS AIRES,Lanús,Gerli,42,6313,14,5985,3,0,0,0,12357
+BUENOS AIRES,Lanús,Lanús Este,551,27058,83,26487,82,1,0,115,54377
+BUENOS AIRES,Lanús,Lanús Oeste,0,12264,1,14118,0,0,0,364,26747
+BUENOS AIRES,Lanús,Monte Chingolo,73,10751,47,16020,71,0,0,0,26962
+BUENOS AIRES,Lanús,Remedios Escalada De San Martin,65,14315,19,5137,19,0,0,344,19899
+BUENOS AIRES,Lanús,Valentín Alsina,192,7292,79,12001,91,0,0,3,19658
+BUENOS AIRES,Laprida,Laprida,0,22,0,2741,0,0,0,0,2763
+BUENOS AIRES,Laprida,Pueblo Nuevo,0,0,0,0,0,0,0,8,8
+BUENOS AIRES,Laprida,Pueblo San Jorge,0,0,0,0,0,0,0,117,117
+BUENOS AIRES,Las Flores,Las Flores,2063,0,0,2286,0,0,0,809,5158
+BUENOS AIRES,Las Flores,Coronel Boerr,0,0,0,0,0,0,0,3,3
+BUENOS AIRES,Las Flores,El Trigo,0,0,0,1,0,0,0,3,4
+BUENOS AIRES,Las Flores,Pardo,0,0,0,0,0,0,0,4,4
+BUENOS AIRES,Leandro N. Alem,Alberdi Viejo,2,0,0,0,2,0,0,2,6
+BUENOS AIRES,Leandro N. Alem,El Dorado,0,0,0,11,0,1,0,136,148
+BUENOS AIRES,Leandro N. Alem,Fortín Acha,0,0,0,0,0,0,0,39,39
+BUENOS AIRES,Leandro N. Alem,Juan Bautista Alberdi  (Est. Alberdi),252,457,0,396,0,0,0,8,1113
+BUENOS AIRES,Leandro N. Alem,Leandro N. Alem,0,201,0,0,0,0,0,55,256
+BUENOS AIRES,Leandro N. Alem,Vedia,941,0,0,533,45,1,0,1201,2721
+BUENOS AIRES,Lincoln,Bayauca,0,0,0,0,1,0,0,25,26
+BUENOS AIRES,Lincoln,Coronel Martínez de Hoz  (Ap. Kilómetro 322),249,0,0,0,0,0,0,0,249
+BUENOS AIRES,Lincoln,El Triunfo,0,0,1,10,0,0,0,0,11
+BUENOS AIRES,Lincoln,Las Toscas,330,0,0,0,0,0,0,0,330
+BUENOS AIRES,Lincoln,Lincoln,813,8631,39,11,1,0,0,0,9495
+BUENOS AIRES,Lincoln,Pasteur,0,0,0,0,0,2,0,468,470
+BUENOS AIRES,Lincoln,Roberts,0,0,1,699,0,0,0,0,700
+BUENOS AIRES,Lincoln,Arenaza,0,0,0,293,0,0,0,0,293
+BUENOS AIRES,Lincoln,Carlos Salas,0,0,0,0,0,0,0,123,123
+BUENOS AIRES,Lobería,Lobería,753,0,7,902,15,0,0,716,2393
+BUENOS AIRES,Lobería,San Manuel,31,0,0,270,0,1,0,144,446
+BUENOS AIRES,Lobería,Arenas Verdes,0,0,0,0,0,0,0,11,11
+BUENOS AIRES,Lobería,Licenciado Matienzo,0,0,0,0,0,0,0,1,1
+BUENOS AIRES,Lobería,Pieres,0,0,0,0,0,0,0,7,7
+BUENOS AIRES,Lobería,Tamangueyú,0,0,0,0,0,0,0,28,28
+BUENOS AIRES,Lobos,Antonio Carboni,4,0,1,175,156,0,0,0,336
+BUENOS AIRES,Lobos,Elvira,0,0,0,0,0,0,0,92,92
+BUENOS AIRES,Lobos,Lobos,730,787,10,6135,0,0,0,0,7662
+BUENOS AIRES,Lobos,Salvador María,87,0,0,446,0,0,0,214,747
+BUENOS AIRES,Lomas De Zamora,Banfield,302,56858,80,9731,180,1,0,0,67152
+BUENOS AIRES,Lomas De Zamora,Llavallol,136,7113,34,7044,36,0,0,1,14364
+BUENOS AIRES,Lomas De Zamora,Lomas De Zamora,550,35053,112,11600,300,2,0,2332,49949
+BUENOS AIRES,Lomas De Zamora,Temperley,39,25314,19,9104,50,2,0,0,34528
+BUENOS AIRES,Lomas De Zamora,Turdera,38,2386,21,6294,1,0,0,0,8740
+BUENOS AIRES,Lomas De Zamora,Villa Centenario,0,43,0,174,0,0,0,300,517
+BUENOS AIRES,Lomas De Zamora,Villa Fiorito,0,165,0,228,0,0,0,666,1059
+BUENOS AIRES,Luján,Barrio Las Casuarinas,24,0,0,102,0,0,0,25,151
+BUENOS AIRES,Luján,Carlos Keen,0,0,0,0,0,0,0,20,20
+BUENOS AIRES,Luján,Cortines,83,0,0,357,0,0,0,41,481
+BUENOS AIRES,Luján,José María Jáuregui (Est. Jáuregui),487,1001,0,2094,0,0,0,20,3602
+BUENOS AIRES,Luján,Lezica y Torrezuri,0,0,0,0,0,0,0,38,38
+BUENOS AIRES,Luján,Luján,2440,12829,37,8674,37,1,0,2755,26773
+BUENOS AIRES,Luján,Olivera,0,0,0,5,0,0,0,42,47
+BUENOS AIRES,Luján,Open Door  (Est. Dr. Domingo Cabred),306,0,4,0,0,0,0,49,359
+BUENOS AIRES,Luján,OTROS,0,0,0,0,0,0,0,42,42
+BUENOS AIRES,Luján,Torres,148,0,0,0,0,0,0,21,169
+BUENOS AIRES,Magdalena,General Mansilla  (Est. Bartolomé Bavio),0,544,0,409,0,0,0,0,953
+BUENOS AIRES,Magdalena,Magdalena,708,2980,1,0,0,0,437,3,4129
+BUENOS AIRES,Magdalena,Vieytes,0,0,0,28,0,0,0,84,112
+BUENOS AIRES,Magdalena,Atalaya,0,0,0,353,0,0,0,0,353
+BUENOS AIRES,Magdalena,Los Naranjos,0,0,0,46,0,0,0,0,46
+BUENOS AIRES,Magdalena,Roberto J. Payró,0,0,0,0,0,0,0,32,32
+BUENOS AIRES,Maipú,Las Armas,99,0,0,0,0,0,0,54,153
+BUENOS AIRES,Maipú,Maipú,644,0,7,1,1100,0,0,20,1772
+BUENOS AIRES,Maipú,Santo Domingo,0,0,0,0,0,1,0,7,8
+BUENOS AIRES,Malvinas Argentinas,Area De Promocion El Triángulo,101,0,0,110,0,0,0,0,211
+BUENOS AIRES,Malvinas Argentinas,Grand Bourg,3582,6382,0,5342,1,0,0,0,15307
+BUENOS AIRES,Malvinas Argentinas,Ingeniero Adolfo Sourdeaux,583,3068,0,1,1,0,0,110,3763
+BUENOS AIRES,Malvinas Argentinas,Ingeniero Pablo Nogués,1069,2992,3,847,3,0,0,1,4915
+BUENOS AIRES,Malvinas Argentinas,Los Polvorines,269,6450,23,6166,5,1,0,1,12915
+BUENOS AIRES,Malvinas Argentinas,Malvinas Argentinas,0,76,0,1,0,0,0,14,91
+BUENOS AIRES,Malvinas Argentinas,Tortuguitas,1620,3116,1,46,4170,0,0,0,8953
+BUENOS AIRES,Malvinas Argentinas,Villa De Mayo,28,3457,3,2568,5,0,0,22,6083
+BUENOS AIRES,Mar Chiquita,Coronel Vidal,3,1508,0,242,0,0,0,165,1918
+BUENOS AIRES,Mar Chiquita,General Pirán,0,0,1,712,0,0,0,75,788
+BUENOS AIRES,Mar Chiquita,La Armonía,0,0,0,0,0,0,0,106,106
+BUENOS AIRES,Mar Chiquita,Mar de Cobo,182,0,1,1142,0,0,0,0,1325
+BUENOS AIRES,Mar Chiquita,Santa Clara del Mar,2128,0,0,312,0,0,0,800,3240
+BUENOS AIRES,Mar Chiquita,Playa Dorada,0,0,0,0,0,0,0,98,98
+BUENOS AIRES,Mar Chiquita,La Caleta,0,0,0,0,0,0,0,132,132
+BUENOS AIRES,Mar Chiquita,Vivoratá,0,0,0,205,0,0,0,76,281
+BUENOS AIRES,Marcos Paz,Marcos Paz,2567,671,11,123,6084,1,0,15,9472
+BUENOS AIRES,Mercedes,Mercedes,1214,6309,59,2760,59,3,0,1588,11992
+BUENOS AIRES,Mercedes,Gowland,0,0,0,5,0,0,0,101,106
+BUENOS AIRES,Mercedes,Jorge Born,0,0,0,0,0,0,0,5,5
+BUENOS AIRES,Merlo,Libertad,98,12409,12,14507,11,1,0,1756,28794
+BUENOS AIRES,Merlo,Mariano Acosta,4444,6874,0,5279,0,0,0,8,16605
+BUENOS AIRES,Merlo,Merlo,426,38112,69,23280,121,0,0,1055,63063
+BUENOS AIRES,Merlo,OTROS,0,0,0,1,0,0,0,0,1
+BUENOS AIRES,Merlo,Pontevedra,678,3772,2,2,0,0,0,1802,6256
+BUENOS AIRES,Merlo,San Antonio De Padua,15,6554,3,6059,4,0,0,460,13095
+BUENOS AIRES,Monte,San Miguel del Monte  (Est. Monte),487,1919,3,3775,0,0,0,344,6528
+BUENOS AIRES,Monte,Abbott,0,0,0,302,0,1,0,18,321
+BUENOS AIRES,Monte Hermoso,Balneario Sauce Grande,31,0,0,489,0,0,0,0,520
+BUENOS AIRES,Monte Hermoso,Monte Hermoso,369,0,0,4971,0,0,0,0,5340
+BUENOS AIRES,Moreno,Cuartel V,0,31,4,631,0,0,0,145,811
+BUENOS AIRES,Moreno,Francisco Alvarez,978,4440,10,1146,98,0,0,199,6871
+BUENOS AIRES,Moreno,La Reja,61,5062,8,2103,493,1,0,190,7918
+BUENOS AIRES,Moreno,Moreno,440,49098,88,18343,268,3,0,719,68959
+BUENOS AIRES,Moreno,Paso Del Rey,0,6523,0,1763,0,3,0,100,8389
+BUENOS AIRES,Moreno,Trujui,240,3364,14,12338,2,0,0,130,16088
+BUENOS AIRES,Morón,Castelar,6,18765,0,11020,12,0,0,100,29903
+BUENOS AIRES,Morón,El Palomar,205,9214,4,4372,9,1,0,19,13824
+BUENOS AIRES,Morón,Haedo,277,9887,102,13355,107,0,0,33,23761
+BUENOS AIRES,Morón,Moron,844,20837,71,24863,88,3,0,14,46720
+BUENOS AIRES,Morón,Villa Sarmiento,15,4810,19,4859,0,1,0,91,9795
+BUENOS AIRES,Navarro,Las Marianas,0,0,0,0,0,0,0,207,207
+BUENOS AIRES,Navarro,Navarro,392,1728,3,1530,0,1,0,252,3906
+BUENOS AIRES,Navarro,Villa Moll  (Est. Moll),0,0,0,6,0,0,0,168,174
+BUENOS AIRES,Navarro,José Juan Almeyra,0,0,0,0,0,0,0,99,99
+BUENOS AIRES,Necochea,Claraz,0,0,0,0,0,0,0,105,105
+BUENOS AIRES,Necochea,Juan N. Fernández,525,0,0,0,0,2,0,113,640
+BUENOS AIRES,Necochea,Necochea - Quequén,3257,4293,155,14085,156,1,0,2182,24129
+BUENOS AIRES,Necochea,Nicanor Olivera  (Est. La Dulce),1,0,2,0,0,0,0,713,716
+BUENOS AIRES,Necochea,OTROS,0,0,0,0,0,0,0,16,16
+BUENOS AIRES,Necochea,Costa Bonita,0,0,0,0,0,0,0,14,14
+BUENOS AIRES,Necochea,Energía,0,0,0,0,0,0,0,13,13
+BUENOS AIRES,Olavarría,Hinojo,13,0,0,0,0,1,0,0,14
+BUENOS AIRES,Olavarría,Olavarría,3654,18385,6,2080,65,5,0,0,24195
+BUENOS AIRES,Olavarría,Sierra Chica,0,505,0,0,0,0,0,0,505
+BUENOS AIRES,Olavarría,Sierras Bayas,272,0,1,0,0,0,0,0,273
+BUENOS AIRES,Olavarría,Villa Alfredo Fortabat,194,0,0,0,0,0,0,0,194
+BUENOS AIRES,Olavarría,Colonia Hinojo,0,0,0,0,0,0,0,1,1
+BUENOS AIRES,OTROS,OTROS,7,0,0,0,28954,0,0,0,28961
+BUENOS AIRES,Patagones,Bahía San Blas,0,0,1,0,0,0,0,4,5
+BUENOS AIRES,Patagones,Carmen de Patagones,1112,0,26,4159,29,1,0,11,5338
+BUENOS AIRES,Patagones,José B. Casas,0,0,0,0,1,0,0,5,6
+BUENOS AIRES,Patagones,Juan A. Pradere,0,84,0,0,1,0,0,4,89
+BUENOS AIRES,Patagones,Stroeder,0,0,1,452,1,0,0,173,627
+BUENOS AIRES,Patagones,Villalonga,117,0,7,749,0,0,0,245,1118
+BUENOS AIRES,Pehuajó,Chiclana,0,0,0,0,0,0,0,9,9
+BUENOS AIRES,Pehuajó,Francisco Madero,0,0,1,0,0,0,0,3,4
+BUENOS AIRES,Pehuajó,Juan José Paso,0,0,0,28,0,0,0,385,413
+BUENOS AIRES,Pehuajó,Magdala,0,0,0,0,0,0,0,7,7
+BUENOS AIRES,Pehuajó,Mones Cazón,0,0,0,0,0,0,0,3,3
+BUENOS AIRES,Pehuajó,Pehuajó,4347,1,68,5,69,0,0,265,4755
+BUENOS AIRES,Pehuajó,San Esteban,0,0,0,0,0,0,0,3,3
+BUENOS AIRES,Pehuajó,Capitán Castro,0,0,0,0,0,0,0,3,3
+BUENOS AIRES,Pehuajó,Inocencio Sosa,0,0,0,0,0,0,0,3,3
+BUENOS AIRES,Pehuajó,Nueva Plata,0,0,0,0,0,0,0,3,3
+BUENOS AIRES,Pehuajó,San Bernardo  (Est. Guanaco),0,0,0,0,0,0,0,3,3
+BUENOS AIRES,Pellegrini,Pellegrini,311,797,5,0,0,3,0,32,1148
+BUENOS AIRES,Pergamino,Acevedo,115,153,0,0,0,0,0,184,452
+BUENOS AIRES,Pergamino,Fontezuela,33,0,0,96,0,0,0,4,133
+BUENOS AIRES,Pergamino,Guerrico,0,61,0,0,0,0,0,54,115
+BUENOS AIRES,Pergamino,Juan A. de la Peña,0,0,0,0,0,0,0,51,51
+BUENOS AIRES,Pergamino,Juan Anchorena  (Est. Urquiza),71,0,0,217,0,0,0,5,293
+BUENOS AIRES,Pergamino,La Violeta,0,0,0,0,0,1,0,0,1
+BUENOS AIRES,Pergamino,Manuel Ocampo,0,0,0,448,0,0,0,44,492
+BUENOS AIRES,Pergamino,Mariano H. Alfonzo  (Est. San Patricio),0,0,0,0,0,1,0,0,1
+BUENOS AIRES,Pergamino,Pergamino,2564,18621,82,800,82,2,0,524,22675
+BUENOS AIRES,Pergamino,Pinzón,0,0,0,0,0,0,0,1,1
+BUENOS AIRES,Pergamino,Rancagua,109,0,0,102,0,1,0,0,212
+BUENOS AIRES,Pergamino,Villa San José,0,0,0,3,0,0,0,0,3
+BUENOS AIRES,Pila,Casalins,0,0,0,0,0,0,0,5,5
+BUENOS AIRES,Pila,Pila,0,0,1,1,0,0,0,48,50
+BUENOS AIRES,Pilar,Del Viso,18509,3181,0,17,1,0,0,553,22261
+BUENOS AIRES,Pilar,Fátima,40,52,0,22,0,0,0,2,116
+BUENOS AIRES,Pilar,La Lonja,3245,1406,0,19,0,0,0,467,5137
+BUENOS AIRES,Pilar,Los Cachorros,0,3002,0,0,0,0,0,0,3002
+BUENOS AIRES,Pilar,Manzanares,0,166,0,3,0,0,0,3,172
+BUENOS AIRES,Pilar,Maquinista F. Savio (oeste),0,0,0,0,0,0,0,54,54
+BUENOS AIRES,Pilar,OTROS,0,1,0,5,0,0,0,268,274
+BUENOS AIRES,Pilar,Pilar,2977,26119,35,8989,663,4,90,629,39506
+BUENOS AIRES,Pilar,Presidente Derqui,1565,5538,0,83,0,0,0,604,7790
+BUENOS AIRES,Pilar,Santa Teresa,0,0,0,0,0,2,0,0,2
+BUENOS AIRES,Pilar,Tortuguitas,0,0,0,2,0,2,0,3,7
+BUENOS AIRES,Pilar,Villa Astolfi,0,1387,0,1,0,0,0,9,1397
+BUENOS AIRES,Pilar,Villa Rosa,613,7191,3,197,0,0,360,441,8805
+BUENOS AIRES,Pilar,Zelaya,30,6,0,0,2,0,0,5,43
+BUENOS AIRES,Pilar,Manuel Alberti,0,1847,0,514,0,0,0,0,2361
+BUENOS AIRES,Pinamar,Pinamar,12458,2578,0,10867,1000,3,0,0,26906
+BUENOS AIRES,Pinamar,Carilo,0,1510,0,0,0,0,0,0,1510
+BUENOS AIRES,Pinamar,Ostende,0,246,0,0,0,0,0,0,246
+BUENOS AIRES,Pinamar,Valeria del Mar,0,3,0,0,0,0,0,0,3
+BUENOS AIRES,Presidente Perón,Guernica,77,13644,8,6236,8,0,0,113,20086
+BUENOS AIRES,Puán,Bordenave,0,0,0,54,0,1,0,349,404
+BUENOS AIRES,Puán,Darregueira,238,946,1,1110,0,0,0,87,2382
+BUENOS AIRES,Puán,Puán,0,2001,0,1,0,1,0,75,2078
+BUENOS AIRES,Puán,Villa Iris,0,0,0,425,24,0,0,356,805
+BUENOS AIRES,Puán,San Germán,0,0,0,0,0,0,0,49,49
+BUENOS AIRES,Punta Indio,Pipinas,0,114,0,0,0,0,0,0,114
+BUENOS AIRES,Punta Indio,Verónica,227,816,0,6,0,0,0,0,1049
+BUENOS AIRES,Punta Indio,Punta Indio,0,0,0,0,0,0,0,115,115
+BUENOS AIRES,Quilmes,Bernal,135,20997,69,9487,75,1,0,0,30764
+BUENOS AIRES,Quilmes,Bernal Oeste,71,3710,3,1790,28,0,0,0,5602
+BUENOS AIRES,Quilmes,Don Bosco,0,3011,0,4,1,0,0,0,3016
+BUENOS AIRES,Quilmes,Ezpeleta,112,13506,8,2550,16,0,0,319,16511
+BUENOS AIRES,Quilmes,Ezpeleta Oeste,48,1506,8,3924,16,0,0,0,5502
+BUENOS AIRES,Quilmes,Quilmes,88,48607,78,12329,172,2,0,141,61417
+BUENOS AIRES,Quilmes,Quilmes Oeste,113,7693,48,13726,40,0,0,2,21622
+BUENOS AIRES,Quilmes,San Francisco Solano,1,11218,0,37,30,0,0,114,11400
+BUENOS AIRES,Quilmes,Villa La Florida,22,5100,5,6909,0,0,0,114,12150
+BUENOS AIRES,Ramallo,EL PARAÍSO,0,0,0,0,30,0,0,0,30
+BUENOS AIRES,Ramallo,OTROS,0,0,0,0,10,0,0,0,10
+BUENOS AIRES,Ramallo,Pérez Millán,0,0,0,1,0,0,0,0,1
+BUENOS AIRES,Ramallo,RAMALLO,411,1128,0,1,1177,1,0,2,2720
+BUENOS AIRES,Ramallo,VILLA RAMALLO,515,1899,0,1,327,0,0,0,2742
+BUENOS AIRES,Rauch,OTROS,0,0,0,0,0,0,0,15,15
+BUENOS AIRES,Rauch,Rauch,1001,0,8,514,0,1,0,93,1617
+BUENOS AIRES,Rivadavia,América,577,928,0,1188,1,1,0,809,3504
+BUENOS AIRES,Rivadavia,Fortín Olavarría,272,0,0,187,0,0,0,0,459
+BUENOS AIRES,Rivadavia,González Moreno,0,0,0,0,0,0,0,1,1
+BUENOS AIRES,Rivadavia,Sansinena,0,0,0,168,0,0,0,175,343
+BUENOS AIRES,Rojas,Las Carabelas,0,0,0,195,0,1,0,47,243
+BUENOS AIRES,Rojas,Rojas,595,3485,2,1160,0,0,0,1479,6721
+BUENOS AIRES,Rojas,Rafael Obligado,0,0,0,0,0,0,0,26,26
+BUENOS AIRES,Roque Pérez,Carlos Beguerie,0,0,0,0,0,0,0,116,116
+BUENOS AIRES,Roque Pérez,Roque Pérez,191,1930,1,0,0,0,0,345,2467
+BUENOS AIRES,Saavedra,Espartillar,0,0,0,314,0,0,0,79,393
+BUENOS AIRES,Saavedra,Pigüé,859,0,3,3031,0,0,0,0,3893
+BUENOS AIRES,Saavedra,Saavedra,0,0,0,9,0,0,0,23,32
+BUENOS AIRES,Saavedra,Goyena,0,0,0,44,0,0,0,0,44
+BUENOS AIRES,Saavedra,Arroyo Corto,0,0,0,259,0,0,0,0,259
+BUENOS AIRES,Saladillo,Del Carril,0,0,0,0,0,0,0,2,2
+BUENOS AIRES,Saladillo,Saladillo,664,4651,0,3575,1,0,0,418,9309
+BUENOS AIRES,Saladillo,Cazón,0,0,0,38,0,0,0,0,38
+BUENOS AIRES,Saladillo,Alvarez de Toledo,0,0,0,25,0,1,0,0,26
+BUENOS AIRES,Salliqueló,Quenumá,0,0,0,0,36,0,0,0,36
+BUENOS AIRES,Salliqueló,Salliqueló,151,0,3,0,0,2,0,0,156
+BUENOS AIRES,Salto,Arroyo Dulce,438,0,0,51,0,0,0,37,526
+BUENOS AIRES,Salto,Gahan,181,0,0,0,0,0,0,0,181
+BUENOS AIRES,Salto,Inés Indart,0,0,0,15,189,2,0,0,206
+BUENOS AIRES,Salto,Salto,931,1325,1,7636,0,0,0,0,9893
+BUENOS AIRES,San Andrés de Giles,Azcuénaga,0,0,0,55,7,0,0,54,116
+BUENOS AIRES,San Andrés de Giles,San Andrés de Giles,470,665,1,3719,486,1,0,0,5342
+BUENOS AIRES,San Andrés de Giles,Solís,46,0,0,261,0,1,0,107,415
+BUENOS AIRES,San Andrés de Giles,Villa Ruiz,0,0,0,140,0,0,0,86,226
+BUENOS AIRES,San Andrés de Giles,Villa Espil,0,0,0,0,0,0,0,104,104
+BUENOS AIRES,San Andrés de Giles,Cucullú,0,0,0,0,218,0,0,24,242
+BUENOS AIRES,San Antonio de Areco,San Antonio de Areco,1189,1826,5,2644,0,2,0,2223,7889
+BUENOS AIRES,San Antonio de Areco,Villa Lía,190,0,0,245,0,0,0,56,491
+BUENOS AIRES,San Antonio de Areco,Duggan,0,0,0,231,0,0,0,278,509
+BUENOS AIRES,San Cayetano,Balneario San Cayetano,0,0,0,113,0,0,0,1,114
+BUENOS AIRES,San Cayetano,San Cayetano,146,984,0,902,0,0,0,268,2300
+BUENOS AIRES,San Cayetano,Ochandío,0,0,0,0,0,0,0,15,15
+BUENOS AIRES,San Fernando,San Fernando,3169,17045,2,6941,13,0,0,109,27279
+BUENOS AIRES,San Fernando,Victoria,1628,12501,2,1167,6,2,0,1,15307
+BUENOS AIRES,San Fernando,Virreyes,660,7731,0,2251,1,0,0,0,10643
+BUENOS AIRES,San Isidro,Acassuso,286,5327,1,241,1,1,0,0,5857
+BUENOS AIRES,San Isidro,Beccar,2279,16040,0,352,4,0,0,80,18755
+BUENOS AIRES,San Isidro,Boulogne Sur Mer,1974,20376,4,785,13,0,0,5,23157
+BUENOS AIRES,San Isidro,Martínez,1929,24576,52,3319,60,1,0,1,29938
+BUENOS AIRES,San Isidro,San Isidro,1069,21187,3,327,16,1,0,1,22604
+BUENOS AIRES,San Isidro,Villa Adelina,949,10837,0,871,7,0,0,0,12664
+BUENOS AIRES,San Miguel,Bella Vista,94,3476,39,7923,49,2,0,1201,12784
+BUENOS AIRES,San Miguel,Campo De Mayo,0,0,0,0,0,1,0,0,1
+BUENOS AIRES,San Miguel,Muñiz,246,3198,5,1865,0,0,0,0,5314
+BUENOS AIRES,San Miguel,San Miguel,462,80087,62,26727,108,2,0,121,107569
+BUENOS AIRES,San Nicolás,Conesa,670,0,0,0,0,1,0,0,671
+BUENOS AIRES,San Nicolás,Erézcano,0,0,0,0,0,0,0,108,108
+BUENOS AIRES,San Nicolás,General Rojo,0,0,0,608,0,1,0,0,609
+BUENOS AIRES,San Nicolás,San Nicolás de los Arroyos,8812,17602,2,6770,0,2,0,52,33240
+BUENOS AIRES,San Pedro,Río Tala,0,0,0,2,237,0,0,0,239
+BUENOS AIRES,San Pedro,San Pedro,2544,4698,0,7012,78,3,0,78,14413
+BUENOS AIRES,San Pedro,Santa Lucía,0,0,0,3,0,2,0,0,5
+BUENOS AIRES,San Vicente,Alejandro Korn,110,3534,4,6150,9,0,0,332,10139
+BUENOS AIRES,San Vicente,Domselaar,0,430,0,0,0,0,0,52,482
+BUENOS AIRES,San Vicente,San Vicente,1127,3961,4,484,5,0,0,217,5798
+BUENOS AIRES,Suipacha,General Rivas,96,0,0,0,0,0,0,114,210
+BUENOS AIRES,Suipacha,Suipacha,273,0,2,2807,0,0,0,283,3365
+BUENOS AIRES,Tandil,De la Canal,0,0,0,0,5,0,0,59,64
+BUENOS AIRES,Tandil,Gardey,0,0,0,225,35,0,0,21,281
+BUENOS AIRES,Tandil,María Ignacia  (Est. Vela),268,0,0,0,0,0,0,25,293
+BUENOS AIRES,Tandil,OTROS,0,0,0,0,45,0,0,0,45
+BUENOS AIRES,Tandil,Tandil,2633,38698,203,2887,277,3,0,737,45438
+BUENOS AIRES,Tandil,Desvío Aguirre,0,0,0,10,0,0,0,1,11
+BUENOS AIRES,Tapalqué,Tapalqué,0,0,0,1,0,1,0,0,2
+BUENOS AIRES,Tigre,Benavídez,945,9561,0,8459,0,5,0,1590,20560
+BUENOS AIRES,Tigre,Dique Luján,44,2208,0,30,0,0,0,85,2367
+BUENOS AIRES,Tigre,Don Torcuato Este,1485,13763,3,9334,6,0,0,23,24614
+BUENOS AIRES,Tigre,El Talar,560,8082,0,5972,2,1,0,80,14697
+BUENOS AIRES,Tigre,General Pacheco,2148,12087,1,3279,7,2,0,2,17526
+BUENOS AIRES,Tigre,Los Troncos Del Talar,624,7004,0,2612,0,1,0,0,10241
+BUENOS AIRES,Tigre,OTROS,0,0,0,2,0,0,0,0,2
+BUENOS AIRES,Tigre,Ricardo Rojas,1085,3944,0,1673,6,0,0,0,6708
+BUENOS AIRES,Tigre,Rincón de Milberg,1947,8899,0,1632,0,0,0,45,12523
+BUENOS AIRES,Tigre,Tigre,880,12518,0,4467,6,5,0,175,18051
+BUENOS AIRES,Tigre,Don Torcuato Oeste,0,0,0,0,0,0,0,186,186
+BUENOS AIRES,Tigre,Nordelta,0,6039,0,2290,0,0,0,0,8329
+BUENOS AIRES,Tordillo,General Conesa,40,227,0,0,0,0,0,63,330
+BUENOS AIRES,Tordillo,Villa Roch,0,0,0,0,0,0,0,11,11
+BUENOS AIRES,Tornquist,Saldungaray,0,0,0,466,0,0,0,0,466
+BUENOS AIRES,Tornquist,Sierra de la Ventana,0,486,0,621,0,0,0,0,1107
+BUENOS AIRES,Tornquist,Tornquist,131,966,0,1461,0,1,0,0,2559
+BUENOS AIRES,Tornquist,Villa Serrana La Gruta,0,119,0,0,0,0,0,0,119
+BUENOS AIRES,Tornquist,Villa Ventana,475,0,0,0,0,0,0,0,475
+BUENOS AIRES,Trenque Lauquen,30 de Agosto,0,184,0,1396,2376,0,0,0,3956
+BUENOS AIRES,Trenque Lauquen,OTROS,0,0,0,0,0,4,0,0,4
+BUENOS AIRES,Trenque Lauquen,Trenque Lauquen,2527,12,68,12253,68,1,0,1241,16170
+BUENOS AIRES,Trenque Lauquen,Girodias,47,0,0,0,0,0,0,2,49
+BUENOS AIRES,Trenque Lauquen,La Carreta,0,0,0,0,0,0,0,2,2
+BUENOS AIRES,Trenque Lauquen,Trongé,0,0,0,0,0,0,0,2,2
+BUENOS AIRES,Trenque Lauquen,Berutti,0,0,0,282,0,0,0,0,282
+BUENOS AIRES,Tres Arroyos,Claromecó,329,0,0,595,0,0,0,734,1658
+BUENOS AIRES,Tres Arroyos,Copetonas,0,0,0,1,0,0,0,89,90
+BUENOS AIRES,Tres Arroyos,Lin Calel,0,0,0,0,0,0,0,11,11
+BUENOS AIRES,Tres Arroyos,Micaela Cascallares  (Est. Cascallares),0,0,0,1,0,0,0,155,156
+BUENOS AIRES,Tres Arroyos,Orense,0,0,1,246,407,0,0,146,800
+BUENOS AIRES,Tres Arroyos,Reta,0,0,0,0,0,0,0,224,224
+BUENOS AIRES,Tres Arroyos,San Francisco de Bellocq,0,0,0,0,0,0,0,120,120
+BUENOS AIRES,Tres Arroyos,San Mayol,0,0,0,0,9,0,0,11,20
+BUENOS AIRES,Tres Arroyos,Tres Arroyos,1352,14525,61,1513,61,1,0,903,18416
+BUENOS AIRES,Tres De Febrero,11 De Septiembre,34,1181,0,5,1,1,0,0,1222
+BUENOS AIRES,Tres De Febrero,Caseros,3191,22642,2,8778,25,0,0,2,34640
+BUENOS AIRES,Tres De Febrero,Churruca,14,834,0,1543,0,0,0,0,2391
+BUENOS AIRES,Tres De Febrero,Ciudad Jardín Lomas del Palomar,550,5184,0,811,2,0,0,0,6547
+BUENOS AIRES,Tres De Febrero,Ciudadela,314,11567,67,14121,117,3,0,4,26193
+BUENOS AIRES,Tres De Febrero,El Libertador,189,2533,0,0,0,0,0,0,2722
+BUENOS AIRES,Tres De Febrero,Jose Ingenieros,141,1877,0,546,3,0,0,5,2572
+BUENOS AIRES,Tres De Febrero,Loma Hermosa,1210,5544,0,52,18,0,0,0,6824
+BUENOS AIRES,Tres De Febrero,Martín Coronado,218,4982,1,2601,6,0,0,0,7808
+BUENOS AIRES,Tres De Febrero,Pablo Podestá,1568,3358,0,7,12,0,0,438,5383
+BUENOS AIRES,Tres De Febrero,Remedios De Escalada,159,2717,0,7814,16,0,0,0,10706
+BUENOS AIRES,Tres De Febrero,Saenz Peña,312,4995,0,954,0,1,0,1,6263
+BUENOS AIRES,Tres De Febrero,Santos Lugares,366,6158,0,1313,8,0,0,1,7846
+BUENOS AIRES,Tres De Febrero,Villa Bosch (Est. Juan Maria Bosch),299,7132,0,5788,3,0,0,0,13222
+BUENOS AIRES,Tres De Febrero,Villa Raffo,141,2022,0,654,3,0,0,0,2820
+BUENOS AIRES,Tres Lomas,Tres Lomas,93,724,1,136,319,0,0,94,1367
+BUENOS AIRES,Vicente López,Carapachay,966,5363,1,2051,2,0,0,0,8383
+BUENOS AIRES,Vicente López,Florida,1400,14599,2,6370,6,0,0,2,22379
+BUENOS AIRES,Vicente López,Florida Oeste,334,5468,0,3171,5,1,0,245,9224
+BUENOS AIRES,Vicente López,La Lucila,336,4208,1,1257,1,0,0,0,5803
+BUENOS AIRES,Vicente López,Munro,687,9186,8,5621,10,1,0,1,15514
+BUENOS AIRES,Vicente López,Olivos,1468,24218,5,9253,10,1,0,0,34955
+BUENOS AIRES,Vicente López,Vicente López,338,9861,3,3218,17,0,0,1,13438
+BUENOS AIRES,Vicente López,Villa Adelina,0,566,0,1036,0,0,0,0,1602
+BUENOS AIRES,Vicente López,Villa Martelli,987,5325,1,4905,3,1,0,375,11597
+BUENOS AIRES,Villa Gesell,Villa Gesell,5967,0,0,5036,91,0,0,0,11094
+BUENOS AIRES,Villarino,Juan Cousté  (Est. Algarrobo),0,0,2,0,0,0,0,82,84
+BUENOS AIRES,Villarino,Mayor Buratovich,129,0,0,483,0,0,0,0,612
+BUENOS AIRES,Villarino,Médanos,417,375,2,0,0,0,0,103,897
+BUENOS AIRES,Villarino,Pedro Luro,393,582,0,1664,1,0,0,550,3190
+BUENOS AIRES,Villarino,Argerich,0,0,0,0,0,0,0,29,29
+BUENOS AIRES,Villarino,Teniente Origone,0,0,0,0,0,0,0,16,16
+BUENOS AIRES,Villarino,Country Los Medanos,0,0,0,0,0,0,0,267,267
+BUENOS AIRES,Zárate,Lima,1,1833,0,1,0,2,0,0,1837
+BUENOS AIRES,Zárate,Zárate,2447,24539,0,78,700,5,0,982,28751
+BUENOS AIRES,AMBA,OTROS,0,0,0,35,0,0,0,13,48
+CABA,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,140791,1240125,2145,129218,29585,57,0,5758,1547679
+CATAMARCA,Ambato,El Bolsón,0,0,0,0,0,1,0,0,1
+CATAMARCA,Ambato,El Rodeo,0,0,0,0,0,1,0,152,153
+CATAMARCA,Ambato,La Puerta,0,0,0,0,0,5,0,0,5
+CATAMARCA,Ambato,Las Chacritas,0,0,0,0,0,1,0,0,1
+CATAMARCA,Ambato,Los Varela,0,0,0,0,0,1,0,0,1
+CATAMARCA,Ambato,Los Talas,0,0,0,0,0,0,0,66,66
+CATAMARCA,Ancasti,Ancasti,0,0,0,0,0,1,0,0,1
+CATAMARCA,Andalgalá,Andalgalá,846,0,0,144,1,2,0,203,1196
+CATAMARCA,Andalgalá,Chaquiago,0,0,0,9,0,1,0,14,24
+CATAMARCA,Andalgalá,El Potrero,0,0,0,13,0,0,0,0,13
+CATAMARCA,Andalgalá,Aconquija,0,0,0,0,0,1,0,0,1
+CATAMARCA,Andalgalá,El Alamito,0,0,0,0,0,0,0,20,20
+CATAMARCA,Andalgalá,La Aguada,0,0,0,11,0,0,0,5,16
+CATAMARCA,Andalgalá,La Mesada,0,0,0,1,0,0,0,0,1
+CATAMARCA,Antofagasta de la Sierra,Antofagasta de la Sierra,0,0,0,0,0,6,0,0,6
+CATAMARCA,Belén,Belén,0,0,0,0,0,4,0,0,4
+CATAMARCA,Belén,Hualfín,0,0,0,0,0,1,0,0,1
+CATAMARCA,Belén,Londres,0,0,0,0,0,1,0,0,1
+CATAMARCA,Belén,El Durazno,0,0,0,0,0,1,0,0,1
+CATAMARCA,Belén,Las Juntas,0,0,0,0,0,0,0,5,5
+CATAMARCA,Belén,Puerta de San José,0,0,0,0,0,1,0,0,1
+CATAMARCA,Capayán,Capayán,0,0,0,0,0,1,0,0,1
+CATAMARCA,Capayán,Chumbicha,150,0,0,5,0,1,0,474,630
+CATAMARCA,Capayán,Colonia del Valle,0,0,0,0,0,1,0,0,1
+CATAMARCA,Capayán,Colonia Nueva Coneta,0,0,0,10,0,1,0,9,20
+CATAMARCA,Capayán,Coneta,0,0,0,10,0,1,0,0,11
+CATAMARCA,Capayán,Huillapima,0,0,0,5,0,2,0,9,16
+CATAMARCA,Capayán,Miraflores,0,0,0,7,0,2,0,10,19
+CATAMARCA,Capayán,San Martín,0,0,0,0,0,7,0,0,7
+CATAMARCA,Capayán,Los Angeles,0,0,0,0,0,0,0,5,5
+CATAMARCA,Capital,El Pantanillo,11,13,0,2,0,2,0,0,28
+CATAMARCA,Capital,San Fernando del Valle de Catamarca,8238,10473,1,38963,0,1,0,14,57690
+CATAMARCA,El Alto,El Alto,0,0,0,0,0,1,0,28,29
+CATAMARCA,El Alto,Tapso,0,0,0,0,0,1,0,0,1
+CATAMARCA,La Paz,Icaño,0,0,0,0,0,1,0,0,1
+CATAMARCA,La Paz,Recreo,183,9,0,1619,0,1,0,5,1817
+CATAMARCA,La Paz,San Antonio,0,0,0,0,0,0,0,26,26
+CATAMARCA,La Paz,Quirós,0,0,0,0,0,0,0,27,27
+CATAMARCA,Paclín,La Merced,72,0,0,0,0,4,0,5,81
+CATAMARCA,Paclín,La Viña,0,0,0,0,0,0,0,10,10
+CATAMARCA,Paclín,Las Lajas,0,0,0,0,0,1,0,0,1
+CATAMARCA,Paclín,San Antonio,0,0,0,0,0,1,0,7,8
+CATAMARCA,Pomán,Mutquin,0,0,0,0,0,1,0,0,1
+CATAMARCA,Pomán,Pomán,0,0,0,0,0,2,0,0,2
+CATAMARCA,Pomán,San Miguel,0,0,0,0,0,0,0,7,7
+CATAMARCA,Pomán,Saujil,0,0,0,0,0,1,0,169,170
+CATAMARCA,Pomán,Siján,0,0,0,0,0,1,0,0,1
+CATAMARCA,Pomán,Colpes,0,0,0,0,0,0,0,16,16
+CATAMARCA,Santa María,La Loma,0,0,0,0,0,1,0,0,1
+CATAMARCA,Santa María,San José,0,0,0,0,0,1,0,0,1
+CATAMARCA,Santa María,Santa María,0,0,0,0,2151,1,0,0,2152
+CATAMARCA,Santa Rosa,Alijilán,0,0,0,0,0,2,0,0,2
+CATAMARCA,Santa Rosa,Bañado de Ovanta,0,0,0,0,0,1,0,0,1
+CATAMARCA,Santa Rosa,Lavalle,0,0,0,0,0,1,0,0,1
+CATAMARCA,Santa Rosa,Los Altos,0,0,0,0,0,1,0,6,7
+CATAMARCA,Tinogasta,Fiambalá,0,0,0,8,0,2,0,7,17
+CATAMARCA,Tinogasta,Tinogasta,510,0,0,1828,0,2,0,0,2340
+CATAMARCA,Valle Viejo,El Portezuelo,0,0,0,0,0,6,0,0,6
+CATAMARCA,Valle Viejo,San Isidro,0,0,0,2457,0,0,0,5,2462
+CATAMARCA,Valle Viejo,Santa Rosa,0,0,0,759,0,0,0,5,764
+CATAMARCA,Valle Viejo,Villa Dolores,0,0,0,103,0,0,0,5,108
+CATAMARCA,Valle Viejo,Sumalao,0,0,0,1,0,0,0,5,6
+CATAMARCA,Valle Viejo,Polcos,0,0,0,213,0,0,0,0,213
+CATAMARCA,Valle Viejo,Pozo Del Mistol,0,0,0,18,0,0,0,0,18
+CATAMARCA,Valle Viejo,El Bañado,0,0,0,7,0,0,0,0,7
+CATAMARCA,Fray Mamerto Esquiú,San Antonio,0,0,0,4,0,0,0,0,4
+CATAMARCA,Fray Mamerto Esquiú,San José,0,0,0,1,0,0,0,0,1
+CATAMARCA,Fray Mamerto Esquiú,Villa Las Pirquitas,0,0,0,0,0,1,0,0,1
+CATAMARCA,Fray Mamerto Esquiú,La Carrera,0,0,0,0,0,1,0,0,1
+CATAMARCA,Fray Mamerto Esquiú,El Hueco,0,0,0,26,0,0,0,0,26
+CATAMARCA,Fray Mamerto Esquiú,La Falda De San Antonio,0,0,0,0,0,0,0,5,5
+CATAMARCA,Fray Mamerto Esquiú,La Tercena,0,0,0,0,0,0,0,5,5
+CHACO,12 de Octubre,Gancedo,0,0,0,26,0,2,0,76,104
+CHACO,12 de Octubre,General Pinedo,195,0,0,472,0,2,0,0,669
+CHACO,1º de Mayo,Colonia Benítez,153,0,0,11,0,1,0,2,167
+CHACO,1º de Mayo,Margarita Belén,382,0,0,180,0,0,0,77,639
+CHACO,2 de Abril,Hermoso Campo,0,28,0,175,0,1,0,0,204
+CHACO,2 de Abril,Itín,0,0,0,30,478,0,0,0,508
+CHACO,25 de Mayo,Colonia Aborigen,0,0,0,0,0,0,0,46,46
+CHACO,25 de Mayo,Machagai,369,311,0,45,0,0,0,269,994
+CHACO,9 de Julio,Las Breñas,1293,0,0,74,0,1,0,0,1368
+CHACO,Almirante Brown,Concepción del Bermejo,0,0,0,373,0,2,0,230,605
+CHACO,Almirante Brown,Los Frentones,0,0,0,344,0,1,0,0,345
+CHACO,Almirante Brown,Pampa del Infierno,0,0,0,1375,0,6,0,65,1446
+CHACO,Almirante Brown,Taco Pozo,0,0,0,332,0,3,0,0,335
+CHACO,Bermejo,General Vedia,153,0,0,30,0,1,0,205,389
+CHACO,Bermejo,Isla del Cerrito,0,0,0,0,0,1,0,0,1
+CHACO,Bermejo,La Leonesa,556,0,0,0,0,0,0,228,784
+CHACO,Bermejo,Las Palmas,0,0,0,46,0,1,0,306,353
+CHACO,Bermejo,Puerto Bermejo Nuevo,0,0,0,14,0,0,0,51,65
+CHACO,Bermejo,Puerto Eva Perón,0,0,0,15,0,1,0,41,57
+CHACO,Chacabuco,Charata,1924,0,0,1186,0,2,0,230,3342
+CHACO,Comandante Fernández,Presidencia Roque Sáenz Peña,3559,112,0,5972,24,2,0,116,9785
+CHACO,Fray Justo Santa María De Oro,Chorotis,0,0,0,0,25,0,0,0,25
+CHACO,Fray Justo Santa María De Oro,OTROS,0,0,0,0,60,0,0,0,60
+CHACO,Fray Justo Santa María De Oro,Santa Sylvina,0,32,0,0,950,1,0,0,983
+CHACO,General Belgrano,Corzuela,161,0,0,48,0,1,0,28,238
+CHACO,General Donovan,La Escondida,51,209,0,189,0,2,0,0,451
+CHACO,General Donovan,La Verde,14,27,0,39,305,2,0,0,387
+CHACO,General Donovan,Lapachito,1,27,0,61,0,0,0,0,89
+CHACO,General Donovan,Makallé,38,370,0,0,0,1,0,0,409
+CHACO,General Güemes,El Espinillo,0,0,0,0,0,1,0,0,1
+CHACO,General Güemes,El Sauzal,0,0,0,0,0,1,0,62,63
+CHACO,General Güemes,El Sauzalito,0,0,0,0,0,1,0,0,1
+CHACO,General Güemes,Fortín Lavalle,0,0,0,0,0,0,0,36,36
+CHACO,General Güemes,Fuerte Esperanza,0,0,0,8,0,1,0,0,9
+CHACO,General Güemes,Juan José Castelli,599,0,0,294,0,0,0,690,1583
+CHACO,General Güemes,Miraflores,0,0,0,0,0,0,0,630,630
+CHACO,General Güemes,Nueva Pompeya,0,0,0,1,0,3,0,308,312
+CHACO,General Güemes,Villa Río Bermejito,4,0,0,194,0,2,0,222,422
+CHACO,General Güemes,Wichi,0,0,0,0,0,1,0,91,92
+CHACO,Independencia,Avia Terai,85,0,0,42,0,1,0,0,128
+CHACO,Independencia,Campo Largo,125,0,0,482,3,0,0,0,610
+CHACO,Libertad,Laguna Blanca,0,0,0,0,0,2,0,0,2
+CHACO,Libertad,Puerto Tirol,541,1,0,114,0,0,0,163,819
+CHACO,Libertador General San Martín,Ciervo Petiso,0,0,0,0,0,1,0,97,98
+CHACO,Libertador General San Martín,General José de San Martín,511,1130,0,5083,0,0,0,450,7174
+CHACO,Libertador General San Martín,La Eduvigis,0,0,0,0,0,1,0,0,1
+CHACO,Libertador General San Martín,Laguna Limpia,0,0,0,0,0,0,0,32,32
+CHACO,Libertador General San Martín,Pampa Almirón,0,0,0,26,0,0,0,55,81
+CHACO,Libertador General San Martín,Pampa del Indio,0,0,0,25,0,2,0,757,784
+CHACO,Libertador General San Martín,Presidencia Roca,0,0,0,13,0,2,0,196,211
+CHACO,Maipú,Tres Isletas,461,0,0,0,0,0,0,77,538
+CHACO,Mayor Luis J. Fontana,Coronel Du Graty,122,73,0,264,0,1,0,516,976
+CHACO,Mayor Luis J. Fontana,Enrique Urién,0,0,0,37,0,1,0,0,38
+CHACO,Mayor Luis J. Fontana,Villa Angela,2756,1,0,852,0,0,0,406,4015
+CHACO,O Higgins,La Clotilde,0,32,0,78,116,1,0,0,227
+CHACO,O Higgins,La Tigra,1,0,0,0,252,1,0,0,254
+CHACO,O Higgins,San Bernardo,147,0,0,14,38,3,0,0,202
+CHACO,OTROS,OTROS,0,0,0,0,24,0,0,0,24
+CHACO,Presidencia de la Plaza,Presidencia de la Plaza,216,327,0,58,0,0,0,0,601
+CHACO,Quitilipi,Quitilipi,884,0,0,69,0,0,0,123,1076
+CHACO,Quitilipi,Villa El Palmar,0,0,0,0,0,0,0,43,43
+CHACO,San Fernando,Barranqueras,115,3865,0,146,0,0,0,15,4141
+CHACO,San Fernando,Basail,98,67,0,0,0,1,0,57,223
+CHACO,San Fernando,Fontana,0,0,0,110,0,0,0,70,180
+CHACO,San Fernando,OTROS,0,0,0,0,0,3,0,0,3
+CHACO,San Fernando,Puerto Vilelas,0,0,0,9,0,1,0,0,10
+CHACO,San Fernando,Resistencia,11650,55188,5,25299,2,6,0,223,92373
+CHACO,San Lorenzo,Samuhú,0,0,0,0,0,1,0,0,1
+CHACO,San Lorenzo,Villa Berthet,0,0,0,32,0,1,0,755,788
+CHACO,Sargento Cabral,Capitán Solari,0,0,0,81,0,0,0,0,81
+CHACO,Sargento Cabral,Colonia Elisa,0,0,0,0,0,2,0,0,2
+CHACO,Sargento Cabral,Colonias Unidas,0,0,0,250,0,0,0,15,265
+CHACO,Sargento Cabral,Las Garcitas,0,0,0,0,0,1,0,119,120
+CHACO,Tapenagá,Charadai,0,0,0,27,0,1,0,0,28
+CHUBUT,Biedma,Arroyo Verde,0,0,0,0,0,2,0,0,2
+CHUBUT,Biedma,Puerto Madryn,3648,24433,200,3781,5283,9,0,2762,40116
+CHUBUT,Biedma,Puerto Pirámide,0,0,0,0,0,1,0,37,38
+CHUBUT,Biedma,Quinta El Mirador,0,0,0,0,0,0,0,22,22
+CHUBUT,Biedma,Reserva Area Protegida El Doradillo,0,0,0,0,0,0,0,127,127
+CHUBUT,Cushamen,Cholila,0,0,1,0,0,1,0,0,2
+CHUBUT,Cushamen,El Hoyo,216,0,0,319,0,0,0,709,1244
+CHUBUT,Cushamen,Epuyén,1184,0,0,0,0,0,0,0,1184
+CHUBUT,Cushamen,Gualjaina,0,0,0,0,0,2,0,0,2
+CHUBUT,Cushamen,Lago Puelo,315,0,0,59,0,0,0,723,1097
+CHUBUT,Cushamen,Leleque,0,0,0,0,0,2,0,0,2
+CHUBUT,Cushamen,El Maitén,0,0,0,0,0,0,0,1,1
+CHUBUT,Escalante,Comodoro Rivadavia,19602,12473,248,1739,336,37,0,16749,51184
+CHUBUT,Escalante,Diadema Argentina,0,0,0,0,0,0,0,311,311
+CHUBUT,Escalante,Rada Tilly,1143,1,34,1206,54,0,0,443,2881
+CHUBUT,Escalante,Acceso Norte,0,0,0,0,0,1,0,0,1
+CHUBUT,Escalante,Barrio Caleta Cordova,0,0,0,0,0,1,0,0,1
+CHUBUT,Florentino Ameghino,Camarones,0,0,0,0,0,1,0,208,209
+CHUBUT,Florentino Ameghino,Garayalde,0,0,0,0,0,0,0,3,3
+CHUBUT,Futaleufú,Corcovado,0,0,1,0,0,5,0,0,6
+CHUBUT,Futaleufú,Esquel,7142,1522,40,0,0,2,0,4527,13233
+CHUBUT,Futaleufú,Los Cipreses,0,0,0,0,0,1,0,0,1
+CHUBUT,Futaleufú,Trevelín,472,0,19,0,18,1,0,562,1072
+CHUBUT,Futaleufú,Villa Futalaufquen,0,0,0,0,0,5,0,0,5
+CHUBUT,Futaleufú,Aldea Escolar,0,0,0,0,0,1,0,0,1
+CHUBUT,Futaleufú,Lago Rosario,0,0,0,0,0,2,0,0,2
+CHUBUT,Gaiman,28 de Julio,0,0,0,12,1,1,0,0,14
+CHUBUT,Gaiman,Dolavon,0,0,3,55,50,1,0,0,109
+CHUBUT,Gaiman,Gaiman,223,0,15,90,658,2,0,0,988
+CHUBUT,Gaiman,OTROS,0,0,0,0,0,14,0,0,14
+CHUBUT,Gastre,Blancuntre,0,0,0,0,0,1,0,0,1
+CHUBUT,Gastre,El Escorial,0,0,0,0,0,1,0,0,1
+CHUBUT,Gastre,Lagunita Salada,0,0,0,0,0,1,0,7,8
+CHUBUT,Gastre,Yala Laubat,0,0,0,0,0,1,0,0,1
+CHUBUT,Gastre,Gastre,0,0,0,0,0,0,0,103,103
+CHUBUT,Languiñeo,Aldea Epulef,0,0,0,0,0,1,0,5,6
+CHUBUT,Languiñeo,Carrenleufú,0,0,0,0,0,1,0,0,1
+CHUBUT,Languiñeo,Colan Conhue,0,0,0,0,0,1,0,4,5
+CHUBUT,Languiñeo,Paso del Sapo,0,0,0,0,0,2,0,30,32
+CHUBUT,Languiñeo,Tecka,0,0,0,0,0,1,0,0,1
+CHUBUT,Mártires,El Mirasol,0,0,0,0,0,1,0,0,1
+CHUBUT,Mártires,Las Plumas,0,0,0,0,0,1,0,0,1
+CHUBUT,Paso de Indios,Cerro Cóndor,0,1,0,0,0,1,0,0,2
+CHUBUT,Paso de Indios,Los Altares,0,0,0,0,0,1,0,1,2
+CHUBUT,Paso de Indios,Paso de Indios,0,0,0,0,0,1,0,0,1
+CHUBUT,Rawson,Playa Unión,675,209,12,101,1,0,0,421,1419
+CHUBUT,Rawson,Rawson,1747,8805,41,774,300,1,0,343,12011
+CHUBUT,Rawson,Trelew,6877,23051,287,722,1094,3,0,1130,33164
+CHUBUT,Rawson,Playa Magagna,0,1700,0,0,0,0,0,3,1703
+CHUBUT,Río Senguer,Aldea Apeleg,0,0,0,0,0,1,0,1,2
+CHUBUT,Río Senguer,Aldea Beleiro,0,0,0,0,0,2,0,0,2
+CHUBUT,Río Senguer,Alto Río Senguer,0,0,1,0,0,2,0,1,4
+CHUBUT,Río Senguer,Doctor Ricardo Rojas,0,0,0,0,0,1,0,0,1
+CHUBUT,Río Senguer,Facundo,0,0,0,0,0,1,0,41,42
+CHUBUT,Río Senguer,Lago Blanco,0,0,0,0,0,1,0,0,1
+CHUBUT,Río Senguer,Río Mayo,0,0,0,4,0,2,0,180,186
+CHUBUT,Sarmiento,Buen Pasto,0,0,0,0,0,1,0,0,1
+CHUBUT,Sarmiento,SARMIENTO,2133,1,0,712,0,1,0,277,3124
+CHUBUT,Tehuelches,Gobernador Costa,0,0,1,0,0,0,0,0,1
+CHUBUT,Tehuelches,José de San Martín,0,0,0,0,0,1,0,0,1
+CHUBUT,Tehuelches,Río Pico,0,0,1,0,0,2,0,0,3
+CHUBUT,Telsen,Gan Gan,0,0,0,0,1,1,0,11,13
+CHUBUT,Telsen,Telsen,0,16,0,0,0,4,0,42,62
+CORDOBA,Calamuchita,Amboy,0,0,0,0,0,0,0,19,19
+CORDOBA,Calamuchita,Cañada del Sauce,1,0,0,0,0,0,0,0,1
+CORDOBA,Calamuchita,Capilla Vieja,0,0,0,0,0,0,0,5,5
+CORDOBA,Calamuchita,El Corcovado - El Torreón,52,0,0,0,0,0,0,30,82
+CORDOBA,Calamuchita,Embalse,0,0,0,1467,0,1,0,1877,3345
+CORDOBA,Calamuchita,La Cruz,13,0,0,0,0,0,0,362,375
+CORDOBA,Calamuchita,La Cumbrecita,0,0,0,0,0,0,0,250,250
+CORDOBA,Calamuchita,Las Bajadas,0,0,0,0,0,0,0,16,16
+CORDOBA,Calamuchita,Los Cóndores,423,0,0,0,0,1,0,507,931
+CORDOBA,Calamuchita,Los Molinos,0,0,0,0,0,0,0,42,42
+CORDOBA,Calamuchita,Los Reartes,30,0,0,342,0,1,0,375,748
+CORDOBA,Calamuchita,Parque Calmayo,0,0,0,0,0,0,0,36,36
+CORDOBA,Calamuchita,San Agustín,110,0,0,0,0,0,0,1,111
+CORDOBA,Calamuchita,San Ignacio (Loteo San Javier),0,0,0,0,0,0,0,11,11
+CORDOBA,Calamuchita,Santa Rosa de Calamuchita,1355,815,0,119,0,0,0,3079,5368
+CORDOBA,Calamuchita,Villa Alpina,0,0,0,0,0,0,0,2,2
+CORDOBA,Calamuchita,Villa Amancay,0,0,0,0,0,0,0,39,39
+CORDOBA,Calamuchita,Villa Berna,31,0,0,0,0,0,0,6,37
+CORDOBA,Calamuchita,Villa Ciudad Parque Los Reartes (1a. Sección),0,0,0,0,0,0,0,219,219
+CORDOBA,Calamuchita,Villa Ciudad Parque Los Reartes (3a. Sección),0,0,0,0,0,0,0,8,8
+CORDOBA,Calamuchita,Villa del Dique,555,0,0,256,128,0,0,866,1805
+CORDOBA,Calamuchita,Villa General Belgrano,0,31,0,0,0,1,0,1129,1161
+CORDOBA,Calamuchita,Villa Quillinzo,0,0,0,0,0,0,0,84,84
+CORDOBA,Calamuchita,Villa Rumipal,0,0,0,43,0,0,0,937,980
+CORDOBA,Calamuchita,Villa San Miguel,0,0,0,0,0,0,0,5,5
+CORDOBA,Calamuchita,Villa Yacanto,0,0,0,0,0,0,0,7,7
+CORDOBA,Calamuchita,Las Caleras,0,0,0,0,0,0,0,7,7
+CORDOBA,Calamuchita,San Ignacio (Loteo Vélez Crespo),0,0,0,0,0,0,0,9,9
+CORDOBA,Calamuchita,Segunda Usina,0,0,0,0,0,0,0,61,61
+CORDOBA,Calamuchita,Río de los Sauces,0,0,0,0,0,0,0,1,1
+CORDOBA,Calamuchita,Villa Ciudad Parque Los Reartes,0,400,0,0,0,0,0,0,400
+CORDOBA,Capital,Córdoba,58016,222667,44,208950,1218,11,0,4276,495182
+CORDOBA,Capital,OTROS,0,0,0,0,0,0,0,695,695
+CORDOBA,Colón,Agua de Oro,370,0,0,65,0,0,0,65,500
+CORDOBA,Colón,Ascochinga,124,0,0,1,0,0,0,0,125
+CORDOBA,Colón,Colonia Caroya,1132,505,0,6155,0,0,0,31,7823
+CORDOBA,Colón,El Manzano,125,0,0,0,0,0,0,20,145
+CORDOBA,Colón,General Paz,167,0,0,0,0,0,0,0,167
+CORDOBA,Colón,Jesús María,1133,3877,0,6526,0,0,0,15,11551
+CORDOBA,Colón,La Calera,1197,6525,0,1352,316,1,0,496,9887
+CORDOBA,Colón,La Granja,437,0,0,1,0,0,0,26,464
+CORDOBA,Colón,Los Molles,0,0,0,0,0,2,0,0,2
+CORDOBA,Colón,Malvinas Argentinas,1122,0,0,291,0,0,0,229,1642
+CORDOBA,Colón,Mendiolaza,821,2606,0,841,2,0,0,195,4465
+CORDOBA,Colón,OTROS,0,0,0,0,0,0,0,287,287
+CORDOBA,Colón,Pajas Blancas,0,0,0,0,0,0,0,19,19
+CORDOBA,Colón,Río Ceballos,1049,5510,0,4,1,2,0,444,7010
+CORDOBA,Colón,Saldán,69,4193,0,73,0,0,0,270,4605
+CORDOBA,Colón,Salsipuedes,891,467,0,9,0,0,0,387,1754
+CORDOBA,Colón,Unquillo,2198,873,0,905,0,0,0,603,4579
+CORDOBA,Colón,Villa Allende,1,6366,0,1885,4,0,0,345,8601
+CORDOBA,Colón,Villa Cerro Azul,75,0,0,0,0,0,0,20,95
+CORDOBA,Colón,Villa El Fachinal - Parque Norte - Guiñazú Norte,388,0,0,0,0,1,0,0,389
+CORDOBA,Colón,Villa Los Llanos - Juárez Celman,508,0,0,499,0,0,0,360,1367
+CORDOBA,Colón,Dumesnil,0,0,0,34,0,0,0,0,34
+CORDOBA,Colón,Mi Granja,0,0,0,5,0,0,0,0,5
+CORDOBA,Cruz del Eje,Alto de los Quebrachos,0,0,0,0,6,0,0,1,7
+CORDOBA,Cruz del Eje,Bañado de Soto,0,0,0,0,0,0,0,8,8
+CORDOBA,Cruz del Eje,Canteras Quilpo,0,0,0,0,0,0,0,2,2
+CORDOBA,Cruz del Eje,Cruz de Caña,0,0,0,0,0,0,0,2,2
+CORDOBA,Cruz del Eje,Cruz del Eje,1565,1733,0,3055,0,0,0,575,6928
+CORDOBA,Cruz del Eje,El Brete,0,0,0,1,0,0,0,65,66
+CORDOBA,Cruz del Eje,Guanaco Muerto,0,0,0,0,0,0,0,17,17
+CORDOBA,Cruz del Eje,La Banda,0,0,0,0,0,1,0,0,1
+CORDOBA,Cruz del Eje,La Batea,0,0,0,0,0,0,0,1,1
+CORDOBA,Cruz del Eje,La Higuera,18,0,0,0,0,0,0,2,20
+CORDOBA,Cruz del Eje,Las Playas,0,0,0,1,0,0,0,176,177
+CORDOBA,Cruz del Eje,Los Chañaritos,0,0,0,1,0,0,0,9,10
+CORDOBA,Cruz del Eje,Media Naranja,0,0,0,0,0,0,0,60,60
+CORDOBA,Cruz del Eje,Paso Viejo,72,0,0,0,0,0,0,21,93
+CORDOBA,Cruz del Eje,San Marcos Sierra,0,16,0,429,0,0,0,199,644
+CORDOBA,Cruz del Eje,Serrezuela,102,0,0,10,0,0,0,2,114
+CORDOBA,Cruz del Eje,Tuclame,0,0,0,0,0,0,0,3,3
+CORDOBA,Cruz del Eje,Villa de Soto,625,0,0,341,0,2,0,293,1261
+CORDOBA,General Roca,Del Campillo,1050,0,0,0,0,1,0,0,1051
+CORDOBA,General Roca,Hipólito Bouchard,0,0,0,0,0,1,0,0,1
+CORDOBA,General Roca,Huinca Renancó,572,0,1,1294,0,0,0,1097,2964
+CORDOBA,General Roca,ITALÓ,0,0,0,0,171,0,0,0,171
+CORDOBA,General Roca,Nicolás Bruzzone,0,0,0,0,0,0,0,91,91
+CORDOBA,General Roca,PINCÉN,0,0,0,0,9,0,0,0,9
+CORDOBA,General Roca,Villa Huidobro,0,789,10,2,0,1,0,1099,1901
+CORDOBA,General Roca,Villa Valeria,632,0,0,0,0,1,0,216,849
+CORDOBA,General Roca,Santa Magdalena (Est. Jovita),0,1666,0,37,0,0,0,82,1785
+CORDOBA,General San Martín,Arroyo Cabral,4,393,0,2,0,1,0,276,676
+CORDOBA,General San Martín,Ausonia,0,0,0,1,0,0,0,0,1
+CORDOBA,General San Martín,Chazón,0,388,0,0,0,0,0,0,388
+CORDOBA,General San Martín,Etruria,47,1,0,0,2,1,0,0,51
+CORDOBA,General San Martín,La Laguna,524,0,0,0,0,0,0,0,524
+CORDOBA,General San Martín,La Playosa,650,0,0,0,0,1,0,70,721
+CORDOBA,General San Martín,Pasco,0,0,0,1,0,0,0,0,1
+CORDOBA,General San Martín,Silvio Pellico,150,0,0,0,0,0,0,65,215
+CORDOBA,General San Martín,Ticino,0,663,0,6,0,2,0,0,671
+CORDOBA,General San Martín,Tío Pujio,567,0,0,2,0,0,0,53,622
+CORDOBA,General San Martín,Villa María,2354,15284,0,10543,0,1,0,2022,30204
+CORDOBA,General San Martín,Villa Nueva,1120,2288,0,1001,1,1,0,993,5404
+CORDOBA,General San Martín,Arroyo Algodón,0,0,0,1,0,0,0,0,1
+CORDOBA,Ischilín,Chuña,0,0,0,0,0,2,0,102,104
+CORDOBA,Ischilín,Copacabana,0,0,0,0,0,0,0,12,12
+CORDOBA,Ischilín,Deán Funes,1950,1948,0,263,0,1,0,0,4162
+CORDOBA,Ischilín,Esquina del Alambre,0,0,0,0,0,0,0,1,1
+CORDOBA,Ischilín,Olivares de San Nicolás,0,0,0,0,0,0,0,1,1
+CORDOBA,Ischilín,Quilino,205,0,0,94,0,0,0,0,299
+CORDOBA,Ischilín,Villa Quilino,0,0,0,36,0,0,0,0,36
+CORDOBA,Juárez Celman,Alejandro Roca (Est. Alejandro),439,0,0,0,0,0,0,235,674
+CORDOBA,Juárez Celman,Bengolea,0,0,0,269,0,0,0,0,269
+CORDOBA,Juárez Celman,Carnerillo,129,0,0,505,23,1,0,222,880
+CORDOBA,Juárez Celman,Charras,0,0,0,1,0,0,0,12,13
+CORDOBA,Juárez Celman,General Cabrera,986,0,0,0,0,0,0,0,986
+CORDOBA,Juárez Celman,General Deheza,10,1126,0,3464,0,0,0,0,4600
+CORDOBA,Juárez Celman,Huanchillas,0,0,0,11,0,0,0,0,11
+CORDOBA,Juárez Celman,La Carlota,986,0,0,0,0,0,0,0,986
+CORDOBA,Juárez Celman,Los Cisnes,2,165,0,0,0,0,0,0,167
+CORDOBA,Juárez Celman,Olaeta,0,65,0,0,0,0,0,0,65
+CORDOBA,Juárez Celman,Santa Eufemia,0,587,0,0,0,1,0,57,645
+CORDOBA,Juárez Celman,Ucacha,143,1747,0,1,0,0,0,59,1950
+CORDOBA,Juárez Celman,Villa Reducción,0,0,0,0,0,0,0,232,232
+CORDOBA,Marcos Juárez,Alejo Ledesma,0,0,0,1,0,3,0,79,83
+CORDOBA,Marcos Juárez,Arias,493,0,0,0,0,0,0,0,493
+CORDOBA,Marcos Juárez,Camilo Aldao,1155,0,0,0,0,1,0,0,1156
+CORDOBA,Marcos Juárez,Colonia Italiana,0,158,0,0,31,0,0,10,199
+CORDOBA,Marcos Juárez,Corral de Bustos,752,4591,0,1027,1796,0,0,46,8212
+CORDOBA,Marcos Juárez,Cruz Alta,669,0,0,1,0,1,0,0,671
+CORDOBA,Marcos Juárez,General Baldissera,451,0,0,0,0,1,0,0,452
+CORDOBA,Marcos Juárez,General Roca,1127,0,0,1,0,2,0,0,1130
+CORDOBA,Marcos Juárez,Guatimozín,170,0,0,601,596,1,0,30,1398
+CORDOBA,Marcos Juárez,Inriville,233,0,0,0,0,0,0,89,322
+CORDOBA,Marcos Juárez,Isla Verde,765,262,0,0,0,0,0,0,1027
+CORDOBA,Marcos Juárez,Leones,167,2548,0,1,0,0,0,23,2739
+CORDOBA,Marcos Juárez,Los Surgentes,757,0,0,6,0,1,0,0,764
+CORDOBA,Marcos Juárez,Marcos Juárez,652,9716,0,2,0,0,0,239,10609
+CORDOBA,Marcos Juárez,Monte Buey,1563,0,0,0,0,0,0,0,1563
+CORDOBA,Marcos Juárez,Villa Elisa,1031,0,12,0,0,0,0,0,1043
+CORDOBA,Marcos Juárez,Saira,234,0,0,0,0,0,0,0,234
+CORDOBA,Marcos Juárez,Capitán General Bernardo O'Higgins,0,0,0,30,0,0,0,141,171
+CORDOBA,Marcos Juárez,Cavanagh,0,0,0,0,0,0,0,322,322
+CORDOBA,Minas,Ciénaga del Coro,0,0,0,1,0,0,0,64,65
+CORDOBA,Minas,La Playa,0,0,0,0,0,0,0,53,53
+CORDOBA,Minas,San Carlos Minas,204,0,0,2,0,0,0,290,496
+CORDOBA,Minas,Tosno,0,0,0,0,0,0,0,27,27
+CORDOBA,Minas,El Chacho,0,0,0,1,0,0,0,173,174
+CORDOBA,Minas,Estancia de Guadalupe,0,0,0,0,0,0,0,35,35
+CORDOBA,Minas,Guasapampa,0,0,0,0,0,0,0,34,34
+CORDOBA,Minas,Talaini,0,0,0,0,0,0,0,23,23
+CORDOBA,OTROS,OTROS,0,0,0,0,485,0,0,268,753
+CORDOBA,Pocho,Chancani,0,0,0,0,0,0,0,97,97
+CORDOBA,Pocho,Las Palmas,0,0,0,0,0,0,0,9,9
+CORDOBA,Pocho,Salsacate,155,0,0,3,0,1,0,298,457
+CORDOBA,Pocho,Villa de Pocho,0,0,0,0,0,0,0,40,40
+CORDOBA,Pocho,Los Talares,0,0,0,0,0,0,0,39,39
+CORDOBA,Pocho,San Gerónimo,0,0,0,0,0,0,0,11,11
+CORDOBA,Pocho,Tala Cañada,0,0,0,0,0,0,0,39,39
+CORDOBA,Pocho,Taninga,0,0,0,0,0,0,0,167,167
+CORDOBA,Presidente Roque Sáenz Peña,General Levalle,3,2441,0,1,29,0,0,148,2622
+CORDOBA,Presidente Roque Sáenz Peña,La Cesira,395,0,0,2,17,1,0,38,453
+CORDOBA,Presidente Roque Sáenz Peña,Laboulaye,1088,5570,0,1,1,0,0,668,7328
+CORDOBA,Presidente Roque Sáenz Peña,Melo,0,0,0,10,21,0,0,389,420
+CORDOBA,Presidente Roque Sáenz Peña,Río Bamba,0,0,0,0,0,0,0,29,29
+CORDOBA,Presidente Roque Sáenz Peña,Rosales,0,0,0,0,0,0,0,132,132
+CORDOBA,Presidente Roque Sáenz Peña,Serrano,0,1033,0,0,0,1,0,81,1115
+CORDOBA,Presidente Roque Sáenz Peña,San Joaquín,0,0,0,0,0,0,0,42,42
+CORDOBA,Presidente Roque Sáenz Peña,Leguizamón,0,0,0,1,0,0,0,0,1
+CORDOBA,Punilla,Bialet Massé,941,0,0,1,0,0,0,333,1275
+CORDOBA,Punilla,Cabalango,0,0,0,0,0,0,0,207,207
+CORDOBA,Punilla,Capilla del Monte,1643,457,0,0,0,0,0,282,2382
+CORDOBA,Punilla,Casa Grande,0,0,0,0,0,0,0,57,57
+CORDOBA,Punilla,Charbonier,0,0,0,0,0,0,0,102,102
+CORDOBA,Punilla,Cosquín,1307,4694,0,0,0,0,0,113,6114
+CORDOBA,Punilla,Cuesta Blanca,0,0,0,0,0,0,0,40,40
+CORDOBA,Punilla,Estancia Vieja,0,0,0,0,0,0,0,216,216
+CORDOBA,Punilla,Huerta Grande,0,109,0,416,0,0,0,103,628
+CORDOBA,Punilla,La Cumbre,1044,0,0,0,0,0,0,175,1219
+CORDOBA,Punilla,La Falda,1336,4689,0,8,0,0,0,26,6059
+CORDOBA,Punilla,Las Jarillas,0,0,0,0,0,0,0,4,4
+CORDOBA,Punilla,Los Cocos,206,0,0,0,0,0,0,52,258
+CORDOBA,Punilla,Mayu Sumaj,0,128,0,0,0,0,0,49,177
+CORDOBA,Punilla,San Antonio de Arredondo,0,1322,0,1,0,0,0,112,1435
+CORDOBA,Punilla,San Esteban,62,0,0,0,0,0,0,42,104
+CORDOBA,Punilla,San Roque,0,0,0,0,0,0,0,233,233
+CORDOBA,Punilla,Santa María de Punilla,1273,0,0,2,1,0,0,113,1389
+CORDOBA,Punilla,Tala Huasi,0,0,0,0,0,0,0,15,15
+CORDOBA,Punilla,Tanti,0,0,0,0,225,0,0,373,598
+CORDOBA,Punilla,Valle Hermoso,913,16,0,0,0,0,0,116,1045
+CORDOBA,Punilla,Villa Carlos Paz,1857,21973,0,6,1,2,0,642,24481
+CORDOBA,Punilla,Villa Giardino,992,0,0,365,0,0,0,253,1610
+CORDOBA,Punilla,Villa Parque Siquimán,0,0,0,0,0,0,0,285,285
+CORDOBA,Punilla,Villa Río Icho Cruz,0,0,0,0,0,0,0,147,147
+CORDOBA,Punilla,Villa Santa Cruz del Lago,272,0,0,0,0,0,0,279,551
+CORDOBA,Río Cuarto,Achiras,0,0,0,50,0,0,0,258,308
+CORDOBA,Río Cuarto,Adelia María,353,2469,0,15,0,0,0,179,3016
+CORDOBA,Río Cuarto,Alcira (Est. Gigena),464,0,0,883,0,1,0,0,1348
+CORDOBA,Río Cuarto,ALPA CORRAL,0,0,0,0,160,0,0,0,160
+CORDOBA,Río Cuarto,Berrotarán,609,1445,0,2,0,0,0,133,2189
+CORDOBA,Río Cuarto,Bulnes,50,0,0,0,0,1,0,0,51
+CORDOBA,Río Cuarto,Chaján,0,0,0,78,0,1,0,0,79
+CORDOBA,Río Cuarto,Chucul,19,0,0,3,0,0,0,74,96
+CORDOBA,Río Cuarto,Coronel Moldes,501,0,0,0,1340,0,0,0,1841
+CORDOBA,Río Cuarto,Elena,139,0,0,596,0,0,0,86,821
+CORDOBA,Río Cuarto,La Carolina,7,0,0,0,0,2,0,66,75
+CORDOBA,Río Cuarto,Las Acequias,422,0,0,8,0,0,0,0,430
+CORDOBA,Río Cuarto,LAS ALBAHACAS,9,0,0,0,14,0,0,0,23
+CORDOBA,Río Cuarto,Las Higueras,256,573,0,645,0,0,0,0,1474
+CORDOBA,Río Cuarto,Las Peñas,5,0,0,0,0,0,0,25,30
+CORDOBA,Río Cuarto,Las Vertientes,48,0,0,25,0,0,0,0,73
+CORDOBA,Río Cuarto,Malena,1,0,0,0,0,0,0,0,1
+CORDOBA,Río Cuarto,OTROS,0,0,0,1,30,0,0,0,31
+CORDOBA,Río Cuarto,Río Cuarto,6460,39139,1,18376,0,6,0,1254,65236
+CORDOBA,Río Cuarto,SAMPACHO,588,0,0,29,1070,0,0,219,1906
+CORDOBA,Río Cuarto,San Basilio,37,0,0,865,0,1,0,0,903
+CORDOBA,Río Cuarto,Santa Catalina (Est. Holmberg),456,0,0,511,0,0,0,178,1145
+CORDOBA,Río Cuarto,Vicuña Mackenna,2268,1472,0,71,0,1,0,0,3812
+CORDOBA,Río Cuarto,VILLA EL CHACAY,0,0,0,0,4,0,0,0,4
+CORDOBA,Río Cuarto,Washington,0,0,0,0,0,0,0,38,38
+CORDOBA,Río Cuarto,Coronel Baigorria,0,0,0,0,0,0,0,74,74
+CORDOBA,Río Primero,Cañada de Machado,0,0,0,0,0,0,0,11,11
+CORDOBA,Río Primero,Esquina,0,0,0,56,0,1,0,0,57
+CORDOBA,Río Primero,La Para,0,1167,0,4,0,1,0,154,1326
+CORDOBA,Río Primero,La Puerta,0,0,0,1,0,0,0,100,101
+CORDOBA,Río Primero,Montecristo,217,0,0,1331,0,2,0,185,1735
+CORDOBA,Río Primero,OTROS,0,0,0,0,0,0,0,20,20
+CORDOBA,Río Primero,Piquillín,158,0,0,0,0,0,0,0,158
+CORDOBA,Río Primero,Río Primero,1206,0,0,703,0,0,0,187,2096
+CORDOBA,Río Primero,Santa Rosa de Río Primero,363,0,0,806,0,0,0,339,1508
+CORDOBA,Río Primero,Villa Fontana,0,0,0,170,0,0,0,231,401
+CORDOBA,Río Primero,Diego de Rojas,0,0,0,1,0,0,0,0,1
+CORDOBA,Río Primero,La Quinta,0,0,0,0,0,0,0,20,20
+CORDOBA,Río Seco,Sebastián Elcano,0,0,0,2,0,0,0,0,2
+CORDOBA,Río Seco,Villa de María,0,610,0,0,427,0,0,242,1279
+CORDOBA,Río Seco,Cerro Colorado,0,0,0,0,0,0,0,60,60
+CORDOBA,Río Seco,Rayo Cortado,0,0,0,0,0,0,0,57,57
+CORDOBA,Río Segundo,Capilla del Carmen,0,138,0,0,0,0,0,15,153
+CORDOBA,Río Segundo,Carrilobo,0,599,0,0,0,1,0,60,660
+CORDOBA,Río Segundo,Colazo,0,0,0,2,0,1,0,0,3
+CORDOBA,Río Segundo,Costasacate,126,0,0,153,0,0,0,12,291
+CORDOBA,Río Segundo,Laguna Larga,748,0,0,1,0,0,0,704,1453
+CORDOBA,Río Segundo,Las Junturas,62,0,0,514,0,1,0,0,577
+CORDOBA,Río Segundo,Los Chañaritos,6,0,0,32,0,0,0,31,69
+CORDOBA,Río Segundo,Luque,46,637,0,431,0,0,0,20,1134
+CORDOBA,Río Segundo,Manfredi,76,0,0,4,0,0,0,0,80
+CORDOBA,Río Segundo,Oncativo,2514,73,0,152,0,0,0,436,3175
+CORDOBA,Río Segundo,Pilar,1951,0,0,206,377,2,0,1402,3938
+CORDOBA,Río Segundo,Pozo del Molle,0,1892,0,0,0,0,0,0,1892
+CORDOBA,Río Segundo,Rincón,0,126,0,0,0,0,0,17,143
+CORDOBA,Río Segundo,Río Segundo,2416,0,0,509,580,0,0,1404,4909
+CORDOBA,Río Segundo,Santiago Temple,95,653,0,0,0,1,0,81,830
+CORDOBA,Río Segundo,Villa del Rosario,141,7257,0,0,0,0,0,71,7469
+CORDOBA,Río Segundo,Calchín,0,894,0,0,0,0,0,28,922
+CORDOBA,San Alberto,Arroyo Los Patos,0,40,0,20,0,0,0,5,65
+CORDOBA,San Alberto,El Huayco,66,0,0,0,0,0,0,6,72
+CORDOBA,San Alberto,La Cortadera,0,0,0,1,0,0,0,0,1
+CORDOBA,San Alberto,Las Calles,0,0,0,12,0,0,0,47,59
+CORDOBA,San Alberto,Las Rabonas,0,0,0,15,0,0,0,32,47
+CORDOBA,San Alberto,Mina Clavero,1853,302,0,187,0,0,0,0,2342
+CORDOBA,San Alberto,Nono,215,30,0,122,0,0,0,35,402
+CORDOBA,San Alberto,San Huberto,0,0,0,3,0,0,0,27,30
+CORDOBA,San Alberto,San Lorenzo,0,0,0,1,0,0,0,20,21
+CORDOBA,San Alberto,San Pedro,0,0,0,6,0,0,0,403,409
+CORDOBA,San Alberto,San Vicente,0,0,0,6,0,0,0,33,39
+CORDOBA,San Alberto,Sauce Arriba,0,0,0,0,0,0,0,21,21
+CORDOBA,San Alberto,Villa Cura Brochero,0,180,0,125,0,0,0,3,308
+CORDOBA,San Alberto,Villa Sarmiento,1,0,0,0,0,0,0,423,424
+CORDOBA,San Javier,Conlara,0,0,0,0,0,0,0,24,24
+CORDOBA,San Javier,Cruz Caña,0,0,0,0,0,0,0,41,41
+CORDOBA,San Javier,Dos Arroyos,0,0,0,0,0,0,0,5,5
+CORDOBA,San Javier,El Pantanillo,0,0,0,0,0,0,0,4,4
+CORDOBA,San Javier,La Paz,0,0,0,0,0,1,0,268,269
+CORDOBA,San Javier,La Población,0,0,0,0,0,0,0,78,78
+CORDOBA,San Javier,La Ramada,0,0,0,0,0,0,0,14,14
+CORDOBA,San Javier,La Travesía,0,0,0,0,0,0,0,49,49
+CORDOBA,San Javier,Las Chacras,0,0,0,2,0,0,0,0,2
+CORDOBA,San Javier,Las Tapias,0,0,0,0,0,0,0,251,251
+CORDOBA,San Javier,Loma Bola,0,0,0,0,0,0,0,20,20
+CORDOBA,San Javier,Los Cerrillos,0,0,0,0,0,0,0,64,64
+CORDOBA,San Javier,Los Hornillos,290,0,0,0,0,0,0,43,333
+CORDOBA,San Javier,Los Molles,0,0,0,0,0,0,0,36,36
+CORDOBA,San Javier,Los Romeros,0,0,0,0,0,0,0,9,9
+CORDOBA,San Javier,Luyaba,0,0,0,0,0,0,0,124,124
+CORDOBA,San Javier,Quebracho Ladeado,0,0,0,0,0,0,0,10,10
+CORDOBA,San Javier,Quebrada de los Pozos,0,0,0,0,0,1,0,81,82
+CORDOBA,San Javier,San Javier y Yacanto,0,0,0,0,0,0,0,280,280
+CORDOBA,San Javier,San José,0,0,0,0,0,0,0,69,69
+CORDOBA,San Javier,Villa de las Rosas,0,0,0,0,0,0,0,329,329
+CORDOBA,San Javier,Villa Dolores,901,802,0,4892,0,0,0,2167,8762
+CORDOBA,San Javier,Villa La Viña,0,0,0,0,0,0,0,6,6
+CORDOBA,San Justo,Alicia,0,360,0,858,0,1,0,0,1219
+CORDOBA,San Justo,Altos de Chipión,606,0,0,0,0,1,0,0,607
+CORDOBA,San Justo,Arroyito,538,6608,0,2121,0,1,58,103,9429
+CORDOBA,San Justo,Brinkmann,188,0,0,2547,0,0,0,0,2735
+CORDOBA,San Justo,Colonia Anita,0,0,0,0,0,0,0,4,4
+CORDOBA,San Justo,Colonia Las Pichanas,0,0,0,0,0,0,0,43,43
+CORDOBA,San Justo,Colonia Marina,0,203,0,171,0,1,0,103,478
+CORDOBA,San Justo,Colonia San Bartolomé,0,0,0,0,0,0,0,390,390
+CORDOBA,San Justo,Devoto,611,0,0,2,1,0,0,0,614
+CORDOBA,San Justo,El Arañado,0,479,0,0,0,1,0,66,546
+CORDOBA,San Justo,El Fuertecito,0,0,0,0,0,0,0,9,9
+CORDOBA,San Justo,El Tío,30,526,0,126,0,0,0,0,682
+CORDOBA,San Justo,Estación Luxardo,0,0,0,0,0,0,0,36,36
+CORDOBA,San Justo,Freyre,268,2230,0,0,0,0,0,63,2561
+CORDOBA,San Justo,La Francia,620,0,0,495,0,0,0,119,1234
+CORDOBA,San Justo,La Tordilla,435,0,0,0,0,0,0,45,480
+CORDOBA,San Justo,Las Varillas,514,3948,0,2767,0,1,0,0,7230
+CORDOBA,San Justo,Marull,0,0,0,485,0,1,0,235,721
+CORDOBA,San Justo,Miramar,0,735,0,0,137,0,0,158,1030
+CORDOBA,San Justo,Morteros,202,0,0,6554,0,0,0,0,6756
+CORDOBA,San Justo,Plaza Luxardo,0,0,0,0,0,0,0,6,6
+CORDOBA,San Justo,Plaza San Francisco,0,0,0,0,0,0,0,9,9
+CORDOBA,San Justo,Porteña,804,0,0,1123,0,0,0,70,1997
+CORDOBA,San Justo,Quebracho Herrado,0,0,0,0,0,0,0,18,18
+CORDOBA,San Justo,Sacanta,0,923,0,257,0,1,0,120,1301
+CORDOBA,San Justo,San Francisco,3271,16552,0,7,60,0,0,1222,21112
+CORDOBA,San Justo,Saturnino María Laspiur,0,758,0,0,0,1,0,0,759
+CORDOBA,San Justo,Tránsito,77,1025,0,0,0,0,0,118,1220
+CORDOBA,San Justo,Villa Concepción del Tío,0,245,0,0,0,0,0,132,377
+CORDOBA,San Justo,Villa San Esteban,0,0,0,0,0,0,0,28,28
+CORDOBA,San Justo,Toro Pujio,77,0,0,0,0,0,0,0,77
+CORDOBA,San Justo,Colonia Vignaud,94,0,0,102,0,0,0,0,196
+CORDOBA,San Justo,Seeber,66,0,0,0,0,0,0,0,66
+CORDOBA,San Justo,El Fortín,0,395,0,0,0,0,0,63,458
+CORDOBA,San Justo,Las Varas,0,0,0,148,11,0,0,0,159
+CORDOBA,San Justo,Villa del Tránsito,0,0,0,0,0,0,0,51,51
+CORDOBA,San Justo,La Paquita,270,0,0,0,0,0,0,76,346
+CORDOBA,Santa María,Alta Gracia,3452,1452,0,10895,0,0,0,327,16126
+CORDOBA,Santa María,Anisacate,416,0,0,0,0,0,0,107,523
+CORDOBA,Santa María,Despeñaderos,1287,0,0,236,0,0,0,158,1681
+CORDOBA,Santa María,La Cumbrecita,0,0,0,0,0,0,0,2,2
+CORDOBA,Santa María,La Paisanita,33,0,0,0,0,0,0,1,34
+CORDOBA,Santa María,La Rancherita,0,0,0,0,0,0,0,1,1
+CORDOBA,Santa María,La Serranita,0,0,0,0,0,0,0,1,1
+CORDOBA,Santa María,Lozada,0,0,0,0,0,0,0,1,1
+CORDOBA,Santa María,Malagueño,49,0,0,16,0,0,0,383,448
+CORDOBA,Santa María,Monte Ralo,0,0,0,0,0,0,0,23,23
+CORDOBA,Santa María,OTROS,0,0,0,0,0,0,0,602,602
+CORDOBA,Santa María,Potrero de Garay,0,0,0,2,0,0,0,828,830
+CORDOBA,Santa María,Rafael García,0,0,0,0,0,0,0,1,1
+CORDOBA,Santa María,San Nicolás,7,0,0,0,0,0,0,0,7
+CORDOBA,Santa María,Toledo,517,0,0,163,0,0,0,4,684
+CORDOBA,Santa María,Valle de Anisacate,0,0,0,0,0,0,0,62,62
+CORDOBA,Santa María,Villa Ciudad de América (Loteo Diego de Rojas),0,0,0,0,0,0,0,232,232
+CORDOBA,Santa María,Villa del Prado,0,0,0,1,0,0,0,49,50
+CORDOBA,Santa María,Villa La Bolsa,0,0,0,0,0,0,0,54,54
+CORDOBA,Santa María,Villa Los Aromos,98,0,0,0,0,0,0,62,160
+CORDOBA,Santa María,Villa Parque Santa Ana,268,0,0,0,0,0,0,0,268
+CORDOBA,Santa María,Villa San Isidro - José de la Quintana,0,0,0,0,0,0,0,63,63
+CORDOBA,Santa María,La Donosa,0,0,0,0,0,0,0,74,74
+CORDOBA,Santa María,José de la Quintana,0,0,0,0,0,0,0,10,10
+CORDOBA,Sobremonte,San Francisco del Chañar,0,0,0,1,0,1,0,0,2
+CORDOBA,Sobremonte,Caminiaga,0,0,0,2,0,0,0,0,2
+CORDOBA,Tercero Arriba,Almafuerte,836,2554,0,3,5,0,0,351,3749
+CORDOBA,Tercero Arriba,Colonia Almada,0,0,0,0,0,0,0,1,1
+CORDOBA,Tercero Arriba,Corralito,0,0,0,151,265,1,0,35,452
+CORDOBA,Tercero Arriba,General Fotheringham,31,0,0,0,0,0,0,40,71
+CORDOBA,Tercero Arriba,Hernando,372,3031,0,3,0,0,0,0,3406
+CORDOBA,Tercero Arriba,James Craik,229,622,0,2,0,0,0,637,1490
+CORDOBA,Tercero Arriba,Las Isletillas,0,0,0,0,0,0,0,8,8
+CORDOBA,Tercero Arriba,Las Perdices,949,0,0,0,0,1,0,33,983
+CORDOBA,Tercero Arriba,Oliva,1532,0,0,1893,0,0,0,162,3587
+CORDOBA,Tercero Arriba,Pampayasta Sur,0,0,0,3,0,1,0,0,4
+CORDOBA,Tercero Arriba,Río Tercero,614,8810,0,10001,0,1,0,1168,20594
+CORDOBA,Tercero Arriba,Tancacha,1305,0,0,0,0,1,0,184,1490
+CORDOBA,Tercero Arriba,Villa Ascasubi,0,0,0,0,0,0,0,849,849
+CORDOBA,Tercero Arriba,Pampayasta Norte,0,0,0,0,0,0,0,1,1
+CORDOBA,Tercero Arriba,Punta del Agua,0,0,0,0,0,0,0,1,1
+CORDOBA,Tercero Arriba,Dalmacio Vélez,0,0,0,460,0,0,0,0,460
+CORDOBA,Totoral,Las Peñas,37,0,0,0,0,0,0,231,268
+CORDOBA,Totoral,SARMIENTO,71,0,0,0,0,0,0,0,71
+CORDOBA,Totoral,Sinsacate,59,0,0,828,0,0,0,12,899
+CORDOBA,Totoral,Villa del Totoral,678,0,0,430,0,0,0,448,1556
+CORDOBA,Tulumba,Las Arrias,7,0,0,0,0,0,0,0,7
+CORDOBA,Tulumba,San José de la Dormida,125,0,0,0,0,1,0,263,389
+CORDOBA,Tulumba,Villa Tulumba,0,0,0,2,0,0,0,169,171
+CORDOBA,Tulumba,San Pedro Norte,0,0,0,0,0,0,0,62,62
+CORDOBA,Tulumba,Rosario del Saladillo,0,0,0,2,0,0,0,0,2
+CORDOBA,Unión,Alto Alegre,140,155,0,1,0,0,0,0,296
+CORDOBA,Unión,Ballesteros,596,0,0,77,0,0,0,65,738
+CORDOBA,Unión,Ballesteros Sur,0,0,0,1,0,0,0,70,71
+CORDOBA,Unión,Bell Ville,567,8032,0,3330,0,0,0,0,11929
+CORDOBA,Unión,Benjamín Gould,0,0,0,0,0,0,0,76,76
+CORDOBA,Unión,Canals,185,0,0,515,0,0,0,418,1118
+CORDOBA,Unión,Chilibroste,146,0,0,1,0,0,0,6,153
+CORDOBA,Unión,Cintra,315,0,0,1,0,1,0,76,393
+CORDOBA,Unión,Idiazabal,0,0,0,459,0,1,0,1,461
+CORDOBA,Unión,Justiniano Posse,0,0,0,2871,0,0,0,1,2872
+CORDOBA,Unión,Laborde,172,0,0,0,0,0,0,0,172
+CORDOBA,Unión,Monte Maíz,679,1749,0,334,0,0,0,0,2762
+CORDOBA,Unión,Morrison,951,0,0,220,0,0,0,0,1171
+CORDOBA,Unión,Noetinger,0,0,0,917,0,0,0,11,928
+CORDOBA,Unión,Ordóñez,229,0,0,668,0,0,0,0,897
+CORDOBA,Unión,Pascanas,242,0,0,0,0,0,0,14,256
+CORDOBA,Unión,Pueblo Italiano,0,78,0,0,0,1,0,0,79
+CORDOBA,Unión,Ramón J. Cárcano,0,0,0,0,0,0,0,20,20
+CORDOBA,Unión,San Antonio de Litín,368,0,0,1,6,0,0,54,429
+CORDOBA,Unión,San Marcos,124,0,0,3,0,0,0,0,127
+CORDOBA,Unión,Viamonte,29,0,0,0,0,0,0,0,29
+CORDOBA,Unión,Wenceslao Escalante,36,85,0,0,0,1,0,10,132
+CORDOBA,Unión,Colonia Bismarck,0,7,0,0,0,0,0,15,22
+CORRIENTES,Bella Vista,Bella Vista,1379,600,0,0,100,2,0,600,2681
+CORRIENTES,Berón de Astrada,Berón de Astrada,0,0,0,0,0,1,0,0,1
+CORRIENTES,Capital,Corrientes,14446,62107,4,7582,7,3,0,1310,85459
+CORRIENTES,Capital,Laguna Brava,0,0,0,0,0,1,0,0,1
+CORRIENTES,Capital,Riachuelo,0,0,0,0,0,1,0,171,172
+CORRIENTES,Capital,San Cayetano,0,0,0,0,0,1,0,0,1
+CORRIENTES,Concepción,Concepción,0,0,0,0,0,2,0,23,25
+CORRIENTES,Concepción,Santa Rosa,0,0,0,0,3,0,0,20,23
+CORRIENTES,Concepción,Tabay,0,0,0,0,0,1,0,19,20
+CORRIENTES,Concepción,Tatacua,0,0,0,0,0,2,0,0,2
+CORRIENTES,Curuzú Cuatiá,Cazadores Correntinos,0,0,0,0,0,1,0,14,15
+CORRIENTES,Curuzú Cuatiá,Curuzú Cuatiá,921,0,0,4480,3030,3,0,525,8959
+CORRIENTES,Curuzú Cuatiá,Perugorría,0,0,0,0,0,2,0,89,91
+CORRIENTES,Empedrado,El Sombrero,5,0,0,0,0,1,0,2,8
+CORRIENTES,Empedrado,Empedrado,750,300,0,0,0,2,0,103,1155
+CORRIENTES,Esquina,Esquina,458,0,0,944,1500,1,0,477,3380
+CORRIENTES,Esquina,Pueblo Libertador,0,0,0,0,0,1,0,0,1
+CORRIENTES,General Alvear,Alvear,516,0,0,0,0,1,0,0,517
+CORRIENTES,General Alvear,Estación Torrent,0,0,0,0,0,1,0,0,1
+CORRIENTES,General Paz,Itá Ibaté,152,1,0,0,0,3,0,6,162
+CORRIENTES,General Paz,Lomas de Vallejos,0,0,0,0,0,1,0,0,1
+CORRIENTES,General Paz,Nuestra Señora del Rosario de Caá Catí,0,1,0,0,0,0,0,98,99
+CORRIENTES,General Paz,Palmar Grande,0,0,0,0,0,1,0,10,11
+CORRIENTES,Goya,Colonia Carolina,0,0,0,0,0,1,0,2,3
+CORRIENTES,Goya,Goya,2618,11732,0,3102,66,4,0,1,17523
+CORRIENTES,ItatÍ,Itatí,434,0,0,0,0,1,0,26,461
+CORRIENTES,ItatÍ,Ramada Paso,0,0,0,0,0,0,0,3,3
+CORRIENTES,Ituzaingó,Colonia Liebig's,0,276,0,0,0,1,0,32,309
+CORRIENTES,Ituzaingó,Ituzaingó,1645,0,0,0,1,2,0,0,1648
+CORRIENTES,Ituzaingó,Villa Olivari,0,0,0,0,0,1,0,16,17
+CORRIENTES,Lavalle,Gobernador Juan E. Martínez,0,0,0,40,0,1,0,12,53
+CORRIENTES,Lavalle,Lavalle,0,0,0,0,0,1,0,1,2
+CORRIENTES,Lavalle,Santa Lucía,31,0,0,819,0,1,0,2,853
+CORRIENTES,Mburucuyá,Mburucuyá,0,0,0,0,0,2,0,49,51
+CORRIENTES,Mercedes,Felipe Yofré,0,0,0,0,0,4,0,0,4
+CORRIENTES,Mercedes,Mariano I. Loza  (Est. Justino Solari),0,0,0,0,0,1,0,1,2
+CORRIENTES,Mercedes,Mercedes,1806,1541,0,554,0,4,0,303,4208
+CORRIENTES,Monte Caseros,Juan Pujol,0,0,0,0,0,2,0,153,155
+CORRIENTES,Monte Caseros,Mocoretá,45,30,0,0,0,1,0,0,76
+CORRIENTES,Monte Caseros,Monte Caseros,1858,0,0,1016,18,1,0,1419,4312
+CORRIENTES,Monte Caseros,Colonia Libertad,0,0,0,0,0,0,0,41,41
+CORRIENTES,Monte Caseros,Parada Acuña,0,0,0,0,0,0,0,10,10
+CORRIENTES,Monte Caseros,Estación Libertad,0,0,0,0,0,0,0,4,4
+CORRIENTES,Monte Caseros,Parada Labougle,0,0,0,0,0,0,0,7,7
+CORRIENTES,OTROS,OTROS,0,0,0,0,30,0,0,0,30
+CORRIENTES,Paso de los Libres,Bonpland,0,0,0,0,0,2,0,56,58
+CORRIENTES,Paso de los Libres,Paso de los Libres,4560,0,0,4,0,2,59,0,4625
+CORRIENTES,Paso de los Libres,Parada Pucheta,0,0,0,0,0,1,0,37,38
+CORRIENTES,Saladas,Saladas,832,0,0,0,0,2,0,0,834
+CORRIENTES,Saladas,San Lorenzo,0,0,0,75,50,1,0,18,144
+CORRIENTES,San Cosme,Paso de la Patria,0,0,0,0,130,1,0,60,191
+CORRIENTES,San Cosme,San Cosme,112,0,0,0,150,1,0,9,272
+CORRIENTES,San Cosme,Santa Ana,0,0,0,0,88,0,0,30,118
+CORRIENTES,San Luis del Palmar,San Luis del Palmar,0,0,0,0,0,1,0,0,1
+CORRIENTES,San Martín,La Cruz,326,0,0,0,0,1,0,0,327
+CORRIENTES,San Miguel,Loreto,0,0,0,0,0,1,0,36,37
+CORRIENTES,San Miguel,San Miguel,0,0,0,0,0,1,0,118,119
+CORRIENTES,San Roque,Chavarría,0,0,0,0,0,2,0,0,2
+CORRIENTES,San Roque,Pedro R. Fernández (Est. Manuel F. Mantilla),0,0,0,0,0,1,0,0,1
+CORRIENTES,San Roque,San Roque,0,0,0,0,0,2,0,0,2
+CORRIENTES,Santo Tomé,Gobernador Igr. Valentín Virasoro,1220,0,0,3,1,3,0,0,1227
+CORRIENTES,Santo Tomé,José Rafael Gómez,0,0,0,0,0,0,0,31,31
+CORRIENTES,Santo Tomé,Santo Tomé,2394,0,0,0,0,1,0,1312,3707
+CORRIENTES,Santo Tomé,Garruchos,0,0,0,0,0,1,0,0,1
+CORRIENTES,Sauce,Sauce,0,552,0,0,0,2,0,0,554
+ENTRE RIOS,Colón,Arroyo Barú,0,0,0,18,0,0,0,76,94
+ENTRE RIOS,Colón,Colón,1399,1534,0,1626,160,5,0,1408,6132
+ENTRE RIOS,Colón,Colonia Hugues,0,0,0,0,0,1,0,55,56
+ENTRE RIOS,Colón,El Colorado,0,0,0,0,0,1,0,0,1
+ENTRE RIOS,Colón,Hocker,0,0,0,0,0,0,0,10,10
+ENTRE RIOS,Colón,La Clarita,0,0,0,0,0,0,0,34,34
+ENTRE RIOS,Colón,Pueblo Liebig's,0,0,0,0,0,0,0,146,146
+ENTRE RIOS,Colón,San José,1042,0,0,0,700,0,0,361,2103
+ENTRE RIOS,Colón,Ubajay,22,0,0,92,0,0,0,227,341
+ENTRE RIOS,Colón,Villa  Elisa,860,1,0,947,5,0,0,262,2075
+ENTRE RIOS,Colón,Hambis,0,0,0,0,0,0,0,6,6
+ENTRE RIOS,Colón,Pueblo Cazes,0,0,0,0,0,0,0,23,23
+ENTRE RIOS,Colón,El Brillante,0,0,0,0,0,0,0,29,29
+ENTRE RIOS,Concordia,Concordia,8919,111,0,3970,1,1,0,654,13656
+ENTRE RIOS,Concordia,Clodomiro Ledesma,0,0,0,0,0,0,0,3,3
+ENTRE RIOS,Concordia,Pedernal,0,0,0,0,0,0,0,33,33
+ENTRE RIOS,Concordia,La Criolla,0,0,0,0,0,1,0,27,28
+ENTRE RIOS,Concordia,Los Charrúas,0,0,0,0,0,0,0,44,44
+ENTRE RIOS,Concordia,Calabacilla,0,0,0,0,0,0,0,13,13
+ENTRE RIOS,Concordia,Colonia Ayuí,0,0,0,0,0,0,0,12,12
+ENTRE RIOS,Concordia,Estación Yeruá,0,0,0,0,0,0,0,8,8
+ENTRE RIOS,Concordia,Estación Yuquerí,0,0,0,0,0,0,0,5,5
+ENTRE RIOS,Concordia,Estancia Grande,0,0,0,0,0,0,0,5,5
+ENTRE RIOS,Concordia,Nueva Escocia,0,0,0,0,0,0,0,7,7
+ENTRE RIOS,Concordia,Osvaldo Magnasco,0,0,0,0,0,0,0,13,13
+ENTRE RIOS,Concordia,Puerto Yeruá,0,0,0,0,0,0,0,11,11
+ENTRE RIOS,Diamante,Aldea Brasilera,0,0,0,0,0,0,0,46,46
+ENTRE RIOS,Diamante,Aldea Protestante,5,0,0,0,153,0,0,55,213
+ENTRE RIOS,Diamante,Aldea Spatzenkutter,0,0,0,0,0,0,0,45,45
+ENTRE RIOS,Diamante,Aldea Valle María,0,0,0,85,0,0,224,26,335
+ENTRE RIOS,Diamante,Colonia Ensayo,0,0,0,0,0,0,0,10,10
+ENTRE RIOS,Diamante,Diamante,2292,1130,0,0,0,0,0,390,3812
+ENTRE RIOS,Diamante,General Alvear,0,0,0,0,0,0,0,17,17
+ENTRE RIOS,Diamante,General Ramírez,603,1996,0,0,1,0,0,92,2692
+ENTRE RIOS,Diamante,OTROS,0,0,0,0,0,0,0,124,124
+ENTRE RIOS,Diamante,Villa Libertador San Martín,892,0,0,0,1,0,0,442,1335
+ENTRE RIOS,Diamante,Strobel,0,100,0,0,0,0,0,0,100
+ENTRE RIOS,Diamante,Estación Camps,0,0,0,0,0,0,0,31,31
+ENTRE RIOS,Diamante,General Racedo,0,0,0,0,0,0,0,15,15
+ENTRE RIOS,Federación,Chajarí,952,5927,0,4708,0,0,0,275,11862
+ENTRE RIOS,Federación,Colonia Alemana,0,0,0,0,0,0,0,62,62
+ENTRE RIOS,Federación,Colonia Ensanche Sauce,0,0,0,0,0,0,0,49,49
+ENTRE RIOS,Federación,Colonia La Argentina,0,0,0,0,0,0,0,6,6
+ENTRE RIOS,Federación,Colonia Peña,0,0,0,0,0,0,0,21,21
+ENTRE RIOS,Federación,Colonia Santa María,0,0,0,0,0,0,0,38,38
+ENTRE RIOS,Federación,Federación,1058,0,0,1,0,0,0,176,1235
+ENTRE RIOS,Federación,Los Conquistadores,0,131,0,0,0,0,0,377,508
+ENTRE RIOS,Federación,San Jaime de la Frontera,0,9,0,0,0,0,0,0,9
+ENTRE RIOS,Federación,San Pedro,0,50,0,0,0,0,0,5,55
+ENTRE RIOS,Federación,Santa Ana,0,16,0,119,0,0,0,0,135
+ENTRE RIOS,Federación,Villa del Rosario,0,115,0,1,0,0,0,0,116
+ENTRE RIOS,Federación,San Ramón,0,0,0,0,0,0,0,39,39
+ENTRE RIOS,Federal,Conscripto Bernardi,0,0,0,0,0,0,0,265,265
+ENTRE RIOS,Federal,El Cimarrón,0,0,0,0,0,0,0,22,22
+ENTRE RIOS,Federal,Federal,563,0,0,1,1100,0,0,404,2068
+ENTRE RIOS,Federal,Nueva Vizcaya,0,0,0,0,0,0,0,58,58
+ENTRE RIOS,Federal,Sauce de Luna,0,4,0,3,0,1,0,557,565
+ENTRE RIOS,Feliciano,San José de Feliciano,0,0,0,0,0,2,0,703,705
+ENTRE RIOS,Feliciano,San Víctor,1,0,0,0,0,0,0,30,31
+ENTRE RIOS,Gualeguay,General Galarza,2,0,0,0,0,0,0,606,608
+ENTRE RIOS,Gualeguay,Gualeguay,3856,3594,0,1,753,1,0,1106,9311
+ENTRE RIOS,Gualeguaychú,Aldea San Antonio,0,188,0,0,0,1,0,0,189
+ENTRE RIOS,Gualeguaychú,Aldea San Juan,0,0,0,0,0,0,0,19,19
+ENTRE RIOS,Gualeguaychú,Faustino M. Parera,4,0,0,0,0,0,0,0,4
+ENTRE RIOS,Gualeguaychú,Gilbert,0,63,0,0,0,0,0,0,63
+ENTRE RIOS,Gualeguaychú,Gualeguaychú,5982,11149,1,4523,1,1,0,2108,23765
+ENTRE RIOS,Gualeguaychú,Larroque,262,0,0,364,0,0,0,443,1069
+ENTRE RIOS,Gualeguaychú,Pueblo General Belgrano,0,1078,0,0,0,0,0,0,1078
+ENTRE RIOS,Gualeguaychú,Urdinarrain,806,1221,0,0,0,0,0,4,2031
+ENTRE RIOS,Gualeguaychú,Enrique Carbó,0,0,0,0,0,0,0,26,26
+ENTRE RIOS,Islas del Ibicuy,Ceibas,16,0,0,0,0,0,0,32,48
+ENTRE RIOS,Islas del Ibicuy,Ibicuy,480,99,0,0,0,0,0,0,579
+ENTRE RIOS,Islas del Ibicuy,Médanos,16,0,0,0,0,0,0,26,42
+ENTRE RIOS,Islas del Ibicuy,OTROS,35,0,0,0,0,0,0,0,35
+ENTRE RIOS,Islas del Ibicuy,Villa Paranacito,0,39,0,0,0,0,0,0,39
+ENTRE RIOS,La Paz,Bovril,0,1108,0,2,0,0,0,5,1115
+ENTRE RIOS,La Paz,La Paz,1293,1434,0,2332,0,0,0,941,6000
+ENTRE RIOS,La Paz,Piedras Blancas,0,65,0,1,0,0,0,4,70
+ENTRE RIOS,La Paz,Pueblo Arrúa (Est. Alcaraz),0,31,0,0,0,1,0,145,177
+ENTRE RIOS,La Paz,San Gustavo,0,0,0,32,83,0,0,184,299
+ENTRE RIOS,La Paz,Santa Elena,1381,236,0,0,0,0,0,437,2054
+ENTRE RIOS,La Paz,Colonia Avigdor,0,0,0,0,0,0,0,68,68
+ENTRE RIOS,La Paz,El Solar,0,0,0,0,0,0,0,22,22
+ENTRE RIOS,Nogoyá,Aranguren,0,305,0,0,0,1,0,93,399
+ENTRE RIOS,Nogoyá,Betbeder,0,0,0,0,0,0,0,20,20
+ENTRE RIOS,Nogoyá,Don Cristóbal,0,0,0,0,0,0,0,71,71
+ENTRE RIOS,Nogoyá,Febré,0,0,0,0,0,0,0,4,4
+ENTRE RIOS,Nogoyá,Hernández,143,0,0,0,0,1,0,125,269
+ENTRE RIOS,Nogoyá,Lucas González,517,0,0,0,1,0,0,197,715
+ENTRE RIOS,Nogoyá,Nogoyá,2273,0,0,0,697,0,0,716,3686
+ENTRE RIOS,Nogoyá,OTROS,0,0,0,0,0,0,0,13,13
+ENTRE RIOS,Nogoyá,XX de Setiembre,0,0,0,0,0,0,0,41,41
+ENTRE RIOS,OTROS,OTROS,0,0,0,0,7199,0,0,0,7199
+ENTRE RIOS,Paraná,Cerrito,214,954,0,0,0,1,0,94,1263
+ENTRE RIOS,Paraná,Colonia Avellaneda,392,0,0,0,0,0,0,58,450
+ENTRE RIOS,Paraná,Crespo,1093,6164,0,19,0,0,0,94,7370
+ENTRE RIOS,Paraná,Crucesitas Séptima Sección,0,0,0,0,0,0,0,118,118
+ENTRE RIOS,Paraná,El Ramblón,0,0,0,0,0,0,0,18,18
+ENTRE RIOS,Paraná,Hasenkamp,0,843,0,2,0,1,0,224,1070
+ENTRE RIOS,Paraná,Hernandarias,0,414,0,0,0,0,0,25,439
+ENTRE RIOS,Paraná,La Picada,7,0,0,1,0,0,0,0,8
+ENTRE RIOS,Paraná,Las Tunas,0,0,0,0,0,1,0,54,55
+ENTRE RIOS,Paraná,María Grande,0,1430,1,419,93,0,0,239,2182
+ENTRE RIOS,Paraná,Oro Verde,349,1,0,0,0,0,0,60,410
+ENTRE RIOS,Paraná,OTROS,0,0,0,0,0,0,0,13,13
+ENTRE RIOS,Paraná,Paraná,7031,80744,14,4674,7,1,0,1204,93675
+ENTRE RIOS,Paraná,San Benito,147,1054,0,0,0,0,0,184,1385
+ENTRE RIOS,Paraná,Seguí,1,376,0,0,0,1,0,292,670
+ENTRE RIOS,Paraná,Tabossi,0,304,0,54,0,0,0,128,486
+ENTRE RIOS,Paraná,Viale,980,293,0,136,0,0,0,801,2210
+ENTRE RIOS,Paraná,Villa Urquiza,1,0,0,0,0,0,0,0,1
+ENTRE RIOS,Paraná,Pueblo Brugo,0,0,0,0,0,0,0,45,45
+ENTRE RIOS,Paraná,Aldea María Luisa,0,0,0,0,0,0,0,8,8
+ENTRE RIOS,Paraná,Aldea San Rafael,0,0,0,0,0,0,0,9,9
+ENTRE RIOS,Paraná,El Palenque,0,0,0,0,0,0,0,5,5
+ENTRE RIOS,Paraná,El Pingo,0,0,0,0,0,0,0,50,50
+ENTRE RIOS,Paraná,Sauce Montrull,0,0,0,0,0,0,0,71,71
+ENTRE RIOS,San Salvador,General Campos,1,0,0,0,0,1,0,232,234
+ENTRE RIOS,San Salvador,San Salvador,482,0,0,720,1,0,0,2,1205
+ENTRE RIOS,Tala,Durazno,11,0,0,0,0,0,0,44,55
+ENTRE RIOS,Tala,Gobernador Echagüe,0,0,0,0,22,0,0,0,22
+ENTRE RIOS,Tala,Gobernador Mansilla,0,0,0,0,160,0,0,21,181
+ENTRE RIOS,Tala,Gobernador Solá,0,0,0,0,25,0,0,0,25
+ENTRE RIOS,Tala,Maciá,0,209,0,0,180,0,0,0,389
+ENTRE RIOS,Tala,Rosario del Tala,1272,0,0,213,970,0,0,0,2455
+ENTRE RIOS,Uruguay,1º de Mayo,0,0,0,26,0,0,0,140,166
+ENTRE RIOS,Uruguay,Basavilbaso,832,0,0,789,0,0,0,816,2437
+ENTRE RIOS,Uruguay,Caseros,113,0,0,707,6,0,0,48,874
+ENTRE RIOS,Uruguay,Colonia Elía,0,0,0,0,0,0,0,155,155
+ENTRE RIOS,Uruguay,Concepción del Uruguay,5649,8429,6,5933,0,0,0,2986,23003
+ENTRE RIOS,Uruguay,Herrera,134,0,0,0,0,0,0,72,206
+ENTRE RIOS,Uruguay,Líbaros,0,0,0,0,0,0,0,37,37
+ENTRE RIOS,Uruguay,Pronunciamiento,0,0,0,31,0,1,0,182,214
+ENTRE RIOS,Uruguay,Rocamora,0,0,0,0,0,0,0,49,49
+ENTRE RIOS,Uruguay,Santa Anita,0,0,0,305,0,0,0,54,359
+ENTRE RIOS,Uruguay,Villa Mantero,43,0,0,196,0,1,0,33,273
+ENTRE RIOS,Uruguay,Villa San Justo,0,0,0,455,0,0,0,52,507
+ENTRE RIOS,Uruguay,Villa San Marcial (Est. Gobernador Urquiza),0,0,0,0,0,0,0,43,43
+ENTRE RIOS,Uruguay,Las Moscas,0,0,0,7,0,0,0,46,53
+ENTRE RIOS,Uruguay,Estancia San Pedro,0,0,0,0,0,0,0,3,3
+ENTRE RIOS,Victoria,Molino Doll,0,0,0,0,0,0,0,10,10
+ENTRE RIOS,Victoria,Rincón de Nogoyá,0,0,0,0,0,0,0,19,19
+ENTRE RIOS,Victoria,Victoria,4355,3,0,2,0,0,0,352,4712
+ENTRE RIOS,Villaguay,Estación Raíces,38,0,0,0,0,0,0,5,43
+ENTRE RIOS,Villaguay,Ingeniero Miguel Sajaroff,0,0,0,0,0,0,0,44,44
+ENTRE RIOS,Villaguay,Jubileo,0,0,0,16,0,0,0,65,81
+ENTRE RIOS,Villaguay,Villa Clara,80,0,0,49,0,1,0,68,198
+ENTRE RIOS,Villaguay,Villa Domínguez,0,0,0,30,0,0,0,114,144
+ENTRE RIOS,Villaguay,Villaguay,1446,0,0,3361,1,0,0,1265,6073
+ENTRE RIOS,Villaguay,Paso de la Laguna,0,0,0,0,0,0,0,39,39
+FORMOSA,Bermejo,Fortín Soledad,0,0,0,0,0,0,0,7,7
+FORMOSA,Bermejo,La Rinconada,0,0,0,0,0,0,0,8,8
+FORMOSA,Bermejo,Laguna Yema,0,0,0,0,0,2,0,76,78
+FORMOSA,Bermejo,Lamadrid,0,0,0,0,0,0,0,7,7
+FORMOSA,Bermejo,Los Chiriguanos,0,0,0,0,0,0,0,40,40
+FORMOSA,Bermejo,Pozo de Maza,0,0,0,0,0,1,0,16,17
+FORMOSA,Bermejo,Pozo del Mortero,0,0,0,0,0,0,0,13,13
+FORMOSA,Bermejo,Vaca Perdida,0,0,0,0,0,0,0,5,5
+FORMOSA,Bermejo,Guadalcazar,0,0,0,0,0,0,0,14,14
+FORMOSA,Formosa,Colonia Pastoril,0,0,0,0,0,0,0,74,74
+FORMOSA,Formosa,Formosa,10588,25680,0,6303,10,5,0,7692,50278
+FORMOSA,Formosa,Gran Guardia,0,0,0,0,0,0,0,69,69
+FORMOSA,Formosa,Mariano Boedo,0,0,0,0,0,0,0,31,31
+FORMOSA,Formosa,Mojón de Fierro,0,0,0,0,0,1,0,28,29
+FORMOSA,Formosa,San Hilario,0,0,0,0,0,1,0,28,29
+FORMOSA,Formosa,Villa del Carmen,0,0,0,61,0,2,0,28,91
+FORMOSA,Laishi,Banco Payaguá,0,0,0,0,0,0,0,32,32
+FORMOSA,Laishi,General Lucio Victorio Mansilla,14,0,0,0,0,2,0,167,183
+FORMOSA,Laishi,Herradura,0,0,0,0,0,0,0,116,116
+FORMOSA,Laishi,OTROS,0,0,0,0,0,0,0,132,132
+FORMOSA,Laishi,San Francisco de Laishi,0,0,0,0,0,3,0,208,211
+FORMOSA,Laishi,Tatané,0,0,0,0,0,0,0,43,43
+FORMOSA,Laishi,Villa Escolar,0,0,0,0,0,0,0,102,102
+FORMOSA,Matacos,Ingeniero Guillermo N. Juárez,216,0,0,0,0,1,0,252,469
+FORMOSA,Patiño,Bartolomé de las Casas,0,0,0,0,0,1,0,6,7
+FORMOSA,Patiño,Comandante Fontana,0,0,0,0,29,0,0,681,710
+FORMOSA,Patiño,Estanislao del Campo,37,0,0,0,0,0,0,157,194
+FORMOSA,Patiño,Fortín Cabo 1º Lugones,0,0,0,0,0,0,0,145,145
+FORMOSA,Patiño,Fortín Sargento 1º Leyes,0,0,0,0,0,1,0,6,7
+FORMOSA,Patiño,Ibarreta,240,0,0,0,0,3,0,518,761
+FORMOSA,Patiño,Juan G. Bazán,0,0,0,0,0,0,0,11,11
+FORMOSA,Patiño,Las Lomitas,479,0,0,870,0,5,0,231,1585
+FORMOSA,Patiño,OTROS,0,0,0,0,0,0,0,44,44
+FORMOSA,Patiño,Posta Cambio Zalazar,0,0,0,0,0,0,0,58,58
+FORMOSA,Patiño,Pozo del Tigre,36,0,0,0,0,0,0,190,226
+FORMOSA,Patiño,San Martín II,0,0,0,1,0,0,0,369,370
+FORMOSA,Patiño,Subteniente Perín,0,0,0,0,0,1,0,71,72
+FORMOSA,Patiño,Villa General Güemes,0,0,0,2,0,0,0,446,448
+FORMOSA,Patiño,Villa General Manuel Belgrano,0,0,0,1,0,0,0,448,449
+FORMOSA,Patiño,San Martín I,0,0,0,0,0,0,0,5,5
+FORMOSA,Pilagás,Buena Vista,0,0,0,3,0,0,0,412,415
+FORMOSA,Pilagás,El Espinillo,0,0,0,0,0,2,0,300,302
+FORMOSA,Pilagás,Misión Tacaagle,0,0,0,0,0,1,0,149,150
+FORMOSA,Pilagás,Tres Lagunas,24,0,0,0,0,0,0,97,121
+FORMOSA,Pilagás,Laguna Gallo,0,0,0,0,0,0,0,5,5
+FORMOSA,Pilcomayo,Clorinda,1256,27,0,2395,15,1,0,83,3777
+FORMOSA,Pilcomayo,Laguna Blanca,42,0,1,315,0,0,0,630,988
+FORMOSA,Pilcomayo,Laguna Naick-Neck,113,0,0,0,0,2,0,363,478
+FORMOSA,Pilcomayo,Palma Sola,0,0,0,0,0,0,0,18,18
+FORMOSA,Pilcomayo,Riacho He-He,0,0,0,1,0,0,0,414,415
+FORMOSA,Pilcomayo,Siete Palmas,17,0,0,1,0,0,0,82,100
+FORMOSA,Pilcomayo,Puerto Pilcomayo,0,0,0,0,0,0,0,3,3
+FORMOSA,Pilcomayo,Riacho Negro,0,0,0,0,0,0,0,3,3
+FORMOSA,Pirané,Colonia Campo Villafañe,0,0,0,52,0,0,0,98,150
+FORMOSA,Pirané,El Colorado,1408,0,0,71,0,5,0,605,2089
+FORMOSA,Pirané,Palo Santo,0,173,0,0,0,1,0,291,465
+FORMOSA,Pirané,Pirané,0,0,0,957,100,4,0,513,1574
+FORMOSA,Pirané,Villa Kilómetro 213,0,0,0,0,0,1,0,230,231
+FORMOSA,Ramón Lista,El Potrillo,0,0,0,0,0,0,0,20,20
+FORMOSA,Ramón Lista,El Quebracho,0,0,0,0,0,0,0,12,12
+FORMOSA,Ramón Lista,General Mosconi,0,0,0,8,0,3,0,33,44
+FORMOSA,Ramón Lista,OTROS,0,0,0,0,0,8,0,0,8
+JUJUY,Cochinoca,Abra Pampa,0,0,0,0,0,3,0,221,224
+JUJUY,Cochinoca,Puesto del Marquéz,0,0,0,5,0,0,0,0,5
+JUJUY,Cochinoca,La Redonda,0,0,0,0,0,1,0,0,1
+JUJUY,Doctor Manuel Belgrano,Guerrero,75,78,0,0,0,0,0,0,153
+JUJUY,Doctor Manuel Belgrano,Lozano (Ap. Chañi),0,0,0,0,0,0,0,111,111
+JUJUY,Doctor Manuel Belgrano,San Salvador de Jujuy (Est. Jujuy),8668,39547,0,33453,36,4,0,140,81848
+JUJUY,Doctor Manuel Belgrano,Yala,0,0,0,0,153,1,0,3,157
+JUJUY,Doctor Manuel Belgrano,La Almona,0,2,0,3,0,0,0,0,5
+JUJUY,Doctor Manuel Belgrano,Dr. Manuel Belgrano,0,0,0,0,0,1,0,8,9
+JUJUY,Doctor Manuel Belgrano,León,0,504,0,0,0,1,0,0,505
+JUJUY,El Carmen,El Carmen,470,720,0,0,0,2,0,1,1193
+JUJUY,El Carmen,Los Lapachos (Est. Maquinista Verón),0,0,0,0,0,0,0,1,1
+JUJUY,El Carmen,Manantiales,0,0,0,0,0,2,0,0,2
+JUJUY,El Carmen,Monterrico,0,718,0,0,0,1,0,10,729
+JUJUY,El Carmen,Pampa Blanca,67,221,0,0,0,2,0,1,291
+JUJUY,El Carmen,Perico,0,2034,0,0,0,1,0,11,2046
+JUJUY,El Carmen,Puesto Viejo,0,88,0,0,0,1,0,0,89
+JUJUY,El Carmen,Aguas Calientes,0,0,0,0,0,0,0,28,28
+JUJUY,Humahuaca,El Aguilar,0,0,0,0,181,1,0,0,182
+JUJUY,Humahuaca,Hipólito Yrigoyen (Est. Iturbe),0,0,0,5,0,0,0,0,5
+JUJUY,Humahuaca,Humahuaca,369,0,0,0,120,7,0,330,826
+JUJUY,Humahuaca,Tres Cruces,0,0,0,5,30,0,0,0,35
+JUJUY,Humahuaca,Uquía (Est. Senador Pérez),3,0,0,5,40,0,0,0,48
+JUJUY,Ledesma,Caimancito,209,0,0,0,0,1,0,37,247
+JUJUY,Ledesma,Calilegua,0,500,0,0,0,1,0,144,645
+JUJUY,Ledesma,Chalicán,0,0,0,0,0,0,0,78,78
+JUJUY,Ledesma,Fraile Pintado,650,23,0,0,0,1,0,121,795
+JUJUY,Ledesma,Libertador General San Martín (Est. Ledesma),60,6065,0,1000,0,3,0,787,7915
+JUJUY,Ledesma,Yuto,0,0,0,0,0,1,0,176,177
+JUJUY,OTROS,OTROS,0,0,0,0,1085,0,0,0,1085
+JUJUY,Palpalá,Carahunco,1,0,0,0,0,1,0,0,2
+JUJUY,Palpalá,Centro Forestal,15,0,0,0,0,0,0,0,15
+JUJUY,Palpalá,Palpalá (Est. Gral. Manuel N. Savio),1931,1004,0,3395,56,3,0,1,6390
+JUJUY,Palpalá,Rio Blanco,0,53,0,21,0,0,0,0,74
+JUJUY,Rinconada,Liviara,0,0,0,0,0,5,0,0,5
+JUJUY,Rinconada,Loma Blanca,0,0,0,0,0,2,0,0,2
+JUJUY,Rinconada,Nuevo Pirquitas,0,0,0,5,0,2,0,0,7
+JUJUY,Rinconada,Coyaguaima,0,0,0,5,0,0,0,0,5
+JUJUY,Rinconada,Orosmayo,0,0,0,5,0,0,0,0,5
+JUJUY,Rinconada,Rinconada,0,0,0,0,0,2,0,0,2
+JUJUY,Rinconada,Lagunillas de Farallón,0,0,0,9,0,0,0,0,9
+JUJUY,San Antonio,Loteo Navea,0,0,0,77,0,0,0,0,77
+JUJUY,San Antonio,San Antonio,1,87,0,0,0,1,0,0,89
+JUJUY,San Antonio,El Ceibal,0,0,0,1,0,0,0,0,1
+JUJUY,San Antonio,Los Alisos,1,0,0,0,0,0,0,0,1
+JUJUY,San Pedro,La Esperanza,0,0,0,0,0,1,0,0,1
+JUJUY,San Pedro,La Mendieta,0,0,0,0,0,1,0,240,241
+JUJUY,San Pedro,San Pedro (Est. San Pedro de Jujuy),5822,1334,0,1468,0,1,0,74,8699
+JUJUY,San Pedro,San Lucas,0,0,0,0,0,0,0,10,10
+JUJUY,San Pedro,Don Emilio,0,0,0,0,0,0,0,37,37
+JUJUY,San Pedro,Rosario de Río Grande,0,0,0,0,0,0,0,54,54
+JUJUY,SANTA BARBARA,El Fuerte,0,0,0,0,0,5,0,0,5
+JUJUY,SANTA BARBARA,El Piquete,75,0,0,0,0,0,0,21,96
+JUJUY,SANTA BARBARA,El Talar,0,0,0,0,0,1,0,141,142
+JUJUY,SANTA BARBARA,OTROS,0,0,0,0,0,3,0,0,3
+JUJUY,SANTA BARBARA,Palma Sola,0,0,0,0,0,1,0,115,116
+JUJUY,SANTA BARBARA,Santa Clara,102,0,0,0,0,1,0,79,182
+JUJUY,SANTA BARBARA,Vinalito,0,0,0,0,0,0,0,30,30
+JUJUY,Santa Catalina,Casira,0,0,0,5,0,0,0,0,5
+JUJUY,Santa Catalina,Ciénega,0,0,0,5,0,0,0,0,5
+JUJUY,Santa Catalina,Cieneguillas,0,0,0,5,0,0,0,0,5
+JUJUY,Santa Catalina,Cusi Cusi,0,0,0,5,0,0,0,0,5
+JUJUY,Santa Catalina,Misarrumi,0,0,0,0,0,5,0,0,5
+JUJUY,Santa Catalina,Oratorio,0,0,0,5,0,0,0,0,5
+JUJUY,Santa Catalina,Paicone,0,0,0,5,0,0,0,0,5
+JUJUY,Santa Catalina,Santa Catalina,0,0,0,5,0,1,0,0,6
+JUJUY,Susques,El Toro,0,0,0,20,0,2,0,0,22
+JUJUY,Susques,Huáncar,0,0,0,27,0,0,0,0,27
+JUJUY,Susques,Olacapato,0,0,0,8,0,0,0,1,9
+JUJUY,Susques,Olaroz Chico,0,0,0,30,0,1,0,5,36
+JUJUY,Susques,Pastos Chicos,0,0,0,22,0,0,0,0,22
+JUJUY,Susques,Puesto Sey,0,0,0,20,0,0,0,0,20
+JUJUY,Susques,San Juan de Quillaqués,0,0,0,12,0,5,0,0,17
+JUJUY,Susques,Susques,0,0,0,275,0,11,0,18,304
+JUJUY,Susques,Coranzuli,0,0,0,60,0,0,0,0,60
+JUJUY,Susques,Catua,0,0,0,70,0,0,0,0,70
+JUJUY,Susques,Jama,0,0,0,11,0,0,0,0,11
+JUJUY,Susques,Mina Providencia,0,0,0,5,0,0,0,0,5
+JUJUY,Tilcara,Huacalera,0,0,0,5,56,0,0,0,61
+JUJUY,Tilcara,Juella,0,0,0,0,16,0,0,0,16
+JUJUY,Tilcara,Maimará,0,0,0,5,430,2,0,76,513
+JUJUY,Tilcara,Tilcara,0,0,0,5,70,3,0,375,453
+JUJUY,Tumbaya,Bárcena,0,0,0,0,0,0,0,111,111
+JUJUY,Tumbaya,Purmamarca,77,0,0,0,0,0,0,1,78
+JUJUY,Tumbaya,Volcán,1,0,0,0,5,0,0,93,99
+JUJUY,Tumbaya,El Moreno,0,0,0,0,1,0,0,0,1
+JUJUY,Tumbaya,Tumbaya,0,0,0,0,0,0,0,342,342
+JUJUY,Valle Grande,Santa Ana,0,0,0,0,0,2,0,0,2
+JUJUY,Yavi,Barrios,0,0,0,5,0,0,0,0,5
+JUJUY,Yavi,Cangrejillos,0,0,0,5,0,0,0,0,5
+JUJUY,Yavi,La Intermedia,0,0,0,5,0,0,0,0,5
+JUJUY,Yavi,La Quiaca,660,0,0,75,5,1,0,1,742
+JUJUY,Yavi,Pumahuasi,0,0,0,5,0,0,0,0,5
+JUJUY,Yavi,Yavi Chico,0,0,0,5,0,0,0,0,5
+JUJUY,Yavi,Yavi,0,0,0,0,0,1,0,0,1
+LA PAMPA,Atreucó,Doblas,0,333,0,40,0,1,0,41,415
+LA PAMPA,Atreucó,Macachín,0,0,0,301,0,1,0,1004,1306
+LA PAMPA,Atreucó,Miguel Riglos,0,0,0,3,0,1,0,110,114
+LA PAMPA,Atreucó,Rolón,0,0,0,0,0,1,0,69,70
+LA PAMPA,Atreucó,Tomas M. Anchorena,0,0,1,0,0,1,0,5,7
+LA PAMPA,Caleu Caleu,La Adela,0,261,0,0,0,3,0,335,599
+LA PAMPA,Capital,Anguil,0,138,0,2,99,1,0,334,574
+LA PAMPA,Capital,Santa Rosa,1760,46905,66,1387,3066,3,0,271,53458
+LA PAMPA,Catriló,Catriló,0,509,1,680,327,1,0,0,1518
+LA PAMPA,Catriló,La Gloria,0,0,0,0,24,0,0,0,24
+LA PAMPA,Catriló,Lonquimay,0,278,0,1,71,1,0,0,351
+LA PAMPA,Catriló,Uriburu,0,90,0,1,94,2,0,149,336
+LA PAMPA,Chalileo,Santa Isabel,0,0,2,0,0,1,0,862,865
+LA PAMPA,Chapaleufú,Bernardo Larroude,0,0,1,57,0,1,0,530,589
+LA PAMPA,Chapaleufú,Ceballos,0,0,0,1,0,1,0,73,75
+LA PAMPA,Chapaleufú,Coronel Hilario Lagos (Est. Aguas Buenas),0,0,0,0,0,1,0,238,239
+LA PAMPA,Chapaleufú,Intendente Alvear,83,613,1,209,1,2,0,556,1465
+LA PAMPA,Chapaleufú,Sarah,0,0,0,0,0,2,0,16,18
+LA PAMPA,Chapaleufú,Vértiz,0,0,0,0,0,0,0,107,107
+LA PAMPA,Chical Co,La Humada,0,0,0,0,0,1,0,152,153
+LA PAMPA,Conhelo,Conhelo,0,0,0,0,0,0,0,46,46
+LA PAMPA,Conhelo,Eduardo Castex,1693,1341,0,7,0,1,0,0,3042
+LA PAMPA,Conhelo,Mauricio Mayer,0,0,0,0,0,1,0,30,31
+LA PAMPA,Conhelo,Monte Nievas,0,0,0,0,0,1,0,45,46
+LA PAMPA,Conhelo,Rucanelo,0,0,0,1,0,0,0,26,27
+LA PAMPA,Conhelo,Winifreda,0,192,2,693,2,0,0,195,1084
+LA PAMPA,Curacó,Gobernador Duval,0,0,0,0,0,1,0,83,84
+LA PAMPA,Curacó,Puelches,0,0,0,0,0,1,0,68,69
+LA PAMPA,Guatraché,Alpachiri,0,0,0,2,0,1,0,0,3
+LA PAMPA,Guatraché,General Manuel J. Campos,0,0,0,2,0,1,0,0,3
+LA PAMPA,Guatraché,Guatraché,0,239,0,2,0,1,0,278,520
+LA PAMPA,Guatraché,Santa Teresa,0,0,0,2,0,0,0,0,2
+LA PAMPA,Guatraché,Perú,0,0,0,0,0,0,0,39,39
+LA PAMPA,Hucal,Abramo,0,0,0,1,0,1,0,64,66
+LA PAMPA,Hucal,Bernasconi,48,0,0,1,0,1,0,603,653
+LA PAMPA,Hucal,General San Martín (Est. Villa Alba),0,0,0,2,0,0,0,826,828
+LA PAMPA,Hucal,Jacinto Arauz,631,0,0,2,0,2,0,76,711
+LA PAMPA,Limay Mahuida,La Reforma,0,0,0,0,0,1,0,65,66
+LA PAMPA,Limay Mahuida,Limay Mahuida,0,0,0,0,0,1,0,16,17
+LA PAMPA,Loventué,Carro Quemado,0,0,0,1,0,1,0,50,52
+LA PAMPA,Loventué,Luan Toro,0,0,0,0,0,1,0,67,68
+LA PAMPA,Loventué,Telén,0,0,0,1,0,1,0,198,200
+LA PAMPA,Loventué,Victorica,0,0,0,2,0,1,0,482,485
+LA PAMPA,Loventué,Loventué,0,0,0,1,0,0,0,0,1
+LA PAMPA,Maracó,Agustoni,0,0,0,0,0,0,0,29,29
+LA PAMPA,Maracó,Dorila,0,0,0,1,0,0,0,53,54
+LA PAMPA,Maracó,General Pico,2535,1,91,14688,278,1,0,3015,20609
+LA PAMPA,Maracó,Speluzzi,0,0,0,1,0,0,0,41,42
+LA PAMPA,OTROS,OTROS,0,1,0,0,0,0,0,0,1
+LA PAMPA,Puelén,25 de Mayo,0,0,0,1027,0,0,0,950,1977
+LA PAMPA,Puelén,Puelén,0,0,1,0,0,2,0,131,134
+LA PAMPA,Puelén,Casa De Piedra,0,0,0,0,0,0,0,47,47
+LA PAMPA,Quemú Quemú,Colonia Barón,0,0,2,550,0,1,0,249,802
+LA PAMPA,Quemú Quemú,Miguel Cané,0,0,0,1,105,1,0,0,107
+LA PAMPA,Quemú Quemú,Quemú Quemú,0,0,1,2,113,1,0,143,260
+LA PAMPA,Quemú Quemú,Relmo,0,0,0,0,26,0,0,0,26
+LA PAMPA,Quemú Quemú,Villa Mirasol,0,0,0,0,0,0,0,250,250
+LA PAMPA,Rancul,Caleufú,0,350,0,2,0,1,0,0,353
+LA PAMPA,Rancul,La Maruja,0,150,0,0,0,1,0,0,151
+LA PAMPA,Rancul,Parera,0,0,0,408,0,1,0,258,667
+LA PAMPA,Rancul,Quetrequén,0,0,0,1,0,1,0,142,144
+LA PAMPA,Rancul,Rancul,0,0,0,158,0,2,0,677,837
+LA PAMPA,Rancul,Pichi Huinca,0,0,0,1,0,0,0,0,1
+LA PAMPA,Realicó,Adolfo Van Praet,0,6,0,0,0,1,0,23,30
+LA PAMPA,Realicó,Alta Italia,0,0,0,0,0,1,0,567,568
+LA PAMPA,Realicó,Damián Maisonave (Est. Simson),0,0,0,2,0,0,0,100,102
+LA PAMPA,Realicó,Embajador Martini,15,0,0,7,0,1,0,531,554
+LA PAMPA,Realicó,Falucho,0,0,0,0,0,1,0,77,78
+LA PAMPA,Realicó,Ingeniero Luiggi,0,0,0,240,0,2,0,1418,1660
+LA PAMPA,Realicó,Ojeda,0,0,0,0,0,0,0,9,9
+LA PAMPA,Realicó,Realicó,171,0,1,1527,0,1,0,1398,3098
+LA PAMPA,Toay,Toay,225,5104,0,556,0,1,0,259,6145
+LA PAMPA,Trenel,Arata,0,0,0,1,0,1,0,256,258
+LA PAMPA,Trenel,Metileo,0,0,0,0,0,1,0,60,61
+LA PAMPA,Trenel,Trenel,84,652,0,0,0,2,0,274,1012
+LA PAMPA,Utracán,Ataliva Roca,0,0,0,2,0,1,0,289,292
+LA PAMPA,Utracán,Chacharramendi,0,0,0,0,0,2,0,85,87
+LA PAMPA,Utracán,Colonia Santa María,0,0,1,1,0,0,0,145,147
+LA PAMPA,Utracán,General Acha,551,2915,0,970,0,2,0,333,4771
+LA PAMPA,Utracán,Quehué,0,0,0,1,0,1,0,242,244
+LA PAMPA,Utracán,Unanué,0,0,0,1,0,0,0,56,57
+LA PAMPA,Lihuel Calel,Cuchillo Co,0,0,0,1,0,1,0,0,2
+LA RIOJA,Arauco,Aimogasta,104,2031,0,4,0,1,0,87,2227
+LA RIOJA,Arauco,Estación Mazán,0,0,0,0,0,1,0,14,15
+LA RIOJA,Arauco,Villa Mazán,0,0,0,0,0,0,0,156,156
+LA RIOJA,Arauco,Machigasta,0,0,0,0,0,0,0,3,3
+LA RIOJA,Capital,La Rioja,5272,34941,4,16315,6,3,0,1223,57764
+LA RIOJA,Castro Barros,Anillaco,0,453,0,1,0,1,0,0,455
+LA RIOJA,Castro Barros,Los Molinos,0,49,0,0,0,0,0,4,53
+LA RIOJA,Castro Barros,San Pedro,0,28,0,0,0,0,0,45,73
+LA RIOJA,Castro Barros,Aminga,0,158,0,1,0,0,0,17,176
+LA RIOJA,Castro Barros,Anjullón,0,44,0,1,0,0,0,64,109
+LA RIOJA,Castro Barros,Chuquis,0,39,0,0,0,0,0,0,39
+LA RIOJA,Castro Barros,Pinchas,0,49,0,0,0,0,0,1,50
+LA RIOJA,Castro Barros,Santa Vera Cruz,0,0,0,0,0,0,0,5,5
+LA RIOJA,Chamical,Chamical,229,2963,0,8,0,1,0,9,3210
+LA RIOJA,Chilecito,Chilecito,1046,4510,0,3328,0,0,0,96,8980
+LA RIOJA,Chilecito,Colonia Vichigasta,0,0,0,0,0,1,0,0,1
+LA RIOJA,Chilecito,Los Sarmientos,0,157,0,0,0,0,0,0,157
+LA RIOJA,Chilecito,Nonogasta,90,824,0,1,0,1,0,6,922
+LA RIOJA,Chilecito,San Miguel,0,60,0,0,0,0,0,5,65
+LA RIOJA,Chilecito,San Nicolás,0,0,0,0,0,0,0,7,7
+LA RIOJA,Chilecito,Vichigasta,46,0,0,1,0,1,0,103,151
+LA RIOJA,Chilecito,Colonia Anguinán,0,161,0,1,0,0,0,69,231
+LA RIOJA,Chilecito,Guanchín,0,0,0,0,0,0,0,2,2
+LA RIOJA,Chilecito,Malligasta,0,0,0,0,0,0,0,185,185
+LA RIOJA,Chilecito,Santa Florentina,0,0,0,0,0,0,0,7,7
+LA RIOJA,Chilecito,Sañogasta,0,0,0,0,0,0,0,219,219
+LA RIOJA,Chilecito,Tilimuqui,0,0,0,0,0,0,0,13,13
+LA RIOJA,Chilecito,La Puntilla,0,0,0,0,0,0,0,1,1
+LA RIOJA,Coronel Felipe Varela,Guandacol,1,379,0,2,0,1,0,0,383
+LA RIOJA,Coronel Felipe Varela,Santa Clara,0,0,0,0,0,0,0,41,41
+LA RIOJA,Coronel Felipe Varela,Villa Unión,0,1122,0,3,0,1,0,258,1384
+LA RIOJA,Coronel Felipe Varela,Aicuña,0,0,0,0,0,0,0,47,47
+LA RIOJA,Coronel Felipe Varela,Los Palacios,0,0,0,0,0,0,0,107,107
+LA RIOJA,Coronel Felipe Varela,Pagancillo,0,0,0,1,0,0,0,126,127
+LA RIOJA,Famatina,Famatina,1,202,0,2,0,0,0,5,210
+LA RIOJA,Famatina,Angulos,0,0,0,0,0,0,0,6,6
+LA RIOJA,Famatina,Campanas,0,0,0,1,0,0,0,161,162
+LA RIOJA,Famatina,Chañarmuyo,0,0,0,0,0,0,0,29,29
+LA RIOJA,Famatina,La Cuadra,0,0,0,0,0,0,0,22,22
+LA RIOJA,Famatina,Pituil,0,0,0,0,0,0,0,153,153
+LA RIOJA,Famatina,Santa Cruz,0,0,0,0,0,0,0,22,22
+LA RIOJA,General Angel V. Peñaloza,Tama,8,0,0,1,0,0,0,149,158
+LA RIOJA,General Angel V. Peñaloza,Punta de los Llanos,0,0,0,1,0,0,0,93,94
+LA RIOJA,General Belgrano,Chañar,9,0,0,1,0,0,0,90,100
+LA RIOJA,General Belgrano,Loma Blanca,0,0,0,0,0,2,0,0,2
+LA RIOJA,General Belgrano,Olta,0,1069,0,1,0,1,0,6,1077
+LA RIOJA,General Belgrano,Castro Barros,0,0,0,0,0,0,0,1,1
+LA RIOJA,General Ocampo,Santa Rita de Catuna,0,299,0,0,0,1,0,0,300
+LA RIOJA,General Ocampo,Ambil,0,0,0,0,0,0,0,34,34
+LA RIOJA,General Ocampo,Milagro,0,813,0,1,0,0,0,0,814
+LA RIOJA,General San Martín,Ulapes,0,691,0,2,0,0,0,1,694
+LA RIOJA,Independencia,Amaná,1,0,0,0,0,0,0,1,2
+LA RIOJA,Independencia,OTROS,0,0,0,0,0,1,0,0,1
+LA RIOJA,Independencia,Patquía,31,0,0,1,0,0,0,279,311
+LA RIOJA,Rosario Vera Peñaloza,Chepes,4,2312,0,3,1,1,0,373,2694
+LA RIOJA,Rosario Vera Peñaloza,Desiderio Tello,0,0,0,0,0,0,0,116,116
+LA RIOJA,Sanagasta,Villa Sanagasta,0,543,0,5,0,1,0,5,554
+LA RIOJA,San Blas de los Sauces,Los Robles,0,1,0,3,0,1,0,102,107
+LA RIOJA,San Blas de los Sauces,Alpasinche,0,0,0,2,0,0,0,49,51
+LA RIOJA,San Blas de los Sauces,Salicas - San Blas,0,0,0,0,0,0,0,156,156
+LA RIOJA,San Blas de los Sauces,Andolucas,0,0,0,0,0,0,0,16,16
+LA RIOJA,San Blas de los Sauces,Chaupihuasi,0,0,0,0,0,0,0,16,16
+LA RIOJA,San Blas de los Sauces,Cuipan,0,0,0,0,0,0,0,50,50
+LA RIOJA,San Blas de los Sauces,Las Talas,0,1,0,0,0,0,0,42,43
+LA RIOJA,San Blas de los Sauces,San Blas,0,0,0,0,0,0,0,48,48
+LA RIOJA,San Blas de los Sauces,Shaqui,0,0,0,1,0,0,0,73,74
+LA RIOJA,San Blas de los Sauces,Suriyaco,0,0,0,0,0,0,0,2,2
+LA RIOJA,San Blas de los Sauces,Tuyubil,0,0,0,0,0,0,0,2,2
+LA RIOJA,General Juan F. Quiroga,San Antonio,0,0,0,0,0,0,0,33,33
+LA RIOJA,General Juan F. Quiroga,Malanzán,0,0,0,1,0,0,0,347,348
+LA RIOJA,General Juan F. Quiroga,Nácate,0,0,0,0,0,0,0,78,78
+LA RIOJA,General Juan F. Quiroga,Portezuelo,0,0,0,1,0,0,0,227,228
+LA RIOJA,General Lamadrid,Villa Castelli,0,0,0,1,0,0,0,255,256
+LA RIOJA,Vinchina,Jagüé,0,0,0,0,0,0,0,2,2
+LA RIOJA,Vinchina,Villa San José de Vinchina,0,0,0,2,0,0,0,431,433
+MENDOZA,Capital,Mendoza,6997,69861,182,32987,202,16,0,2053,112298
+MENDOZA,General Alvear,Bowen,0,64,1,0,0,1,0,91,157
+MENDOZA,General Alvear,General Alvear,782,3812,1,2224,411,0,0,3408,10638
+MENDOZA,General Alvear,Carmensa,0,0,0,0,0,0,0,79,79
+MENDOZA,Godoy Cruz,Godoy Cruz,4261,25,90,31340,100,2,0,1014,36832
+MENDOZA,Godoy Cruz,Gobernador Benegas,0,0,0,568,0,0,0,0,568
+MENDOZA,Godoy Cruz,Las Tortugas,0,0,0,759,0,0,0,0,759
+MENDOZA,Godoy Cruz,San Francisco Del Monte,0,0,0,288,0,0,0,0,288
+MENDOZA,Godoy Cruz,Villa Hipodromo,0,0,0,18,0,0,0,0,18
+MENDOZA,Guaymallén,Bermejo,0,0,0,149,0,0,0,0,149
+MENDOZA,Guaymallén,Colonia Segovia,0,0,0,5,0,0,0,142,147
+MENDOZA,Guaymallén,Guaymallén,5163,7,88,28449,17,0,0,1536,35260
+MENDOZA,Guaymallén,La Primavera,0,0,0,0,0,0,0,27,27
+MENDOZA,Guaymallén,Los Corralitos,102,0,2,0,0,1,0,49,154
+MENDOZA,Guaymallén,OTROS,0,0,0,0,0,0,0,150,150
+MENDOZA,Guaymallén,Puente de Hierro,1259,0,3,0,0,0,0,116,1378
+MENDOZA,Guaymallén,San Jose,0,0,0,112,0,0,0,0,112
+MENDOZA,Guaymallén,Dorrego,0,0,0,1,0,0,0,0,1
+MENDOZA,Guaymallén,Rodeo De La Cruz,0,0,0,351,0,1,0,0,352
+MENDOZA,Guaymallén,San Francisco Del Monte,0,0,0,223,0,0,0,0,223
+MENDOZA,Guaymallén,Buena Nueva,0,0,0,230,0,1,0,0,231
+MENDOZA,Guaymallén,Capilla Del Rosario,0,0,0,311,0,0,0,0,311
+MENDOZA,Guaymallén,El Sauce,0,0,0,14,0,0,0,0,14
+MENDOZA,Guaymallén,Jesus Nazareno,0,0,0,258,0,0,0,0,258
+MENDOZA,Guaymallén,Las Cañas,0,0,0,218,0,0,0,0,218
+MENDOZA,Guaymallén,Pedro Molina,0,0,0,113,0,0,0,0,113
+MENDOZA,Junín,Ingeniero Giagnoni,3682,0,52,254,52,0,0,66,4106
+MENDOZA,Junín,Junín,354,0,5,961,0,0,0,215,1535
+MENDOZA,Junín,La Colonia,0,0,0,541,0,1,0,201,743
+MENDOZA,Junín,Los Barriales,832,0,2,0,0,0,0,175,1009
+MENDOZA,Junín,Medrano,0,0,0,0,0,0,0,774,774
+MENDOZA,Junín,OTROS,0,0,0,30,0,0,0,0,30
+MENDOZA,Junín,Phillips,0,0,0,0,0,0,0,1,1
+MENDOZA,Junín,Rodríguez Peña,0,0,0,0,0,0,0,48,48
+MENDOZA,La Paz,La Paz,384,0,0,4,0,0,0,0,388
+MENDOZA,Las Heras,Las Heras,1206,7,32,13713,11,6,0,722,15697
+MENDOZA,Las Heras,Papagayos,0,0,0,0,0,1,0,0,1
+MENDOZA,Las Heras,Uspallata,578,0,2,558,0,0,0,0,1138
+MENDOZA,Las Heras,El Challao,0,0,0,198,0,0,0,0,198
+MENDOZA,Las Heras,El Plumerillo,0,0,0,36,0,0,0,0,36
+MENDOZA,Las Heras,El Resguardo,0,0,0,3,0,0,0,0,3
+MENDOZA,Las Heras,El Zapallar,0,0,0,84,0,0,0,0,84
+MENDOZA,Las Heras,Panquehua,0,0,0,5,0,0,0,0,5
+MENDOZA,Las Heras,Puente del Inca,0,0,0,0,0,1,0,0,1
+MENDOZA,Lavalle,3 de Mayo,0,0,0,0,0,0,0,21,21
+MENDOZA,Lavalle,Barrio Los Olivos,229,0,0,0,0,0,0,0,229
+MENDOZA,Lavalle,Costa de Araujo,0,0,0,2,29,0,0,125,156
+MENDOZA,Lavalle,El Vergel,0,0,0,0,0,0,0,22,22
+MENDOZA,Lavalle,Ingeniero Gustavo André,0,0,0,0,0,0,0,26,26
+MENDOZA,Lavalle,Jocolí,0,0,0,0,0,0,0,27,27
+MENDOZA,Lavalle,Jocolí Viejo,0,0,0,0,0,0,0,25,25
+MENDOZA,Lavalle,Villa Tulumaya,0,0,0,107,1,0,0,271,379
+MENDOZA,Luján de Cuyo,Agrelo,1,0,0,564,0,0,0,67,632
+MENDOZA,Luján de Cuyo,Cacheuta,18,0,0,0,0,0,0,31,49
+MENDOZA,Luján de Cuyo,Las Compuertas,1050,0,7,0,0,0,0,42,1099
+MENDOZA,Luján de Cuyo,Luján de Cuyo,2450,9,29,4074,608,1,0,1829,9000
+MENDOZA,Luján de Cuyo,Perdriel,60,0,4,154,0,0,0,58,276
+MENDOZA,Luján de Cuyo,Potrerillos,0,0,0,1,0,4,0,32,37
+MENDOZA,Luján de Cuyo,Ugarteche,0,0,0,123,0,0,0,127,250
+MENDOZA,Luján de Cuyo,Barrio Perdriel IV,0,0,0,77,0,0,0,15,92
+MENDOZA,Luján de Cuyo,Carrodilla,0,0,0,549,101,0,0,12,662
+MENDOZA,Luján de Cuyo,Chacras De Coria,0,0,0,913,0,0,0,24,937
+MENDOZA,Luján de Cuyo,Costa Flores,0,0,0,133,0,0,0,17,150
+MENDOZA,Luján de Cuyo,El Carrizal,0,0,0,0,0,0,0,42,42
+MENDOZA,Luján de Cuyo,El Salto,0,0,0,0,0,0,0,34,34
+MENDOZA,Luján de Cuyo,Las Vegas,0,0,0,0,0,0,0,32,32
+MENDOZA,Luján de Cuyo,Mayor Drummond,0,0,0,290,161,0,0,17,468
+MENDOZA,Luján de Cuyo,Vistalba,0,0,0,271,0,0,0,27,298
+MENDOZA,Luján de Cuyo,La Puntilla,0,0,0,110,0,0,0,2,112
+MENDOZA,Maipú,Barrancas,0,0,0,0,0,0,0,31,31
+MENDOZA,Maipú,Cruz de Piedra,0,0,0,59,0,0,0,12,71
+MENDOZA,Maipú,Fray Luis Beltrán,335,1,4,1,0,0,0,66,407
+MENDOZA,Maipú,Maipú,922,2,15,4596,6,0,0,1356,6897
+MENDOZA,Maipú,Rodeo del Medio,348,0,1,0,0,0,0,348,697
+MENDOZA,Maipú,Russell,1083,0,15,3489,15,0,0,0,4602
+MENDOZA,Maipú,San Roque,389,0,8,3114,0,0,0,104,3615
+MENDOZA,Maipú,Barrio Jesús de Nazaret,0,0,0,0,0,0,0,33,33
+MENDOZA,Maipú,El Pedregal,0,0,0,0,0,0,0,31,31
+MENDOZA,Maipú,Villa Teresa,0,0,0,0,0,0,0,38,38
+MENDOZA,Maipú,Coquimbito,0,0,0,5,0,0,0,0,5
+MENDOZA,Maipú,General Gutierrez,0,0,0,66,0,0,0,0,66
+MENDOZA,Maipú,Luzuriaga,0,0,0,321,0,0,0,0,321
+MENDOZA,Malargüe,Las Leñas,0,0,0,3,0,0,0,0,3
+MENDOZA,Malargüe,Malargüe,0,1613,4,4,0,3,0,28,1652
+MENDOZA,Malargüe,Agua Escondida,0,0,0,1,0,2,0,0,3
+MENDOZA,OTROS,OTROS,0,0,0,0,7,0,0,0,7
+MENDOZA,Rivadavia,Andrade,0,0,0,0,0,0,0,13,13
+MENDOZA,Rivadavia,Barrio Cooperativa Los Campamentos,0,0,0,0,0,0,0,5,5
+MENDOZA,Rivadavia,Barrio Rivadavia,0,0,0,0,0,0,0,63,63
+MENDOZA,Rivadavia,El Mirador,0,0,0,1,0,0,0,66,67
+MENDOZA,Rivadavia,La Central,0,0,0,0,0,0,0,98,98
+MENDOZA,Rivadavia,La Esperanza,0,0,0,0,0,0,0,33,33
+MENDOZA,Rivadavia,La Florida,0,0,0,0,0,0,0,96,96
+MENDOZA,Rivadavia,La Libertad,0,0,0,0,0,0,0,60,60
+MENDOZA,Rivadavia,Los Árboles,0,0,0,0,0,0,0,8,8
+MENDOZA,Rivadavia,Los Campamentos,0,0,0,0,0,0,0,81,81
+MENDOZA,Rivadavia,Medrano,0,0,1,0,0,0,0,3,4
+MENDOZA,Rivadavia,Mundo Nuevo,0,0,0,0,0,0,0,13,13
+MENDOZA,Rivadavia,Reducción de Abajo,0,0,0,0,0,0,0,61,61
+MENDOZA,Rivadavia,Rivadavia,828,0,8,2893,0,3,0,903,4635
+MENDOZA,Rivadavia,Santa María de Oro,0,0,0,0,0,0,0,42,42
+MENDOZA,San Carlos,Chilecito,0,0,0,0,0,0,0,153,153
+MENDOZA,San Carlos,Eugenio Bustos,36,0,0,0,0,0,0,628,664
+MENDOZA,San Carlos,La Consulta,164,0,0,0,0,1,0,639,804
+MENDOZA,San Carlos,San Carlos,0,167,0,1,0,0,0,400,568
+MENDOZA,San Carlos,Pareditas,0,0,0,86,1,0,0,33,120
+MENDOZA,San Carlos,Barrio El Cepillo,0,0,0,0,0,0,0,47,47
+MENDOZA,San Martín,Alto Salvador,0,0,0,34,0,0,0,19,53
+MENDOZA,San Martín,Alto Verde,0,0,0,63,0,0,0,88,151
+MENDOZA,San Martín,Chapanay,0,0,1,7,0,0,0,32,40
+MENDOZA,San Martín,El Ramblón,0,0,0,0,0,0,0,107,107
+MENDOZA,San Martín,Montecaseros,0,0,0,0,0,0,0,94,94
+MENDOZA,San Martín,Nueva California,0,0,0,0,0,0,0,47,47
+MENDOZA,San Martín,OTROS,0,0,0,0,0,0,0,94,94
+MENDOZA,San Martín,Palmira,0,0,0,515,0,0,0,19,534
+MENDOZA,San Martín,San Martín,0,3,0,2813,0,1,0,894,3711
+MENDOZA,San Martín,Tres Porteñas,0,0,0,3,0,0,0,209,212
+MENDOZA,San Martín,El Espino,0,0,0,0,0,0,0,59,59
+MENDOZA,San Rafael,25 de Mayo,0,79,1,0,0,0,0,14,94
+MENDOZA,San Rafael,Cuadro Benegas,35,0,2,2094,0,1,0,418,2550
+MENDOZA,San Rafael,El Nihuil,0,0,0,0,0,0,0,89,89
+MENDOZA,San Rafael,Goudge,0,1,0,0,1,0,0,177,179
+MENDOZA,San Rafael,San Rafael,3121,1757,215,13,216,0,0,1235,6557
+MENDOZA,San Rafael,Punta del Agua,0,0,0,2,0,0,0,0,2
+MENDOZA,San Rafael,Las Malvinas,0,0,0,0,0,0,0,54,54
+MENDOZA,San Rafael,Monte Comán,0,0,0,0,0,0,0,431,431
+MENDOZA,San Rafael,Rama Caída,0,0,0,0,0,0,0,459,459
+MENDOZA,San Rafael,Real del Padre,0,0,0,0,0,0,0,670,670
+MENDOZA,San Rafael,Salto de Las Rosas,0,0,1,0,0,0,0,365,366
+MENDOZA,San Rafael,Villa Atuel,0,0,0,0,0,0,0,351,351
+MENDOZA,San Rafael,Jaime Prats,0,0,0,0,0,0,0,94,94
+MENDOZA,San Rafael,Capitán Montoya,0,0,0,0,0,0,0,2,2
+MENDOZA,Santa Rosa,Barrio 12 de Octubre,0,0,0,3,0,0,0,0,3
+MENDOZA,Santa Rosa,La Dormida,0,0,0,1,0,0,0,396,397
+MENDOZA,Santa Rosa,Las Catitas,0,0,0,0,0,0,0,287,287
+MENDOZA,Santa Rosa,Santa Rosa,0,0,0,2,0,0,0,153,155
+MENDOZA,Tunuyán,Los Sauces,0,20,0,1,0,0,0,0,21
+MENDOZA,Tunuyán,Tunuyán,473,1375,1,11,0,0,0,16,1876
+MENDOZA,Tunuyán,Vista Flores,0,0,0,0,0,0,0,265,265
+MENDOZA,Tunuyán,Campo Los Andes,0,55,0,0,0,0,0,0,55
+MENDOZA,Tunuyán,Colonia Las Rosas,0,0,0,0,0,0,0,199,199
+MENDOZA,Tupungato,San José,0,0,0,37,0,0,0,17,54
+MENDOZA,Tupungato,Tupungato,517,0,0,3,0,3,0,598,1121
+MENDOZA,Tupungato,Cordón del Plata,0,0,0,0,0,0,0,344,344
+MENDOZA,Tupungato,La Arboleda,0,0,0,0,0,0,0,45,45
+MISIONES,25 de Mayo,25 de Mayo,0,0,0,0,538,2,0,0,540
+MISIONES,25 de Mayo,Colonia Alicia,0,0,0,0,20,0,0,32,52
+MISIONES,25 de Mayo,Colonia Aurora,0,0,0,0,10,1,0,61,72
+MISIONES,25 de Mayo,San Francisco de Asís,0,0,0,15,40,0,0,25,80
+MISIONES,25 de Mayo,Santa Rita,0,0,0,30,150,1,0,50,231
+MISIONES,25 de Mayo,Alicia Baja,0,0,0,0,0,0,0,24,24
+MISIONES,25 de Mayo,Alba Posse,0,0,0,40,0,0,0,0,40
+MISIONES,Apóstoles,Apóstoles,1876,3510,0,4,0,1,0,138,5529
+MISIONES,Apóstoles,Azara,0,10,0,0,0,1,0,146,157
+MISIONES,Apóstoles,San José,165,0,0,1,0,0,0,425,591
+MISIONES,Cainguás,Aristóbulo del Valle,1,1194,0,4,0,2,0,0,1201
+MISIONES,Cainguás,Campo Grande,10,0,0,4,0,1,0,0,15
+MISIONES,Cainguás,Dos de Mayo Núcleo I,0,0,0,1330,0,0,0,0,1330
+MISIONES,Cainguás,OTROS,0,0,0,0,0,6,0,0,6
+MISIONES,Cainguás,Salto Encantado,0,42,0,0,0,1,0,22,65
+MISIONES,Cainguás,Pueblo Illia,0,0,0,0,0,0,0,38,38
+MISIONES,Cainguás,Dos de Mayo Núcleo III,0,0,0,0,0,0,0,81,81
+MISIONES,Candelaria,Bonpland,43,0,0,0,0,0,0,0,43
+MISIONES,Candelaria,Candelaria,873,1,0,0,0,2,0,0,876
+MISIONES,Candelaria,Mártires,0,0,0,0,13,0,0,3,16
+MISIONES,Candelaria,Profundidad,0,0,0,0,0,0,0,3,3
+MISIONES,Candelaria,Santa Ana,195,0,0,0,0,0,0,0,195
+MISIONES,Candelaria,Barrio Del Lago,0,0,0,10278,0,0,0,0,10278
+MISIONES,Capital,Garupá,1167,1038,0,7995,0,0,0,85,10285
+MISIONES,Capital,Nemesio Parma,0,0,0,0,0,0,0,1,1
+MISIONES,Capital,Posadas,7195,70150,0,3613,12,8,0,230,81208
+MISIONES,Concepción,Concepción de la Sierra,0,458,0,3,0,1,0,154,616
+MISIONES,Concepción,La Corita,0,12,0,0,0,0,0,0,12
+MISIONES,Eldorado,Colonia Victoria,6,0,0,0,0,0,0,0,6
+MISIONES,Eldorado,Eldorado,7798,0,0,0,5,1,0,0,7804
+MISIONES,Eldorado,Puerto Mado,0,0,0,0,1,0,0,0,1
+MISIONES,Eldorado,Santiago De Liniers,0,0,0,0,0,0,0,1,1
+MISIONES,General Manuel Belgrano,Bernardo de Irigoyen,0,0,0,1,370,0,0,0,371
+MISIONES,General Manuel Belgrano,Dos Hermanas,0,0,0,0,5,0,0,0,5
+MISIONES,Guaraní,El Soberbio,0,0,0,0,520,1,0,532,1053
+MISIONES,Guaraní,Fracrán,0,0,0,0,0,0,0,131,131
+MISIONES,Guaraní,San Vicente,0,0,0,2265,20,0,0,1036,3321
+MISIONES,Iguazú,Esperanza,728,2000,0,1,0,0,0,100,2829
+MISIONES,Iguazú,Libertad,339,0,0,0,0,0,0,0,339
+MISIONES,Iguazú,Puerto Iguazú,1065,519,0,6489,0,3,0,0,8076
+MISIONES,Iguazú,Wanda,784,0,0,1,0,3,0,0,788
+MISIONES,Leandro N. Alem,Almafuerte,0,0,0,0,1,0,0,2,3
+MISIONES,Leandro N. Alem,Arroyo del Medio,0,0,0,0,0,0,0,2,2
+MISIONES,Leandro N. Alem,Caá - Yarí,0,0,0,0,0,0,0,1,1
+MISIONES,Leandro N. Alem,Cerro Azul,0,314,0,10,15,2,0,131,472
+MISIONES,Leandro N. Alem,Dos Arroyos,0,0,0,2,0,0,0,0,2
+MISIONES,Leandro N. Alem,Gobernador López,0,0,0,0,20,0,0,0,20
+MISIONES,Leandro N. Alem,Leandro N. Alem,1019,3515,0,2,127,0,0,0,4663
+MISIONES,Leandro N. Alem,Olegario V. Andrade,0,0,0,0,0,0,0,7,7
+MISIONES,Leandro N. Alem,Villa Libertad (Municipio Leandro N. Alem),0,60,0,0,0,0,0,0,60
+MISIONES,Libertador Grl. San Martín,Capioví,276,487,0,0,6,1,0,402,1172
+MISIONES,Libertador Grl. San Martín,El Alcázar,0,0,0,0,0,1,0,0,1
+MISIONES,Libertador Grl. San Martín,Garuhapé,73,657,0,0,6,1,0,38,775
+MISIONES,Libertador Grl. San Martín,Puerto Leoni,0,0,0,0,0,0,0,238,238
+MISIONES,Libertador Grl. San Martín,Puerto Rico,3651,1390,0,0,59,0,0,65,5165
+MISIONES,Libertador Grl. San Martín,Ruiz de Montoya,2,270,0,0,1,1,0,44,318
+MISIONES,Libertador Grl. San Martín,San Miguel,1,0,0,0,0,0,0,0,1
+MISIONES,Montecarlo,Caraguatay,0,0,0,0,20,0,0,0,20
+MISIONES,Montecarlo,Montecarlo,1180,296,0,1127,480,0,0,0,3083
+MISIONES,Montecarlo,Puerto Piray,340,0,0,0,20,2,0,0,362
+MISIONES,Montecarlo,Taruma,0,0,0,0,0,1,0,0,1
+MISIONES,Oberá,Alberdi,0,0,0,23,0,0,0,2,25
+MISIONES,Oberá,Campo Ramón,0,324,0,12,15,1,0,0,352
+MISIONES,Oberá,Campo Viera,0,0,0,1,0,0,0,0,1
+MISIONES,Oberá,General Alvear,0,0,0,9,0,0,0,0,9
+MISIONES,Oberá,Guaraní,5,0,0,22,0,0,0,0,27
+MISIONES,Oberá,Los Helechos,0,0,0,20,20,0,0,0,40
+MISIONES,Oberá,Oberá,4867,385,0,2312,22,0,0,0,7586
+MISIONES,Oberá,Panambí,0,0,0,21,0,0,0,0,21
+MISIONES,Oberá,Panambi Kilómetro 15,0,0,0,0,50,0,0,0,50
+MISIONES,Oberá,Panambí Kilómetro 8,0,0,0,24,50,0,0,0,74
+MISIONES,Oberá,San Martín,0,0,0,7,0,0,0,0,7
+MISIONES,Oberá,Villa Bonita,0,24,0,12,0,0,0,0,36
+MISIONES,OTROS,OTROS,0,0,0,0,4797,0,0,0,4797
+MISIONES,San Ignacio,Gobernador Roca,237,0,0,0,0,2,0,321,560
+MISIONES,San Ignacio,Helvecia,0,0,0,0,0,0,0,50,50
+MISIONES,San Ignacio,Hipólito Yrigoyen,0,0,0,0,0,0,0,373,373
+MISIONES,San Ignacio,Jardín América,790,0,0,2227,0,0,0,2143,5160
+MISIONES,San Ignacio,San Ignacio,586,0,0,0,0,1,0,1018,1605
+MISIONES,San Ignacio,Santo Pipó,241,0,0,0,0,0,0,475,716
+MISIONES,San Ignacio,Colonia Polana,0,0,0,0,0,0,0,26,26
+MISIONES,San Ignacio,Corpus,0,0,0,0,0,0,0,652,652
+MISIONES,San Ignacio,General Urquiza,0,0,0,0,0,0,0,83,83
+MISIONES,San Ignacio,Oasis,0,0,0,0,0,0,0,183,183
+MISIONES,San Ignacio,Roca Chica,0,0,0,0,0,0,0,221,221
+MISIONES,San Javier,Florentino Ameghino,0,0,0,0,60,0,0,0,60
+MISIONES,San Javier,Itacaruaré,0,95,0,0,0,0,0,0,95
+MISIONES,San Javier,Mojón Grande,0,0,0,0,35,0,0,0,35
+MISIONES,San Javier,San Javier,0,1302,0,5,40,3,0,400,1750
+MISIONES,San Pedro,Cruce Caballero,0,0,0,34,0,0,0,0,34
+MISIONES,San Pedro,OTROS,0,0,0,0,15,0,0,0,15
+MISIONES,San Pedro,Paraíso,0,0,0,198,8,0,0,10,216
+MISIONES,San Pedro,Piñalito Sur,0,0,0,26,0,0,0,2,28
+MISIONES,San Pedro,San Pedro,0,849,0,864,0,0,0,865,2578
+MISIONES,San Pedro,Tobuna,0,0,0,14,0,0,0,2,16
+NEUQUEN,Aluminé,Aluminé,0,927,0,0,0,2,0,124,1053
+NEUQUEN,Aluminé,Moquehue,1,0,0,0,0,1,0,193,195
+NEUQUEN,Aluminé,Villa Pehuenia,3,0,1,0,0,3,0,676,683
+NEUQUEN,Añelo,Añelo,0,3,0,366,0,14,0,353,736
+NEUQUEN,Añelo,San Patricio del Chañar,0,824,0,1033,0,2,0,316,2175
+NEUQUEN,Catan LilL,Las Coloradas,0,0,2,0,0,1,0,61,64
+NEUQUEN,Chos Malal,Chos Malal,435,0,8,290,8,4,92,385,1222
+NEUQUEN,Chos Malal,Tricao Malal,0,0,0,0,0,0,0,70,70
+NEUQUEN,Collón Curá,Piedra del Águila,0,0,2,0,0,2,0,0,4
+NEUQUEN,Collón Curá,Santo Tomás,0,0,0,0,0,2,0,0,2
+NEUQUEN,Confluencia,Arroyito,0,0,0,0,0,0,0,22,22
+NEUQUEN,Confluencia,Centenario,2121,2037,0,2844,0,7,0,590,7599
+NEUQUEN,Confluencia,Cutral Có,4563,0,57,2,0,6,0,8182,12810
+NEUQUEN,Confluencia,El Chocón,0,0,0,0,0,2,0,220,222
+NEUQUEN,Confluencia,Mari Menuco,0,0,0,0,0,0,0,100,100
+NEUQUEN,Confluencia,Neuquén,5684,65457,343,14636,347,39,2,2218,88726
+NEUQUEN,Confluencia,OTROS,0,0,0,0,0,3,0,0,3
+NEUQUEN,Confluencia,Plaza Huincul,0,0,0,0,0,3,0,1413,1416
+NEUQUEN,Confluencia,Plottier,2357,2744,0,272,10,2,0,4213,9598
+NEUQUEN,Confluencia,Senillosa,0,0,0,456,0,2,0,1398,1856
+NEUQUEN,Confluencia,Villa El Chocón,0,0,1,0,6,0,0,215,222
+NEUQUEN,Confluencia,Vista Alegre Norte,176,0,0,330,0,0,0,10,516
+NEUQUEN,Confluencia,Vista Alegre Sur,120,0,0,325,0,1,0,0,446
+NEUQUEN,Confluencia,11 de Octubre,32,0,0,418,0,0,0,0,450
+NEUQUEN,Confluencia,Barrio Ruca Luhé,0,0,0,8,0,0,0,0,8
+NEUQUEN,Huiliches,Junín de los Andes,390,1814,2,1377,0,2,0,1373,4958
+NEUQUEN,Lácar,San Martín de los Andes,7767,847,0,5036,0,5,0,796,14451
+NEUQUEN,Lácar,Villa Lago Meliquina,17,0,0,9,0,0,0,327,353
+NEUQUEN,Loncopué,Chorriaca,0,0,0,0,0,2,0,60,62
+NEUQUEN,Loncopué,Loncopué,0,1116,2,0,0,6,0,95,1219
+NEUQUEN,Los Lagos,Villa La Angostura,1447,0,9,0,9,1,0,236,1702
+NEUQUEN,Los Lagos,Villa Traful,0,0,0,0,0,4,0,0,4
+NEUQUEN,Minas,Andacollo,150,0,2,1,0,2,0,135,290
+NEUQUEN,Minas,Huinganco,0,0,1,0,0,1,0,40,42
+NEUQUEN,Minas,Las Ovejas,0,0,0,0,0,0,0,56,56
+NEUQUEN,Minas,Varvarco,0,0,0,0,0,0,0,20,20
+NEUQUEN,Minas,Villa Del Nahueve,0,0,0,0,0,0,0,20,20
+NEUQUEN,Minas,Manzano Amargo,0,0,0,0,0,0,0,10,10
+NEUQUEN,Ñorquín,Caviahué,0,0,1,0,0,3,0,179,183
+NEUQUEN,Ñorquín,Copahue,0,0,0,0,0,0,0,22,22
+NEUQUEN,Ñorquín,El Cholar,0,0,0,0,0,1,0,65,66
+NEUQUEN,Ñorquín,El Huecú,0,0,0,0,0,4,0,97,101
+NEUQUEN,Ñorquín,Taquimilán,0,0,0,0,0,0,0,35,35
+NEUQUEN,Pehuenches,Barrancas,0,0,0,0,0,1,0,30,31
+NEUQUEN,Pehuenches,Buta Ranquil,0,0,0,0,0,3,0,0,3
+NEUQUEN,Pehuenches,Rincón de los Sauces,739,46,5,558,3,5,0,382,1738
+NEUQUEN,Picún Leufú,Picún Leufú,0,0,0,0,0,1,0,301,302
+NEUQUEN,Picunches,Bajada del Agrio,0,0,0,0,0,0,0,0,0
+NEUQUEN,Picunches,Las Lajas,0,0,2,0,0,1,0,0,3
+NEUQUEN,Picunches,La Buitrera,0,0,0,0,0,1,0,0,1
+NEUQUEN,Zapala,Mariano Moreno,35,0,1,0,0,2,0,17,55
+NEUQUEN,Zapala,Zapala,3315,0,29,1435,29,1,0,2400,7209
+NEUQUEN,Zapala,Los Catutos,0,0,0,0,0,0,0,27,27
+RIO NEGRO,25 de Mayo,Aguada de Guerra,0,0,0,0,0,0,0,19,19
+RIO NEGRO,25 de Mayo,Clemente Onelli,0,0,0,30,0,0,0,0,30
+RIO NEGRO,25 de Mayo,Colan Conhue,0,0,0,0,0,1,0,0,1
+RIO NEGRO,25 de Mayo,El Caín,0,0,0,0,0,2,0,0,2
+RIO NEGRO,25 de Mayo,Ingeniero Jacobacci,245,0,3,460,0,2,0,610,1320
+RIO NEGRO,25 de Mayo,Los Menucos,0,0,0,0,0,2,0,44,46
+RIO NEGRO,25 de Mayo,Maquinchao,0,0,0,0,0,5,0,179,184
+RIO NEGRO,25 de Mayo,Pilquiniyeu,0,0,0,0,0,1,0,0,1
+RIO NEGRO,9 de Julio,Comicó,0,0,0,0,0,2,0,0,2
+RIO NEGRO,9 de Julio,Cona Niyeu,0,0,0,0,0,2,0,0,2
+RIO NEGRO,9 de Julio,Ministro Ramos Mexía,0,0,0,6,0,1,0,146,153
+RIO NEGRO,9 de Julio,Prahuaniyeu,0,0,0,0,0,1,0,0,1
+RIO NEGRO,9 de Julio,Sierra Colorada,0,0,0,7,0,1,0,85,93
+RIO NEGRO,9 de Julio,Yaminué,0,0,0,0,0,0,0,2,2
+RIO NEGRO,9 de Julio,Treneta,0,0,0,0,0,0,0,2,2
+RIO NEGRO,Adolfo Alsina,El Cóndor,0,0,0,0,0,0,0,590,590
+RIO NEGRO,Adolfo Alsina,Guardia Mitre,0,0,0,0,0,2,0,184,186
+RIO NEGRO,Adolfo Alsina,San Javier,0,0,0,0,0,1,0,211,212
+RIO NEGRO,Adolfo Alsina,Viedma,2610,1122,91,10701,92,5,0,479,15100
+RIO NEGRO,Avellaneda,Chimpay,0,0,0,14,0,3,0,0,17
+RIO NEGRO,Avellaneda,Choele Choel,486,1720,1,205,0,2,0,19,2433
+RIO NEGRO,Avellaneda,Coronel Belisle,0,0,0,189,0,1,0,5,195
+RIO NEGRO,Avellaneda,Darwin,0,0,0,141,0,1,0,1,143
+RIO NEGRO,Avellaneda,Lamarque,0,1616,1,13,0,1,0,30,1661
+RIO NEGRO,Avellaneda,Luis Beltrán,0,1407,1,203,0,2,0,46,1659
+RIO NEGRO,Avellaneda,Pomona,0,194,0,0,0,5,0,2,201
+RIO NEGRO,Bariloche,El Bolsón,3231,0,0,1400,0,2,0,979,5612
+RIO NEGRO,Bariloche,Rio Villegas,0,0,0,0,0,7,0,0,7
+RIO NEGRO,Bariloche,San Carlos de Bariloche,15034,2454,212,12990,15215,4,0,2196,48105
+RIO NEGRO,Bariloche,Villa Catedral,133,0,0,0,0,0,0,0,133
+RIO NEGRO,Bariloche,Villa Llao Llao,218,0,0,0,0,0,0,0,218
+RIO NEGRO,Bariloche,Villa Los Coihues,0,0,0,0,0,1,0,0,1
+RIO NEGRO,Bariloche,Villa Mascardi,0,0,0,4,0,0,0,0,4
+RIO NEGRO,Bariloche,El Foyel,0,0,0,0,0,1,0,0,1
+RIO NEGRO,Conesa,General Conesa,87,0,0,1036,0,1,0,22,1146
+RIO NEGRO,Conesa,OTROS,0,0,0,0,0,1,0,0,1
+RIO NEGRO,El Cuy,El Cuy,62,0,7,0,0,3,0,0,72
+RIO NEGRO,El Cuy,Las Perlas,0,0,0,208,0,1,0,144,353
+RIO NEGRO,El Cuy,Mencué,0,0,0,0,0,2,0,0,2
+RIO NEGRO,El Cuy,Valle Azul,0,0,0,0,0,1,0,7,8
+RIO NEGRO,El Cuy,Aguada Guzmán,0,0,0,0,0,3,0,0,3
+RIO NEGRO,El Cuy,Naupa Huen,0,0,0,1,0,0,0,0,1
+RIO NEGRO,El Cuy,Cerro Policía,0,0,0,1,0,0,0,0,1
+RIO NEGRO,General Roca,Allen,1680,0,17,2,0,4,0,509,2212
+RIO NEGRO,General Roca,Barda del Medio,0,0,1,0,0,1,0,260,262
+RIO NEGRO,General Roca,Barrio Chacra Monte,0,0,0,0,0,0,0,6,6
+RIO NEGRO,General Roca,Barrio El Labrador,0,0,0,35,0,0,0,56,91
+RIO NEGRO,General Roca,Barrio Guerrico,200,0,4,89,0,0,0,2,295
+RIO NEGRO,General Roca,Barrio La Defensa,0,0,0,0,0,0,0,8,8
+RIO NEGRO,General Roca,Barrio Mosconi,0,0,0,0,0,0,0,23,23
+RIO NEGRO,General Roca,Catriel,0,0,0,507,2619,2,0,19,3147
+RIO NEGRO,General Roca,Cervantes,0,1,0,0,0,2,0,268,271
+RIO NEGRO,General Roca,Chichinales,0,0,0,2,0,1,0,232,235
+RIO NEGRO,General Roca,Cinco Saltos,1752,0,4,2728,1,1,0,1018,5504
+RIO NEGRO,General Roca,Cipolletti,1,21284,1,522,1,6,0,599,22414
+RIO NEGRO,General Roca,Contralmirante Cordero,0,0,0,0,0,1,0,70,71
+RIO NEGRO,General Roca,General Enrique Godoy,0,0,0,2,0,1,0,284,287
+RIO NEGRO,General Roca,General Fernández Oro,337,4,2,2279,0,2,0,688,3312
+RIO NEGRO,General Roca,General Roca,4250,16662,181,651,181,5,0,1073,23003
+RIO NEGRO,General Roca,Ingeniero Luis A. Huergo,359,0,2,5,0,2,0,404,772
+RIO NEGRO,General Roca,Mainqué,0,0,0,0,0,1,0,96,97
+RIO NEGRO,General Roca,Peñas Blancas,0,0,0,0,0,2,0,0,2
+RIO NEGRO,General Roca,Sargento Vidal,0,0,0,50,0,0,0,131,181
+RIO NEGRO,General Roca,Villa Manzano,0,0,0,50,0,23,0,1027,1100
+RIO NEGRO,General Roca,Villa Regina,2116,0,5,133,0,18,0,425,2697
+RIO NEGRO,General Roca,Villa San Isidro,0,0,0,25,0,0,0,15,40
+RIO NEGRO,General Roca,Bajo San Cayetano,0,0,0,0,0,0,0,1,1
+RIO NEGRO,General Roca,Barrio El Petróleo,0,0,0,0,0,0,0,3,3
+RIO NEGRO,General Roca,Barrio Fátima,0,0,0,0,0,0,0,3,3
+RIO NEGRO,General Roca,Barrio Frontera,0,0,0,0,0,0,0,2,2
+RIO NEGRO,General Roca,Barrio Isla 10,0,0,0,0,0,0,0,3,3
+RIO NEGRO,General Roca,Barrio La Barda,0,0,0,0,0,0,0,2,2
+RIO NEGRO,General Roca,Barrio La Costa,0,0,0,0,0,0,0,2,2
+RIO NEGRO,General Roca,Barrio La Ribera - Barrio APYCAR,0,0,0,0,0,0,0,8,8
+RIO NEGRO,General Roca,Barrio Luisillo,0,0,0,0,0,0,0,1,1
+RIO NEGRO,General Roca,Barrio Mar del Plata,0,0,0,0,0,0,0,8,8
+RIO NEGRO,General Roca,Barrio Moño Azul,0,0,0,0,0,0,0,1,1
+RIO NEGRO,General Roca,Barrio Norte (municipio de Cipolletti),0,0,0,0,0,0,0,1,1
+RIO NEGRO,General Roca,Barrio Pinar,0,0,0,0,0,0,0,2,2
+RIO NEGRO,General Roca,Barrio Porvenir,0,0,0,0,0,0,0,1,1
+RIO NEGRO,General Roca,Barrio Puente 83,0,0,0,0,0,0,0,3,3
+RIO NEGRO,General Roca,Barrio Santa Lucia,0,0,0,0,0,0,0,2,2
+RIO NEGRO,General Roca,Barrio Santa Rita,0,0,0,0,0,0,0,3,3
+RIO NEGRO,General Roca,Barrio Unión,0,0,0,0,0,0,0,6,6
+RIO NEGRO,General Roca,Ingeniero Otto Krause,0,0,0,0,0,0,0,2,2
+RIO NEGRO,General Roca,Paso Córdova,0,0,0,0,0,0,0,12,12
+RIO NEGRO,General Roca,Puente Cero,0,0,0,0,0,0,0,3,3
+RIO NEGRO,General Roca,Villa Alberdi,0,0,0,0,0,0,0,5,5
+RIO NEGRO,General Roca,Villa del Parque,0,0,0,0,0,0,0,1,1
+RIO NEGRO,General Roca,Ferri,0,0,0,0,0,0,0,314,314
+RIO NEGRO,General Roca,Barrio Destacamento,0,0,0,0,0,1,0,0,1
+RIO NEGRO,Ñorquincó,Mamuel Choique,0,0,0,1,0,0,0,0,1
+RIO NEGRO,Ñorquincó,Ñorquincó,0,0,0,0,0,7,0,0,7
+RIO NEGRO,Ñorquincó,Río Chico (Est. Cerro Mesa),0,0,0,0,0,2,0,0,2
+RIO NEGRO,Pichi Mahuida,Colonia Juliá y Echarren,0,0,0,1,0,1,0,0,2
+RIO NEGRO,Pichi Mahuida,Río Colorado,860,1796,6,2,0,5,0,1272,3941
+RIO NEGRO,Pichi Mahuida,Barrio Esperanza,0,0,0,1,0,0,0,0,1
+RIO NEGRO,Pichi Mahuida,Juventud Unida,0,0,0,1,0,0,0,0,1
+RIO NEGRO,Pichi Mahuida,Salto Andersen,0,0,0,0,0,1,0,0,1
+RIO NEGRO,Pilcaniyeu,Comallo,0,0,0,6,0,3,0,292,301
+RIO NEGRO,Pilcaniyeu,Dina Huapi,383,0,2,2,100,2,0,28,517
+RIO NEGRO,Pilcaniyeu,Laguna Blanca,0,0,0,0,0,2,0,0,2
+RIO NEGRO,Pilcaniyeu,Pilcaniyeu,0,0,0,0,0,4,0,0,4
+RIO NEGRO,Pilcaniyeu,Pilquiniyeu del Limay,0,0,0,1,0,0,0,0,1
+RIO NEGRO,Pilcaniyeu,Paso Flores,0,0,0,0,0,2,0,0,2
+RIO NEGRO,Pilcaniyeu,Villa Llanquín,0,0,0,0,0,1,0,0,1
+RIO NEGRO,San Antonio,Las Grutas,293,0,2,1746,0,16,0,0,2057
+RIO NEGRO,San Antonio,Playas Doradas,0,0,0,0,0,0,0,195,195
+RIO NEGRO,San Antonio,Puerto San Antonio Este,1,0,0,1,0,1,0,50,53
+RIO NEGRO,San Antonio,Punta Colorada,0,0,0,0,0,0,0,5,5
+RIO NEGRO,San Antonio,San Antonio Oeste,784,0,4,2248,0,12,0,833,3881
+RIO NEGRO,San Antonio,Sierra Grande,430,0,1,1433,0,2,0,287,2153
+RIO NEGRO,San Antonio,Saco Viejo,0,0,0,0,0,1,0,31,32
+RIO NEGRO,Valcheta,Aguada Cecilio,0,0,0,1,0,0,0,0,1
+RIO NEGRO,Valcheta,Arroyo Los Berros,0,0,0,0,0,2,0,0,2
+RIO NEGRO,Valcheta,Sierra Pailemán,0,0,0,0,0,2,0,0,2
+RIO NEGRO,Valcheta,Valcheta,0,0,0,871,0,2,0,163,1036
+RIO NEGRO,Valcheta,Arroyo Ventana,0,0,0,0,0,1,0,0,1
+RIO NEGRO,Valcheta,Nahuel Niyeu,0,0,0,13,0,0,0,0,13
+SALTA,Anta,Apolinario Saravia,0,0,0,0,705,1,0,6,712
+SALTA,Anta,Coronel Mollinedo,0,0,0,0,0,1,0,2,3
+SALTA,Anta,El Quebrachal,0,1164,0,452,0,4,0,0,1620
+SALTA,Anta,Gaona,0,459,0,50,0,2,0,0,511
+SALTA,Anta,General Pizarro,0,0,0,50,0,1,0,1,52
+SALTA,Anta,Joaquín V. González,587,4637,0,304,0,3,0,0,5531
+SALTA,Anta,Las Lajitas,0,648,0,1,10,7,0,27,693
+SALTA,Anta,Piquete Cabado,0,0,0,0,0,1,0,5,6
+SALTA,Anta,Río del Valle,0,0,0,0,0,1,0,3,4
+SALTA,Anta,Tolloche,0,0,0,4,0,1,0,0,5
+SALTA,Anta,Luis Burela,0,0,0,0,0,0,0,3,3
+SALTA,Anta,Coronel Olleros,0,0,0,0,0,1,0,2,3
+SALTA,Anta,Ceibalito,0,0,0,5,0,1,0,0,6
+SALTA,Cachi,Cachi,0,0,0,1,0,1,0,290,292
+SALTA,Cachi,Payogasta,0,0,0,0,0,0,0,30,30
+SALTA,Cafayate,Cafayate,974,0,0,2,0,1,0,315,1292
+SALTA,Cafayate,Tolombón,0,0,0,0,0,0,0,0,0
+SALTA,Capital,Atocha,0,0,0,55,0,0,0,14,69
+SALTA,Capital,El Tipal - La Almudena,0,0,0,0,0,2,0,70,72
+SALTA,Capital,La Ciénaga y Barrio San Rafael,0,0,0,0,0,0,0,44,44
+SALTA,Capital,Las Costas,0,0,0,0,0,0,0,49,49
+SALTA,Capital,OTROS,0,0,0,0,0,1,0,0,1
+SALTA,Capital,Salta,15924,76855,5,36774,85,8,0,5713,135364
+SALTA,Capital,Villa San Lorenzo,335,1998,0,6,3,1,0,116,2459
+SALTA,Cerrillos,Cerrillos,591,2552,0,600,80,3,0,46,3872
+SALTA,Cerrillos,La Merced,0,0,0,943,70,1,0,42,1056
+SALTA,Cerrillos,San Agustín,0,0,0,0,20,1,0,82,103
+SALTA,Cerrillos,Barrio Los Pinares,130,0,0,34,0,0,0,41,205
+SALTA,Cerrillos,Barrio El Congreso,0,0,0,15,0,0,0,0,15
+SALTA,Cerrillos,Barrio Las Tunas,0,0,0,8,0,0,0,0,8
+SALTA,Chicoana,Barrio La Rotonda,0,0,0,160,10,0,0,2,172
+SALTA,Chicoana,Chicoana,195,0,0,151,15,2,0,15,378
+SALTA,Chicoana,El Carril,216,0,0,800,120,2,0,607,1745
+SALTA,Chicoana,Barrio Finca La Maroma,0,0,0,10,0,0,0,0,10
+SALTA,Chicoana,Barrio Santa Teresita,0,0,0,60,0,0,0,0,60
+SALTA,General Güemes,Campo Santo,126,0,0,40,0,1,0,5,172
+SALTA,General Güemes,El Bordo,0,0,0,61,0,0,0,5,66
+SALTA,General Güemes,General Güemes,2425,0,0,130,0,5,0,0,2560
+SALTA,General Güemes,Cobos,0,0,0,60,0,0,0,3,63
+SALTA,Grl. José de San Martín,Aguaray,740,433,0,91,0,4,0,2,1270
+SALTA,Grl. José de San Martín,Campamento Vespucio,155,0,0,40,0,2,0,0,197
+SALTA,Grl. José de San Martín,Campichuelo,0,0,0,0,2,0,0,0,2
+SALTA,Grl. José de San Martín,Campo Durán,0,0,0,7,0,0,0,0,7
+SALTA,Grl. José de San Martín,Coronel Cornejo,15,0,0,44,0,1,0,0,60
+SALTA,Grl. José de San Martín,Dragones,0,0,0,50,0,2,0,12,64
+SALTA,Grl. José de San Martín,Embarcación,962,1299,0,3,535,4,0,0,2803
+SALTA,Grl. José de San Martín,General Ballivián,0,0,0,51,0,1,0,0,52
+SALTA,Grl. José de San Martín,General Mosconi,1298,0,0,60,0,1,0,2,1361
+SALTA,Grl. José de San Martín,Hickman,0,0,0,0,69,0,0,0,69
+SALTA,Grl. José de San Martín,Misión El Cruce - El Milagro - El Jardín de San Martín,0,0,0,0,3,0,0,0,3
+SALTA,Grl. José de San Martín,Misión Kilómetro 6,0,0,0,0,2,0,0,0,2
+SALTA,Grl. José de San Martín,Pacará,0,0,0,0,2,0,0,0,2
+SALTA,Grl. José de San Martín,Padre Lozano,0,0,0,0,0,0,0,0,0
+SALTA,Grl. José de San Martín,Piquirenda,0,0,0,6,0,0,0,0,6
+SALTA,Grl. José de San Martín,Profesor Salvador Mazza,996,0,0,91,0,1,0,0,1088
+SALTA,Grl. José de San Martín,Tartagal,2350,4535,0,1337,3048,2,0,14,11286
+SALTA,Grl. José de San Martín,Tobantirenda,0,0,0,3,0,0,0,0,3
+SALTA,Grl. José de San Martín,Yacuy,0,0,0,4,0,0,0,0,4
+SALTA,Guachipas,Guachipas,0,0,0,3,35,2,0,110,150
+SALTA,Iruya,Iruya,0,0,0,1,80,0,0,45,126
+SALTA,Iruya,Pueblo Viejo,0,0,0,10,0,0,0,0,10
+SALTA,Iruya,Isla de Cañas,0,0,0,0,0,0,0,28,28
+SALTA,La Caldera,La Caldera,0,0,0,50,293,3,0,8,354
+SALTA,La Caldera,Vaqueros,159,0,0,90,250,0,0,469,968
+SALTA,La Candelaria,El Jardín,0,0,0,42,0,1,0,0,43
+SALTA,La Candelaria,El Tala,0,0,0,41,0,5,0,131,177
+SALTA,La Candelaria,La Candelaria,0,0,0,36,0,0,0,0,36
+SALTA,La Poma,La Poma,0,0,0,1,0,0,0,44,45
+SALTA,La Viña,Coronel Moldes,52,0,0,0,115,1,0,5,173
+SALTA,La Viña,La Viña,0,0,0,1,0,1,0,98,100
+SALTA,La Viña,Ampascachi,0,0,0,0,0,0,0,2,2
+SALTA,La Viña,Talapampa,0,0,0,0,0,0,0,2,2
+SALTA,La Viña,Cabra Corral,0,0,0,0,0,0,0,2,2
+SALTA,Los Andes,Olacapato,0,0,0,31,0,3,0,3,37
+SALTA,Los Andes,San Antonio de los Cobres,0,0,0,2,0,16,0,94,112
+SALTA,Los Andes,Tolar Grande,0,0,0,20,0,2,0,12,34
+SALTA,Los Andes,Santa Rosa de los Pastos Grandes,0,0,0,28,0,0,0,20,48
+SALTA,Metán,El Galpón,219,65,0,91,0,1,0,3,379
+SALTA,Metán,El Tunal,0,0,0,80,0,1,0,0,81
+SALTA,Metán,Metán Viejo,0,0,0,42,0,1,0,0,43
+SALTA,Metán,Río Piedras,34,0,0,15,0,1,0,2,52
+SALTA,Metán,San José de Metán,2877,611,0,183,0,2,0,0,3673
+SALTA,Metán,Lumbreras,0,0,0,46,0,0,0,0,46
+SALTA,Metán,San José de Orquera,0,0,0,15,0,0,0,0,15
+SALTA,Molinos,Molinos,2,0,0,3,0,0,0,45,50
+SALTA,Molinos,Seclantás,0,0,0,2,0,2,0,21,25
+SALTA,Orán,Aguas Blancas,0,0,0,0,0,1,0,75,76
+SALTA,Orán,Colonia Santa Rosa,0,293,0,0,100,3,0,85,481
+SALTA,Orán,Hipólito Yrigoyen,519,423,0,250,40,1,0,85,1318
+SALTA,Orán,Pichanal,436,97,0,1,103,1,0,0,638
+SALTA,Orán,San Ramón de la Nueva Orán,3680,107,0,2941,580,3,0,0,7311
+SALTA,Orán,Urundel,0,0,0,1,0,2,0,86,89
+SALTA,Orán,El Tabacal,0,1,0,80,0,0,0,0,81
+SALTA,OTROS,OTROS,0,0,0,0,16,0,0,0,16
+SALTA,Rivadavia,Alto de la Sierra,0,0,0,1,3,0,0,5,9
+SALTA,Rivadavia,Capitán Juan Pagé,0,0,0,0,0,0,0,4,4
+SALTA,Rivadavia,Coronel Juan Solá,30,0,0,1,0,2,0,96,129
+SALTA,Rivadavia,La Unión,0,0,0,0,0,1,0,0,1
+SALTA,Rivadavia,Los Blancos,0,0,0,0,0,0,0,9,9
+SALTA,Rivadavia,Pluma de Pato,0,0,0,0,0,0,0,6,6
+SALTA,Rivadavia,Rivadavia,0,0,0,1,0,0,0,0,1
+SALTA,Rivadavia,Santa María,0,0,0,0,5,0,0,0,5
+SALTA,Rivadavia,Santa Victoria Este,17,0,0,1,10,1,0,41,70
+SALTA,Rosario de la Frontera,Antilla,0,0,0,1,0,2,0,0,3
+SALTA,Rosario de la Frontera,El Potrero,0,0,0,1,0,1,0,0,2
+SALTA,Rosario de la Frontera,Rosario de la Frontera,2354,404,0,3,0,1,0,175,2937
+SALTA,Rosario de la Frontera,Copo Quile,0,0,0,35,0,0,0,0,35
+SALTA,Rosario de la Frontera,El Naranjo,0,0,0,39,0,1,0,0,40
+SALTA,Rosario de Lerma,Campo Quijano,218,0,0,360,0,3,0,148,729
+SALTA,Rosario de Lerma,La Silleta,105,0,0,220,0,1,0,34,360
+SALTA,Rosario de Lerma,Rosario de Lerma,1285,403,0,2602,10,1,0,4,4305
+SALTA,Rosario de Lerma,La Merced Del Encón,0,0,0,175,0,0,0,82,257
+SALTA,San Carlos,Angastaco,0,0,0,7,0,0,0,39,46
+SALTA,San Carlos,Animaná,0,0,0,0,0,1,0,51,52
+SALTA,San Carlos,El Barrial,0,0,0,0,400,0,0,0,400
+SALTA,San Carlos,San Carlos,0,0,0,1,0,2,0,94,97
+SALTA,Santa Victoria,Campo La Cruz,0,0,0,0,50,0,0,0,50
+SALTA,Santa Victoria,Los Toldos,0,0,0,2,0,0,0,41,43
+SALTA,Santa Victoria,Nazareno,0,0,0,61,135,0,0,0,196
+SALTA,Santa Victoria,Poscaya,0,0,0,0,30,0,0,0,30
+SALTA,Santa Victoria,San Marcos,0,0,0,0,30,0,0,0,30
+SALTA,Santa Victoria,Santa Victoria,0,0,0,74,0,5,0,200,279
+SALTA,Santa Victoria,Acoyte,0,0,0,0,0,0,0,10,10
+SAN JUAN,25 de Mayo,Villa Santa Rosa,0,0,0,0,0,0,0,52,52
+SAN JUAN,25 de Mayo,Tupelí,0,0,0,0,0,0,0,60,60
+SAN JUAN,25 de Mayo,Villa Borjas - La Chimbera,0,0,0,0,0,0,0,80,80
+SAN JUAN,25 de Mayo,Villa Borjas,0,0,0,0,0,0,0,6,6
+SAN JUAN,9 de Julio,9 de Julio,0,0,0,125,0,1,0,116,242
+SAN JUAN,9 de Julio,Colonia Fiorito,0,0,0,0,0,0,0,5,5
+SAN JUAN,9 de Julio,Las Chacritas,0,0,0,0,0,0,0,91,91
+SAN JUAN,9 de Julio,OTROS,0,0,0,0,0,1,0,0,1
+SAN JUAN,9 de Julio,Alto de Sierra,0,0,0,0,0,0,0,5,5
+SAN JUAN,Albardón,El Rincón,509,0,5,0,0,0,0,10,524
+SAN JUAN,Albardón,OTROS,0,0,0,0,300,0,0,0,300
+SAN JUAN,Albardón,Villa General San Martín - Campo Afuera,0,0,0,0,0,0,0,135,135
+SAN JUAN,Albardón,Villa General San Martin,0,0,0,0,0,0,0,46,46
+SAN JUAN,Angaco,OTROS,0,0,0,0,72,0,0,0,72
+SAN JUAN,Angaco,Villa El Salvador - Villa Sefair,0,0,0,0,0,0,0,93,93
+SAN JUAN,Angaco,Villa El Salvador,0,0,0,0,0,0,0,34,34
+SAN JUAN,Calingasta,Barreal - Villa Pituil,0,0,1,0,0,0,0,1294,1295
+SAN JUAN,Calingasta,Calingasta,0,0,0,0,0,2,0,370,372
+SAN JUAN,Calingasta,Tamberías,0,0,1,0,0,0,0,130,131
+SAN JUAN,Capital,San Juan,12814,22723,227,10721,3576,5,0,6781,56847
+SAN JUAN,Caucete,Bermejo,0,0,0,0,0,1,0,0,1
+SAN JUAN,Caucete,Caucete,1006,0,0,0,2500,0,0,521,4027
+SAN JUAN,Caucete,Vallecito,0,0,0,0,250,0,0,4,254
+SAN JUAN,Caucete,Villa Independencia,0,0,0,0,0,0,0,10,10
+SAN JUAN,Chimbas,Chimbas,2944,0,6,942,0,0,0,1948,5840
+SAN JUAN,Chimbas,Villa Paula Albarracin,0,0,0,0,0,0,0,2,2
+SAN JUAN,Iglesia,Angualasto,0,0,0,0,0,0,0,38,38
+SAN JUAN,Iglesia,Bella Vista,0,0,0,0,0,1,0,43,44
+SAN JUAN,Iglesia,Iglesia,0,0,0,0,0,11,0,79,90
+SAN JUAN,Iglesia,Las Flores,0,0,0,0,0,1,0,111,112
+SAN JUAN,Iglesia,Pismanta,0,0,0,0,0,3,0,18,21
+SAN JUAN,Iglesia,Rodeo,0,0,0,0,10,0,0,472,482
+SAN JUAN,Iglesia,Tudcum,0,0,0,0,0,1,0,89,90
+SAN JUAN,Jáchal,San Isidro,0,0,0,0,0,0,0,97,97
+SAN JUAN,Jáchal,San José de Jáchal,0,0,1,381,0,2,0,711,1095
+SAN JUAN,Jáchal,Tamberías,0,0,0,0,0,0,0,62,62
+SAN JUAN,Jáchal,Villa Mercedes,0,0,0,0,0,4,0,170,174
+SAN JUAN,Jáchal,Gran China,0,0,0,0,0,0,0,82,82
+SAN JUAN,Jáchal,Huaco,0,0,0,0,0,0,0,109,109
+SAN JUAN,Jáchal,Pampa Vieja,0,0,0,0,0,0,0,86,86
+SAN JUAN,Jáchal,El Médano,0,0,0,0,0,0,0,25,25
+SAN JUAN,Jáchal,Mogna,0,0,0,0,0,0,0,5,5
+SAN JUAN,Jáchal,Niquivil,0,0,0,0,0,0,0,25,25
+SAN JUAN,Jáchal,Villa Malvinas Argentinas,0,0,0,0,0,0,0,25,25
+SAN JUAN,OTROS,OTROS,0,0,0,0,454,0,0,0,454
+SAN JUAN,Pocito,Villa Aberastain - La Rinconada,549,0,4,0,0,1,0,205,759
+SAN JUAN,Pocito,Villa Centenario,0,0,0,0,0,0,0,56,56
+SAN JUAN,Pocito,Villa Barbosa - Villa Nacusi,0,0,0,0,0,0,0,98,98
+SAN JUAN,Pocito,Quinto Cuartel,0,0,0,0,0,0,0,101,101
+SAN JUAN,Pocito,Villa Aberastain,0,0,0,0,0,0,0,10,10
+SAN JUAN,Pocito,Barrio Ruta 40,0,0,0,0,0,0,0,14,14
+SAN JUAN,Pocito,Carpintería,0,0,0,0,0,0,0,14,14
+SAN JUAN,Rawson,Rawson,16318,0,12,0,0,2,0,1004,17336
+SAN JUAN,Rawson,Villa Krause,0,0,0,0,0,0,0,211,211
+SAN JUAN,Rawson,El Medanito,0,0,0,0,0,0,0,32,32
+SAN JUAN,Rawson,Villa Bolaños,0,0,0,0,0,0,0,287,287
+SAN JUAN,Rivadavia,Rivadavia,2028,0,12,77,15,1,0,2243,4376
+SAN JUAN,San Martín,San Isidro (Est. Los Angacos),2,0,0,0,0,0,0,4,6
+SAN JUAN,San Martín,Villa San Martín,0,0,0,0,210,1,0,18,229
+SAN JUAN,San Martín,Villa Don Bosco (Est. Angaco Sud),0,0,0,3,0,0,0,73,76
+SAN JUAN,San Martín,Villa El Salvador,0,0,0,0,0,0,0,12,12
+SAN JUAN,San Martín,Dos Acequias (Est. Los Angacos),0,0,0,0,0,0,0,31,31
+SAN JUAN,San Martín,Barrio Sadop,0,0,0,0,0,0,0,2,2
+SAN JUAN,San Martín,Villa Dominguito (Est. Puntilla Blanca),0,0,0,0,0,0,0,2,2
+SAN JUAN,Santa Lucía,Santa Lucía,2400,0,11,73,15,0,0,2057,4556
+SAN JUAN,Santa Lucía,Alto de Sierra,0,0,0,0,0,0,0,18,18
+SAN JUAN,Sarmiento,Cañada Honda,0,0,0,1,0,2,0,1,4
+SAN JUAN,Sarmiento,Cienaguita,0,0,0,1,0,0,0,1,2
+SAN JUAN,Sarmiento,Las Lagunas,0,0,0,0,0,1,0,0,1
+SAN JUAN,Sarmiento,Los Berros,0,0,0,2,0,0,0,66,68
+SAN JUAN,Sarmiento,Villa Media Agua,0,0,0,1,0,0,0,197,198
+SAN JUAN,Sarmiento,Pedernal,0,0,0,0,0,0,0,11,11
+SAN JUAN,Sarmiento,Divisadero,0,0,0,0,0,0,0,11,11
+SAN JUAN,Sarmiento,Guanacache,0,0,0,0,0,0,0,8,8
+SAN JUAN,Sarmiento,Punta del Médano,0,0,0,0,0,0,0,1,1
+SAN JUAN,Ullum,Villa Ibáñez,0,0,1,0,0,0,0,402,403
+SAN JUAN,Valle Fértil,Astica,0,0,0,0,0,0,0,30,30
+SAN JUAN,Valle Fértil,OTROS,0,0,0,0,190,0,0,0,190
+SAN JUAN,Valle Fértil,Villa San Agustín,0,0,0,1,0,4,0,260,265
+SAN JUAN,Zonda,Villa Basilio Nievas,0,0,0,0,0,0,0,340,340
+SAN LUIS,Ayacucho,Candelaria,0,0,0,0,0,0,0,882,882
+SAN LUIS,Ayacucho,La Majada,0,0,0,0,0,0,0,19,19
+SAN LUIS,Ayacucho,Leandro N. Alem,0,0,0,0,0,0,0,13,13
+SAN LUIS,Ayacucho,Luján,0,0,0,0,0,0,0,1196,1196
+SAN LUIS,Ayacucho,OTROS,0,0,0,0,0,3,0,0,3
+SAN LUIS,Ayacucho,Quines,0,0,0,0,0,1,0,37,38
+SAN LUIS,Ayacucho,Río Juan Gómez,0,0,0,0,0,0,0,76,76
+SAN LUIS,Ayacucho,San Francisco del Monte de Oro,0,0,0,0,0,0,0,1435,1435
+SAN LUIS,Ayacucho,San Miguel,0,0,0,0,0,1,0,0,1
+SAN LUIS,Ayacucho,Pampa Grande,0,0,0,2,0,0,0,0,2
+SAN LUIS,Ayacucho,Lomas Blancas,0,0,0,0,0,0,0,21,21
+SAN LUIS,Belgrano,La Calera,0,0,0,0,0,0,0,392,392
+SAN LUIS,Belgrano,Los Molles,0,0,0,0,0,0,0,246,246
+SAN LUIS,Belgrano,Nogolí,0,0,0,0,0,0,0,660,660
+SAN LUIS,Belgrano,San Pedro,0,0,0,0,0,0,0,13,13
+SAN LUIS,Belgrano,Villa de la Quebrada,0,0,0,0,0,0,0,513,513
+SAN LUIS,Belgrano,Villa General Roca,0,0,0,0,0,0,0,283,283
+SAN LUIS,Chacabuco,Concarán,0,0,0,0,0,2,0,1812,1814
+SAN LUIS,Chacabuco,Cortaderas,0,0,0,5,0,0,0,891,896
+SAN LUIS,Chacabuco,Naschel,0,0,0,0,0,0,0,1125,1125
+SAN LUIS,Chacabuco,Papagayos,0,0,0,0,0,0,0,61,61
+SAN LUIS,Chacabuco,Renca,0,0,0,0,0,0,0,106,106
+SAN LUIS,Chacabuco,San Pablo,0,0,0,0,0,0,0,74,74
+SAN LUIS,Chacabuco,Tilisarao,0,0,0,0,0,0,0,1590,1590
+SAN LUIS,Chacabuco,Villa del Carmen,0,0,0,0,0,0,0,353,353
+SAN LUIS,Chacabuco,Villa Larca,0,0,0,0,0,0,0,558,558
+SAN LUIS,Chacabuco,El Algarrobal,0,0,0,3,0,0,0,0,3
+SAN LUIS,Coronel Pringles,Carolina,0,0,0,0,0,0,0,229,229
+SAN LUIS,Coronel Pringles,El Trapiche,0,0,0,0,0,0,0,1008,1008
+SAN LUIS,Coronel Pringles,Fraga,0,0,0,0,0,0,0,309,309
+SAN LUIS,Coronel Pringles,La Bajada,0,0,0,0,0,0,0,72,72
+SAN LUIS,Coronel Pringles,La Florida,0,0,0,0,0,0,0,87,87
+SAN LUIS,Coronel Pringles,La Toma,100,0,0,0,0,0,0,392,492
+SAN LUIS,Coronel Pringles,OTROS,0,0,0,0,0,27,0,0,27
+SAN LUIS,Coronel Pringles,Río Grande,0,0,0,0,0,0,0,187,187
+SAN LUIS,Coronel Pringles,Saladillo,0,0,0,1,0,0,0,1987,1988
+SAN LUIS,Coronel Pringles,El Durazno,0,0,0,0,0,0,0,66,66
+SAN LUIS,General Pedernera,Juan Jorba,0,0,0,0,0,0,0,28,28
+SAN LUIS,General Pedernera,Juan Llerena,0,0,0,0,0,0,0,130,130
+SAN LUIS,General Pedernera,Justo Daract,175,0,4,0,0,0,0,3880,4059
+SAN LUIS,General Pedernera,La Punilla,0,0,0,0,0,0,0,9,9
+SAN LUIS,General Pedernera,Lavaisse,0,0,0,0,0,0,0,58,58
+SAN LUIS,General Pedernera,San José del Morro,0,0,0,0,0,0,0,381,381
+SAN LUIS,General Pedernera,Villa Mercedes,1789,29276,85,4,14585,0,0,10179,55918
+SAN LUIS,General Pedernera,Villa Salles,0,0,0,0,0,0,0,27,27
+SAN LUIS,General Pedernera,La Angelina,0,0,0,0,0,0,0,1127,1127
+SAN LUIS,Gobernador Dupuy,Anchorena,0,0,1,0,0,0,0,212,213
+SAN LUIS,Gobernador Dupuy,Arizona,0,0,3,0,0,0,0,257,260
+SAN LUIS,Gobernador Dupuy,Bagual,0,0,0,0,0,0,0,64,64
+SAN LUIS,Gobernador Dupuy,Batavia,0,0,0,0,0,2,0,196,198
+SAN LUIS,Gobernador Dupuy,Buena Esperanza,0,0,1,0,0,1,0,961,963
+SAN LUIS,Gobernador Dupuy,Fortín El Patria,0,0,0,0,0,1,0,194,195
+SAN LUIS,Gobernador Dupuy,Fortuna,0,0,1,0,0,1,0,149,151
+SAN LUIS,Gobernador Dupuy,La Maroma,0,0,0,0,0,2,0,0,2
+SAN LUIS,Gobernador Dupuy,Martín de Loyola,0,0,0,0,0,2,0,509,511
+SAN LUIS,Gobernador Dupuy,Nahuel Mapá,0,0,0,0,0,0,0,20,20
+SAN LUIS,Gobernador Dupuy,Navia,0,0,0,0,0,2,0,83,85
+SAN LUIS,Gobernador Dupuy,Nueva Galia,0,0,0,0,0,0,0,500,500
+SAN LUIS,Gobernador Dupuy,Unión,0,0,0,0,0,0,0,810,810
+SAN LUIS,Junín,Carpinteria,155,10,0,0,0,0,0,901,1066
+SAN LUIS,Junín,Cerro de Oro,19,14,0,7,0,0,0,250,290
+SAN LUIS,Junín,Lafinur,0,0,0,0,0,0,0,51,51
+SAN LUIS,Junín,Los Cajones,0,0,0,0,0,0,0,64,64
+SAN LUIS,Junín,Los Molles,0,0,0,0,0,0,0,54,54
+SAN LUIS,Junín,Merlo,1286,62,0,211,0,0,0,5089,6648
+SAN LUIS,Junín,Santa Rosa del Conlara,142,0,0,0,0,0,0,1875,2017
+SAN LUIS,Junín,Talita,0,0,0,0,0,2,0,111,113
+SAN LUIS,La Capital,Alto Pelado,0,0,0,0,0,0,0,71,71
+SAN LUIS,La Capital,Alto Pencoso,0,0,0,1,0,0,0,85,86
+SAN LUIS,La Capital,Balde,0,0,0,1,0,5,0,183,189
+SAN LUIS,La Capital,Beazley,0,0,0,0,0,0,0,202,202
+SAN LUIS,La Capital,Cazador,0,0,0,0,0,0,0,34,34
+SAN LUIS,La Capital,Chosmes,0,0,0,0,0,0,0,9,9
+SAN LUIS,La Capital,Desaguadero,0,0,0,1,0,0,0,252,253
+SAN LUIS,La Capital,El Volcán,0,0,0,0,0,0,0,1067,1067
+SAN LUIS,La Capital,Jarilla,0,0,0,0,0,0,0,29,29
+SAN LUIS,La Capital,Juana Koslay,419,0,2,0,0,0,0,82,503
+SAN LUIS,La Capital,Potrero de los Funes,0,0,0,0,0,0,0,1795,1795
+SAN LUIS,La Capital,Salinas del Bebedero,0,0,0,0,0,0,0,35,35
+SAN LUIS,La Capital,San Jerónimo,0,0,0,0,0,0,0,160,160
+SAN LUIS,La Capital,San Luis,2774,1,84,5,84,2,0,18447,21397
+SAN LUIS,La Capital,Zanjitas,0,0,0,0,0,0,0,103,103
+SAN LUIS,La Capital,La Punta,0,0,0,7,0,0,0,0,7
+SAN LUIS,La Capital,Las Barrancas,0,0,0,0,0,1,0,55,56
+SAN LUIS,La Capital,Varela,0,0,0,0,0,0,0,7,7
+SAN LUIS,La Capital,Boca Del Tigre,0,0,0,0,0,1,0,0,1
+SAN LUIS,Libertador Grl. San Martín,La Ramada,0,0,0,0,0,0,0,2144,2144
+SAN LUIS,Libertador Grl. San Martín,La Vertiente,0,0,0,0,0,2,0,49,51
+SAN LUIS,Libertador Grl. San Martín,Las Aguadas,0,0,0,0,0,0,0,98,98
+SAN LUIS,Libertador Grl. San Martín,Las Chacras,0,0,0,0,0,5,0,30,35
+SAN LUIS,Libertador Grl. San Martín,Las Lagunas,0,0,0,0,0,0,0,27,27
+SAN LUIS,Libertador Grl. San Martín,Paso Grande,0,0,0,0,0,0,0,183,183
+SAN LUIS,Libertador Grl. San Martín,Potrerillo,0,0,0,0,0,0,0,59,59
+SAN LUIS,Libertador Grl. San Martín,San Martín,1,0,1,0,0,0,0,324,326
+SAN LUIS,Libertador Grl. San Martín,Villa de Praga,0,0,0,0,0,1,0,211,212
+SAN LUIS,Libertador Grl. San Martín,El Puesto,0,0,0,0,0,0,0,11,11
+SAN LUIS,OTROS,OTROS,0,0,0,0,70,0,0,0,70
+SANTA CRUZ,Corpen Aike,Comandante Luis Piedrabuena,612,618,2,0,1,1,0,62,1296
+SANTA CRUZ,Corpen Aike,Puerto Santa Cruz,683,0,4,0,1,2,0,0,690
+SANTA CRUZ,Deseado,Caleta Olivia,0,8280,0,720,2,5,0,478,9485
+SANTA CRUZ,Deseado,Cañadón Seco,0,0,0,2,0,3,0,118,123
+SANTA CRUZ,Deseado,Jaramillo,0,0,0,0,0,2,0,86,88
+SANTA CRUZ,Deseado,Las Heras,0,0,0,2353,1,1,0,1085,3440
+SANTA CRUZ,Deseado,Pico Truncado,0,0,0,2846,1,2,0,1069,3918
+SANTA CRUZ,Deseado,Puerto Deseado,1488,0,9,0,10,12,0,0,1519
+SANTA CRUZ,Deseado,Tellier,0,0,0,0,0,1,0,0,1
+SANTA CRUZ,Güer Aike,28 de Noviembre,0,0,0,10,6,1,0,195,212
+SANTA CRUZ,Güer Aike,El Turbio (Est. Gobernador Mayer),0,0,0,0,0,1,0,0,1
+SANTA CRUZ,Güer Aike,Río Gallegos,3682,10399,173,736,172,14,0,0,15176
+SANTA CRUZ,Güer Aike,Yacimientos Río Turbio,261,0,0,0,1,1,0,0,263
+SANTA CRUZ,Güer Aike,Mina 3,0,0,0,0,0,1,0,0,1
+SANTA CRUZ,Lago Argentino,El Calafate,2595,0,0,3717,1,7,0,618,6938
+SANTA CRUZ,Lago Argentino,El Chaltén,0,0,0,431,1,3,0,2,437
+SANTA CRUZ,Lago Argentino,Tres Lagos,0,0,0,0,0,1,0,0,1
+SANTA CRUZ,Lago Buenos Aires,Los Antiguos,0,0,2,0,1,6,0,30,39
+SANTA CRUZ,Lago Buenos Aires,Perito Moreno,0,2600,7,0,101,5,0,0,2713
+SANTA CRUZ,Magallanes,Puerto San Julián,849,2150,1,0,1,8,0,153,3162
+SANTA CRUZ,Río Chico,Bajo Caracoles,0,0,0,0,0,1,0,0,1
+SANTA CRUZ,Río Chico,Gobernador Gregores,0,0,0,0,1,5,0,0,6
+SANTA FE,9 de Julio,Esteban Rams,0,0,0,0,0,2,0,35,37
+SANTA FE,9 de Julio,Gato Colorado,0,0,0,0,0,4,0,0,4
+SANTA FE,9 de Julio,Gregoria Pérez de Denis (Est. El Nochero),0,0,0,0,0,3,0,144,147
+SANTA FE,9 de Julio,Logroño,1,0,0,0,0,0,0,47,48
+SANTA FE,9 de Julio,Montefiore,0,0,0,0,0,1,0,17,18
+SANTA FE,9 de Julio,Pozo Borrado,0,0,0,0,0,0,0,127,127
+SANTA FE,9 de Julio,San Bernardo,0,0,0,0,0,0,0,109,109
+SANTA FE,9 de Julio,Santa Margarita,0,0,0,0,0,5,0,96,101
+SANTA FE,9 de Julio,Tostado,1328,6,0,0,0,2,0,1752,3088
+SANTA FE,9 de Julio,Villa Minetti,0,0,0,1,0,5,0,264,270
+SANTA FE,Belgrano,Armstrong,1245,0,0,99,0,0,0,37,1381
+SANTA FE,Belgrano,Bouquet,388,0,0,0,0,0,0,1,389
+SANTA FE,Belgrano,Las Parejas,1297,154,0,0,0,0,0,124,1575
+SANTA FE,Belgrano,Las Rosas,1358,2308,0,225,0,0,0,33,3924
+SANTA FE,Belgrano,Montes de Oca,591,0,0,0,168,1,0,43,803
+SANTA FE,Belgrano,Tortugas,177,0,0,0,0,1,0,0,178
+SANTA FE,Caseros,Arequito,71,2241,0,0,0,0,0,0,2312
+SANTA FE,Caseros,Arteaga,73,868,0,0,0,0,0,87,1028
+SANTA FE,Caseros,Beravebú,0,0,0,0,0,0,0,346,346
+SANTA FE,Caseros,Bigand,550,1065,0,0,0,0,0,0,1615
+SANTA FE,Caseros,Casilda,4277,1873,0,886,0,0,0,1129,8165
+SANTA FE,Caseros,Chabás,638,0,0,0,850,0,0,13,1501
+SANTA FE,Caseros,Chañar Ladeado,76,808,0,401,0,0,0,0,1285
+SANTA FE,Caseros,Gödeken,0,531,0,1,0,0,0,0,532
+SANTA FE,Caseros,Los Molinos,27,507,0,0,0,0,0,0,534
+SANTA FE,Caseros,Los Nogales,0,44,0,0,0,0,0,0,44
+SANTA FE,Caseros,Los Quirquinchos,0,0,0,0,2,0,0,778,780
+SANTA FE,Caseros,San José de la Esquina,135,1976,0,0,0,0,0,1,2112
+SANTA FE,Caseros,Sanford,88,0,0,378,0,0,0,0,466
+SANTA FE,Caseros,Villada,98,1,0,0,5,0,0,0,104
+SANTA FE,Castellanos,Aldao (Est. Casablanca),30,0,0,662,0,0,0,60,752
+SANTA FE,Castellanos,Angélica,600,0,0,0,0,0,0,9,609
+SANTA FE,Castellanos,Ataliva,295,10,0,89,0,0,0,183,577
+SANTA FE,Castellanos,Aurelia,0,0,0,0,0,0,0,4,4
+SANTA FE,Castellanos,Bauer y Sigel,0,0,0,0,0,0,0,0,0
+SANTA FE,Castellanos,Bella Italia,37,316,0,2,0,0,0,4,359
+SANTA FE,Castellanos,Castellanos,0,1,0,0,0,0,0,5,6
+SANTA FE,Castellanos,Colonia Bicha,72,0,0,138,0,0,0,0,210
+SANTA FE,Castellanos,Colonia Cello,0,0,0,0,0,0,0,29,29
+SANTA FE,Castellanos,Colonia Margarita,0,10,0,0,0,0,0,0,10
+SANTA FE,Castellanos,Colonia Raquel,31,0,0,185,0,0,0,3,219
+SANTA FE,Castellanos,Coronel Fraga,0,0,0,0,0,0,0,49,49
+SANTA FE,Castellanos,Esmeralda,0,82,0,0,0,0,0,0,82
+SANTA FE,Castellanos,Estación Clucellas,0,179,0,0,0,0,0,4,183
+SANTA FE,Castellanos,Estación Saguier,0,11,0,0,0,0,0,3,14
+SANTA FE,Castellanos,Eusebia y Carolina,27,0,0,130,0,0,0,0,157
+SANTA FE,Castellanos,Eustolia,0,0,0,0,0,0,0,4,4
+SANTA FE,Castellanos,Humberto Primo,212,53,0,33,0,0,0,262,560
+SANTA FE,Castellanos,Josefina,28,77,0,0,0,0,0,1,106
+SANTA FE,Castellanos,Lehmann,196,376,0,166,0,0,0,0,738
+SANTA FE,Castellanos,María Juana,788,81,0,620,0,0,0,60,1549
+SANTA FE,Castellanos,Plaza Clucellas,45,283,0,0,0,0,0,0,328
+SANTA FE,Castellanos,Plaza Saguier,0,51,0,0,0,0,0,0,51
+SANTA FE,Castellanos,Presidente Roca,0,137,0,1,0,0,0,5,143
+SANTA FE,Castellanos,Pueblo Marini,0,0,0,0,0,0,0,11,11
+SANTA FE,Castellanos,Rafaela,2889,23060,0,4199,6,2,0,1497,31653
+SANTA FE,Castellanos,Ramona,1,0,0,0,0,0,0,327,328
+SANTA FE,Castellanos,San Antonio,0,10,0,0,0,0,0,59,69
+SANTA FE,Castellanos,San Vicente,770,1334,0,0,0,0,0,42,2146
+SANTA FE,Castellanos,Santa Clara de Saguier,163,107,0,0,0,0,0,218,488
+SANTA FE,Castellanos,Sunchales,1112,21,1,6364,0,0,0,67,7565
+SANTA FE,Castellanos,Susana,0,0,0,317,0,0,0,78,395
+SANTA FE,Castellanos,Tacural,437,0,0,467,0,0,0,0,904
+SANTA FE,Castellanos,Vila,419,0,0,0,0,0,0,0,419
+SANTA FE,Castellanos,Villa San José,0,53,0,0,0,0,0,31,84
+SANTA FE,Castellanos,Virginia,0,0,0,0,0,0,0,9,9
+SANTA FE,Castellanos,Zenón Pereyra,0,53,0,0,0,0,0,0,53
+SANTA FE,Castellanos,Frontera,0,0,0,0,0,0,0,1,1
+SANTA FE,Constitución,Alcorta,223,1261,0,550,0,0,0,353,2387
+SANTA FE,Constitución,Bombal,495,246,0,200,0,0,0,0,941
+SANTA FE,Constitución,Empalme Villa Constitución,660,0,0,0,0,0,0,0,660
+SANTA FE,Constitución,Godoy,0,0,0,0,0,0,0,150,150
+SANTA FE,Constitución,Juan B. Molina,350,0,0,0,0,0,0,1,351
+SANTA FE,Constitución,Juncal,480,0,0,0,0,0,0,0,480
+SANTA FE,Constitución,La Vanguardia,0,0,0,86,0,0,0,0,86
+SANTA FE,Constitución,Máximo Paz (Est. Paz),647,321,0,0,0,0,0,252,1220
+SANTA FE,Constitución,Pavón,104,0,0,0,0,0,0,0,104
+SANTA FE,Constitución,Pavón Arriba,0,0,0,387,0,0,0,25,412
+SANTA FE,Constitución,Rueda,0,0,0,0,0,0,0,72,72
+SANTA FE,Constitución,Santa Teresa,169,296,0,656,0,0,0,101,1222
+SANTA FE,Constitución,Sargento Cabral,0,0,0,326,0,0,0,102,428
+SANTA FE,Constitución,Villa Constitución,5033,1967,0,61,0,0,0,1355,8416
+SANTA FE,Constitución,Peyrano,0,670,0,0,0,0,0,0,670
+SANTA FE,Constitución,Cepeda,0,0,0,0,0,0,0,25,25
+SANTA FE,Constitución,General Gelly,189,0,0,0,0,0,0,4,193
+SANTA FE,Garay,Cayastá,0,0,0,0,0,0,0,428,428
+SANTA FE,Garay,Helvecia,0,440,0,0,0,0,0,205,645
+SANTA FE,Garay,Saladero Mariano Cabal,0,0,0,0,0,1,0,64,65
+SANTA FE,Garay,Santa Rosa de Calchines,76,941,0,0,0,0,0,0,1017
+SANTA FE,Garay,Los Zapallos,0,67,0,0,67,0,0,0,134
+SANTA FE,General López,Aarón Castellanos (Est. Castellanos),0,0,0,0,0,0,0,36,36
+SANTA FE,General López,Amenábar,158,0,0,0,0,0,0,80,238
+SANTA FE,General López,Cafferata,246,0,0,1,0,0,0,0,247
+SANTA FE,General López,Cañada del Ucle,222,0,0,0,0,0,0,200,422
+SANTA FE,General López,Carmen,0,0,0,0,40,0,0,100,140
+SANTA FE,General López,Carreras,0,1,0,0,0,0,0,274,275
+SANTA FE,General López,Chapuy,0,1,0,0,0,0,0,0,1
+SANTA FE,General López,Chovet,0,1,0,0,0,1,0,0,2
+SANTA FE,General López,Christophersen,0,0,0,15,0,0,0,78,93
+SANTA FE,General López,Diego de Alvear,206,0,0,64,0,0,0,108,378
+SANTA FE,General López,Elortondo,510,0,0,0,0,0,0,0,510
+SANTA FE,General López,Firmat,281,1488,0,3305,0,0,0,0,5074
+SANTA FE,General López,Hughes,0,0,0,1190,0,0,0,0,1190
+SANTA FE,General López,La Chispa,0,0,0,0,0,0,0,71,71
+SANTA FE,General López,Maggiolo,80,0,0,0,0,0,0,53,133
+SANTA FE,General López,María Teresa,26,1012,0,0,1,0,0,30,1069
+SANTA FE,General López,Melincué (Est. San Urbano),0,0,0,0,0,0,0,201,201
+SANTA FE,General López,Miguel Torres,0,1,0,0,0,0,0,0,1
+SANTA FE,General López,Murphy,0,0,0,717,0,0,0,0,717
+SANTA FE,General López,Rufino,1432,3,0,5103,0,0,0,0,6538
+SANTA FE,General López,San Eduardo,205,0,0,84,0,0,0,0,289
+SANTA FE,General López,San Francisco de Santa Fe,0,0,0,45,0,1,0,0,46
+SANTA FE,General López,San Gregorio,43,0,0,1013,0,0,0,118,1174
+SANTA FE,General López,Sancti Spiritu,320,0,0,0,0,1,0,707,1028
+SANTA FE,General López,Santa Isabel,214,0,0,923,0,1,0,0,1138
+SANTA FE,General López,Teodelina,0,935,0,0,0,0,0,165,1100
+SANTA FE,General López,Venado Tuerto,2258,25656,0,1435,380,1,0,77,29807
+SANTA FE,General López,Villa Cañás,715,1195,0,349,4,0,0,211,2474
+SANTA FE,General López,Wheelwright,0,0,0,1374,3,1,0,15,1393
+SANTA FE,General López,Labordeboy,215,0,0,0,0,0,0,0,215
+SANTA FE,General Obligado,Avellaneda (Est. Ewald),3,12,0,3578,750,0,0,1141,5484
+SANTA FE,General Obligado,Berna,0,0,0,0,10,0,0,48,58
+SANTA FE,General Obligado,El Araza,0,0,0,0,0,0,0,126,126
+SANTA FE,General Obligado,El Rabón,0,65,0,0,0,1,0,80,146
+SANTA FE,General Obligado,Florencia,268,136,0,0,0,1,0,188,593
+SANTA FE,General Obligado,Guadalupe Norte,87,0,0,0,0,0,0,0,87
+SANTA FE,General Obligado,Ingeniero Chanourdie,0,0,0,0,0,1,0,85,86
+SANTA FE,General Obligado,La Isleta,0,0,0,0,0,1,0,0,1
+SANTA FE,General Obligado,La Sarita,0,0,0,0,0,0,0,85,85
+SANTA FE,General Obligado,Las Garzas,92,0,0,0,0,0,0,0,92
+SANTA FE,General Obligado,Las Toscas,609,1045,0,79,0,1,0,462,2196
+SANTA FE,General Obligado,Los Laureles,0,0,0,0,20,0,0,0,20
+SANTA FE,General Obligado,Malabrigo,666,924,0,0,160,0,0,91,1841
+SANTA FE,General Obligado,Paraje San Manuel,0,0,0,0,0,1,0,0,1
+SANTA FE,General Obligado,Reconquista,1906,14399,1,6832,800,1,0,2839,26778
+SANTA FE,General Obligado,San Antonio de Obligado,125,132,0,0,0,6,0,5,268
+SANTA FE,General Obligado,Tacuarendí (Emb. Kilómetro 421),103,115,0,0,0,0,0,3,221
+SANTA FE,General Obligado,Villa Ana,0,0,0,0,0,1,0,0,1
+SANTA FE,General Obligado,Villa Guillermina,220,173,0,0,0,1,0,15,409
+SANTA FE,General Obligado,Villa Ocampo,2009,1613,0,16,29,1,0,0,3668
+SANTA FE,General Obligado,Lanteri,0,0,0,0,0,0,0,300,300
+SANTA FE,General Obligado,Arroyo Ceibal,0,0,0,0,0,0,0,108,108
+SANTA FE,Iriondo,Barrio Cicarelli,0,0,0,0,0,0,0,9,9
+SANTA FE,Iriondo,Bustinza,287,0,0,6,0,0,0,90,383
+SANTA FE,Iriondo,Cañada de Gómez,1251,7242,0,329,0,0,0,411,9233
+SANTA FE,Iriondo,Carrizales (Est. Clarke),456,17,0,0,0,1,0,0,474
+SANTA FE,Iriondo,Classon,0,0,0,130,0,0,0,21,151
+SANTA FE,Iriondo,Colonia Médici,0,0,0,0,0,0,0,12,12
+SANTA FE,Iriondo,Correa,114,1063,0,572,1,0,0,23,1773
+SANTA FE,Iriondo,Larguía,0,0,0,0,0,0,0,7,7
+SANTA FE,Iriondo,Lucio V. López,0,5,0,0,0,0,0,31,36
+SANTA FE,Iriondo,Oliveros,2000,0,0,1360,0,0,0,0,3360
+SANTA FE,Iriondo,Pueblo Andino,0,648,0,0,0,0,0,414,1062
+SANTA FE,Iriondo,Salto Grande,493,0,0,0,0,0,0,89,582
+SANTA FE,Iriondo,Serodino,229,0,0,12,0,0,0,113,354
+SANTA FE,Iriondo,Totoras,538,0,0,920,0,0,0,131,1589
+SANTA FE,Iriondo,Villa Eloísa,597,0,0,368,0,0,0,0,965
+SANTA FE,Iriondo,Villa La Rivera (Oliveros),0,0,0,0,0,0,0,37,37
+SANTA FE,Iriondo,Villa La Rivera (Pueblo Andino),0,0,0,0,0,1,0,26,27
+SANTA FE,La Capital,Angel Gallardo,0,0,0,0,0,0,0,27,27
+SANTA FE,La Capital,Arroyo Aguiar,102,0,0,0,0,1,0,38,141
+SANTA FE,La Capital,Arroyo Leyes,0,1115,0,88,0,0,0,106,1309
+SANTA FE,La Capital,Cabal,0,0,0,0,0,0,0,13,13
+SANTA FE,La Capital,Candioti,0,0,0,251,0,0,0,1,252
+SANTA FE,La Capital,Emilia,103,0,0,153,0,0,0,1,257
+SANTA FE,La Capital,Laguna Paiva,1899,0,0,0,0,0,0,76,1975
+SANTA FE,La Capital,Llambi Campbell,202,0,0,0,73,0,0,186,461
+SANTA FE,La Capital,Monte Vera,281,0,0,0,0,3,0,0,284
+SANTA FE,La Capital,Nelson,426,0,0,1,3,0,0,69,499
+SANTA FE,La Capital,Recreo,1131,30,0,0,0,0,0,275,1436
+SANTA FE,La Capital,San José del Rincón,1806,2329,0,505,0,1,0,0,4641
+SANTA FE,La Capital,Santa Fe,20606,65154,32,39411,2040,9,0,104,127356
+SANTA FE,La Capital,Santo Tomé,13,13,0,396,11,0,0,492,925
+SANTA FE,La Capital,Sauce Viejo,1108,0,0,0,0,0,0,89,1197
+SANTA FE,Las Colonias,Cavour,0,0,0,0,0,0,0,3,3
+SANTA FE,Las Colonias,Cululú,0,0,0,0,0,0,0,24,24
+SANTA FE,Las Colonias,Elisa,0,0,0,235,0,0,0,0,235
+SANTA FE,Las Colonias,Empalme San Carlos,0,0,0,0,0,0,0,13,13
+SANTA FE,Las Colonias,Esperanza,1953,8198,0,26,0,4,0,420,10601
+SANTA FE,Las Colonias,Felicia,0,0,0,0,0,0,0,443,443
+SANTA FE,Las Colonias,Franck,175,0,0,162,0,0,0,101,438
+SANTA FE,Las Colonias,Grutly,93,0,0,0,0,0,0,21,114
+SANTA FE,Las Colonias,Hipatia,0,0,0,0,0,0,0,53,53
+SANTA FE,Las Colonias,Humboldt,299,0,0,24,2,0,0,195,520
+SANTA FE,Las Colonias,La Pelada,0,0,0,80,0,0,0,96,176
+SANTA FE,Las Colonias,Las Tunas,4,0,0,107,0,1,0,0,112
+SANTA FE,Las Colonias,María Luisa,0,0,0,0,0,0,0,167,167
+SANTA FE,Las Colonias,Matilde,90,0,0,0,0,0,0,68,158
+SANTA FE,Las Colonias,Nuevo Torino,78,0,0,0,72,0,0,5,155
+SANTA FE,Las Colonias,OTROS,0,0,0,0,0,0,0,16,16
+SANTA FE,Las Colonias,Pilar,112,0,0,10,0,0,0,2,124
+SANTA FE,Las Colonias,Progreso,0,0,0,0,0,0,0,621,621
+SANTA FE,Las Colonias,Providencia,0,0,0,0,0,0,0,135,135
+SANTA FE,Las Colonias,Sa Pereyra,54,0,0,0,0,0,0,3,57
+SANTA FE,Las Colonias,San Agustín,0,0,0,0,0,0,0,83,83
+SANTA FE,Las Colonias,San Carlos Centro,407,3943,0,2,0,0,0,34,4386
+SANTA FE,Las Colonias,San Carlos Norte,0,215,0,0,0,0,0,152,367
+SANTA FE,Las Colonias,San Carlos Sud,30,670,0,0,0,0,0,9,709
+SANTA FE,Las Colonias,San Jerónimo del Sauce,0,0,0,172,0,0,0,0,172
+SANTA FE,Las Colonias,San Jerónimo Norte,202,0,0,1575,0,0,0,261,2038
+SANTA FE,Las Colonias,Santa Clara de Buena Vista,0,668,0,0,0,0,0,0,668
+SANTA FE,Las Colonias,Santo Domingo,0,0,0,0,0,0,0,255,255
+SANTA FE,Las Colonias,SARMIENTO,135,0,0,0,130,0,0,171,436
+SANTA FE,OTROS,OTROS,0,0,0,0,2581,0,0,0,2581
+SANTA FE,Rosario,Acebal,205,1343,0,21,0,0,0,140,1709
+SANTA FE,Rosario,Álvarez,59,1393,0,2,134,0,0,0,1588
+SANTA FE,Rosario,Alvear,1912,3037,0,251,0,0,0,8,5208
+SANTA FE,Rosario,Arminda,0,86,0,0,40,0,0,0,126
+SANTA FE,Rosario,Arroyo Seco,2050,3273,0,2,0,0,0,6,5331
+SANTA FE,Rosario,Carmen del Sauce,0,0,0,158,0,0,0,22,180
+SANTA FE,Rosario,Coronel Bogado,415,0,0,178,0,0,0,0,593
+SANTA FE,Rosario,Cuatro Esquinas,0,0,0,39,0,0,0,0,39
+SANTA FE,Rosario,El Caramelo,71,0,0,424,0,0,0,0,495
+SANTA FE,Rosario,Fighiera,366,0,0,0,0,0,0,0,366
+SANTA FE,Rosario,Funes,4523,5794,1,2296,0,1,0,100,12715
+SANTA FE,Rosario,General Lagos,400,0,0,1,1,1,0,140,543
+SANTA FE,Rosario,Granadero Baigorria,0,4673,0,4,2,0,0,676,5355
+SANTA FE,Rosario,Ibarlucea,0,591,0,468,0,0,0,452,1511
+SANTA FE,Rosario,Pérez,3069,0,0,114,0,5,0,7,3195
+SANTA FE,Rosario,Piñero (Est. Erasto),0,181,0,1,55,0,0,1,238
+SANTA FE,Rosario,Pueblo Esther,241,0,0,611,0,1,0,0,853
+SANTA FE,Rosario,Pueblo Muñoz (Est. Bernard),0,118,0,0,54,0,0,0,172
+SANTA FE,Rosario,Pueblo Uranga,29,0,0,98,0,0,0,52,179
+SANTA FE,Rosario,Puerto Arroyo Seco,0,0,0,0,25,0,0,0,25
+SANTA FE,Rosario,Rosario,46485,190777,74,87944,218,1,0,5228,330727
+SANTA FE,Rosario,Soldini,127,780,0,0,86,0,0,0,993
+SANTA FE,Rosario,Villa Amelia,172,109,0,2,0,0,0,2,285
+SANTA FE,Rosario,Villa del Plata,0,193,0,0,101,0,0,0,294
+SANTA FE,Rosario,Villa Gobernador Gálvez,6752,17,0,1539,4987,0,0,25,13320
+SANTA FE,Rosario,Zavalla,745,932,0,0,0,0,0,95,1772
+SANTA FE,Rosario,Albarellos,0,0,0,0,0,0,0,20,20
+SANTA FE,Rosario,Coronel Rodolfo S. Domínguez,0,318,0,0,0,0,0,0,318
+SANTA FE,Rosario,Kilómetro 101,0,0,0,0,0,1,0,1,2
+SANTA FE,Rosario,Arbilla,30,0,0,0,0,0,0,0,30
+SANTA FE,Rosario,Monte Flores,8,0,0,0,0,0,0,0,8
+SANTA FE,San Cristóbal,Aguará Grande,0,0,0,0,0,1,0,2,3
+SANTA FE,San Cristóbal,Ambrosetti,0,0,0,0,0,1,0,84,85
+SANTA FE,San Cristóbal,Arrufo,278,166,0,0,0,0,0,0,444
+SANTA FE,San Cristóbal,Balneario La Verde,0,0,0,0,0,1,0,0,1
+SANTA FE,San Cristóbal,Capivara,0,0,0,0,0,1,0,0,1
+SANTA FE,San Cristóbal,Ceres,1101,1939,0,0,0,0,0,541,3581
+SANTA FE,San Cristóbal,Colonia Bossi,56,0,0,118,0,0,0,3,177
+SANTA FE,San Cristóbal,Hersilia,0,199,0,0,0,0,0,370,569
+SANTA FE,San Cristóbal,Huanqueros,0,0,0,0,0,0,0,29,29
+SANTA FE,San Cristóbal,La Cabral,0,0,0,0,1,1,0,2,4
+SANTA FE,San Cristóbal,La Rubia,0,31,0,0,0,0,0,12,43
+SANTA FE,San Cristóbal,Las Palmeras,0,0,0,0,0,0,0,23,23
+SANTA FE,San Cristóbal,Moisés Ville,123,240,0,207,0,0,0,0,570
+SANTA FE,San Cristóbal,Monigotes,0,0,0,45,0,0,0,12,57
+SANTA FE,San Cristóbal,Ñanducita,0,0,0,0,0,0,0,37,37
+SANTA FE,San Cristóbal,OTROS,0,0,0,0,0,0,0,6,6
+SANTA FE,San Cristóbal,Palacios,2,0,0,31,0,0,0,1,34
+SANTA FE,San Cristóbal,San Cristóbal,918,1242,0,596,0,1,0,609,3366
+SANTA FE,San Cristóbal,San Guillermo,1069,1256,0,33,12,0,0,177,2547
+SANTA FE,San Cristóbal,Santurce,0,0,0,0,0,0,0,29,29
+SANTA FE,San Cristóbal,Soledad,0,0,0,0,0,0,0,170,170
+SANTA FE,San Cristóbal,Suardi,0,0,0,1560,0,0,0,0,1560
+SANTA FE,San Cristóbal,Villa Saralegui,0,0,0,0,3,0,0,48,51
+SANTA FE,San Cristóbal,Curupaity,0,0,0,0,0,0,0,15,15
+SANTA FE,San Cristóbal,Colonia Ana,0,0,0,0,0,0,0,6,6
+SANTA FE,San Cristóbal,Colonia Rosa,0,0,0,0,0,0,0,12,12
+SANTA FE,San Javier,Alejandra,0,0,0,0,0,1,0,453,454
+SANTA FE,San Javier,Cacique Ariacaiquín,0,0,0,0,0,0,0,34,34
+SANTA FE,San Javier,Colonia Durán,0,0,0,0,0,1,0,0,1
+SANTA FE,San Javier,Romang,0,801,0,2,195,0,0,369,1367
+SANTA FE,San Javier,San Javier,0,826,0,96,0,0,0,194,1116
+SANTA FE,San Javier,La Brava,0,0,0,0,0,0,0,20,20
+SANTA FE,San Jerónimo,Arocena,0,184,0,0,400,0,0,0,584
+SANTA FE,San Jerónimo,Barrancas,502,0,0,0,0,0,0,477,979
+SANTA FE,San Jerónimo,Barrio Caima,0,0,0,0,0,0,0,16,16
+SANTA FE,San Jerónimo,Bernardo de Irigoyen (Est. Irigoyen),0,0,0,245,0,0,0,0,245
+SANTA FE,San Jerónimo,Centeno,881,0,0,0,0,0,0,0,881
+SANTA FE,San Jerónimo,Coronda,652,0,0,3145,215,0,0,887,4899
+SANTA FE,San Jerónimo,Desvío Arijón,154,0,0,0,0,0,0,46,200
+SANTA FE,San Jerónimo,Díaz,470,0,0,0,0,0,0,0,470
+SANTA FE,San Jerónimo,Gaboto,0,0,0,0,201,0,0,240,441
+SANTA FE,San Jerónimo,Gálvez,3859,0,0,3482,0,1,0,19,7361
+SANTA FE,San Jerónimo,Gessler,133,0,0,69,0,0,0,48,250
+SANTA FE,San Jerónimo,Irigoyen,0,94,0,0,0,0,0,313,407
+SANTA FE,San Jerónimo,Larrechea,0,0,0,0,0,0,0,23,23
+SANTA FE,San Jerónimo,Loma Alta,19,0,0,18,0,0,0,0,37
+SANTA FE,San Jerónimo,López (Est. San Martín de Tours),37,383,0,0,0,0,0,0,420
+SANTA FE,San Jerónimo,Maciel,583,782,0,0,136,0,0,1,1502
+SANTA FE,San Jerónimo,Monje,464,0,0,149,0,0,0,0,613
+SANTA FE,San Jerónimo,San Fabián,74,93,0,0,0,0,0,70,237
+SANTA FE,San Jerónimo,San Genaro,788,37,0,456,0,0,0,49,1330
+SANTA FE,San Jerónimo,San Genaro Norte,1026,22,0,31,0,0,0,0,1079
+SANTA FE,San Jerónimo,San Eugenio,0,0,0,21,0,0,0,0,21
+SANTA FE,San Justo,Angeloni,0,0,0,0,0,0,0,24,24
+SANTA FE,San Justo,Cayastacito,0,0,0,0,0,0,0,54,54
+SANTA FE,San Justo,Esther,0,0,0,0,0,0,0,10,10
+SANTA FE,San Justo,Gobernador Crespo,157,976,0,0,0,0,0,257,1390
+SANTA FE,San Justo,La Criolla (Est. Cañadita),257,0,0,0,0,0,0,31,288
+SANTA FE,San Justo,Marcelino Escalada,101,0,0,0,0,0,0,128,229
+SANTA FE,San Justo,Naré,0,0,0,0,0,0,0,6,6
+SANTA FE,San Justo,OTROS,0,0,0,0,0,28,0,0,28
+SANTA FE,San Justo,Pedro Gómez Cello,0,0,0,0,0,0,0,92,92
+SANTA FE,San Justo,Ramayón,0,0,0,0,0,0,0,144,144
+SANTA FE,San Justo,San Bernardo,0,0,0,0,0,0,0,6,6
+SANTA FE,San Justo,San Justo,843,40,0,6106,550,0,0,270,7809
+SANTA FE,San Justo,Vera y Pintado (Est. Guaraníes),49,0,0,87,0,0,0,183,319
+SANTA FE,San Justo,Videla,119,0,0,230,0,0,0,31,380
+SANTA FE,San Justo,Colonia Dolores,0,0,0,0,0,0,0,22,22
+SANTA FE,San Justo,La Penca y Caraguatá,0,0,0,0,0,0,0,26,26
+SANTA FE,San Justo,San Martín Norte,0,0,0,0,0,0,0,35,35
+SANTA FE,San Justo,Silva (Est. Abipones),0,0,0,0,0,0,0,25,25
+SANTA FE,San Lorenzo,Aldao,0,374,0,0,0,0,0,0,374
+SANTA FE,San Lorenzo,Capitán Bermúdez,3656,1202,1,2226,0,0,0,0,7085
+SANTA FE,San Lorenzo,Carcarañá,983,1,0,0,0,0,0,0,984
+SANTA FE,San Lorenzo,Coronel Arnold,0,0,0,239,0,0,0,0,239
+SANTA FE,San Lorenzo,Fray Luis Beltrán,2226,24,0,964,0,0,0,0,3214
+SANTA FE,San Lorenzo,Fuentes,80,0,0,769,0,0,0,0,849
+SANTA FE,San Lorenzo,Luis Palacios (Est. La Salada),0,368,0,0,0,0,0,47,415
+SANTA FE,San Lorenzo,Puerto General San Martín,0,0,0,2602,215,2,0,13,2832
+SANTA FE,San Lorenzo,Pujato,819,0,0,0,0,0,0,103,922
+SANTA FE,San Lorenzo,Ricardone,401,857,0,12,0,1,0,22,1293
+SANTA FE,San Lorenzo,Roldán,2276,1999,0,2829,2,0,0,131,7237
+SANTA FE,San Lorenzo,San Jerónimo Sud,168,824,0,2,0,0,0,0,994
+SANTA FE,San Lorenzo,San Lorenzo,3010,5320,0,946,0,0,0,52,9328
+SANTA FE,San Lorenzo,Timbúes,229,0,0,1207,134,1,0,83,1654
+SANTA FE,San Lorenzo,Villa Elvira,0,0,0,0,0,0,0,30,30
+SANTA FE,San Lorenzo,Villa Mugueta,0,1,0,0,0,1,0,0,2
+SANTA FE,San Martín,Cañada Rosquín,0,0,0,0,25,0,0,0,25
+SANTA FE,San Martín,Carlos Pellegrini,425,23,0,0,0,0,0,0,448
+SANTA FE,San Martín,Casas,0,59,0,0,0,0,0,0,59
+SANTA FE,San Martín,Castelar,0,0,0,0,0,0,0,1,1
+SANTA FE,San Martín,Colonia Belgrano,0,93,0,0,250,0,0,0,343
+SANTA FE,San Martín,El Trébol,935,2592,0,0,0,0,0,72,3599
+SANTA FE,San Martín,Landeta,204,396,0,0,0,0,0,0,600
+SANTA FE,San Martín,Las Bandurrias,0,0,0,0,0,0,0,26,26
+SANTA FE,San Martín,Las Petacas,0,0,0,0,0,0,0,0,0
+SANTA FE,San Martín,Los Cardos,90,247,0,0,0,1,0,0,338
+SANTA FE,San Martín,María Susana,667,0,0,382,0,0,0,36,1085
+SANTA FE,San Martín,Piamonte,654,1463,0,0,0,0,0,0,2117
+SANTA FE,San Martín,San Jorge,2028,980,0,1456,0,1,0,183,4648
+SANTA FE,San Martín,San Martín de las Escobas,942,653,0,0,0,0,0,56,1651
+SANTA FE,San Martín,Sastre,485,0,0,27,0,0,0,145,657
+SANTA FE,Vera,Calchaquí,485,0,0,0,1050,1,0,230,1766
+SANTA FE,Vera,Cañada Ombú,0,0,0,0,0,1,0,34,35
+SANTA FE,Vera,Colmena,0,0,0,0,0,1,0,0,1
+SANTA FE,Vera,Fortín Olmos,0,0,0,0,0,2,0,337,339
+SANTA FE,Vera,Garabato,0,0,0,0,0,0,0,104,104
+SANTA FE,Vera,Intiyaco,0,0,0,0,0,2,0,97,99
+SANTA FE,Vera,La Gallareta,0,0,0,0,0,0,0,373,373
+SANTA FE,Vera,Margarita,0,740,0,0,0,2,0,106,848
+SANTA FE,Vera,Paraje 29,0,0,0,0,0,1,0,34,35
+SANTA FE,Vera,Pozo de los Indios,0,0,0,0,0,2,0,23,25
+SANTA FE,Vera,Toba,0,0,0,0,0,1,0,52,53
+SANTA FE,Vera,Vera (Est. Gobernador Vera),1114,0,0,0,2000,0,0,801,3915
+SANTA FE,Vera,Los Amores,0,0,0,0,0,0,0,122,122
+SANTA FE,Vera,Pueblo Santa Lucía,0,0,0,0,0,0,0,30,30
+SANTA FE,Vera,Golondrina,0,0,0,0,0,0,0,70,70
+SANTA FE,Vera,Kilómetro 115,0,0,0,0,0,0,0,3,3
+SANTA FE,Vera,Tartagal (Est. El Tajamar),0,0,0,0,0,0,0,210,210
+SANTIAGO DEL ESTERO,Aguirre,Malbrán,13,0,0,0,0,1,0,0,14
+SANTIAGO DEL ESTERO,Aguirre,Villa General Mitre (Est. Pinto),0,229,0,0,0,3,0,2,234
+SANTIAGO DEL ESTERO,Alberdi,Campo Gallo,0,0,0,5,0,4,0,35,44
+SANTIAGO DEL ESTERO,Alberdi,Coronel Manuel L. Rico,0,0,0,0,0,2,0,0,2
+SANTIAGO DEL ESTERO,Alberdi,Donadeu,1,0,0,1,0,0,0,0,2
+SANTIAGO DEL ESTERO,Alberdi,Sachayoj,0,0,0,203,0,3,0,0,206
+SANTIAGO DEL ESTERO,Alberdi,Santos Lugares,0,0,0,11,57,2,0,5,75
+SANTIAGO DEL ESTERO,Atamisqui,Estación Atamisqui,1,0,0,1,0,1,0,0,3
+SANTIAGO DEL ESTERO,Atamisqui,Medellín,0,0,0,2,0,2,0,29,33
+SANTIAGO DEL ESTERO,Atamisqui,Villa Atamisqui,1,0,0,1,0,1,0,45,48
+SANTIAGO DEL ESTERO,Avellaneda,Colonia Dora,74,10,0,0,0,2,0,5,91
+SANTIAGO DEL ESTERO,Avellaneda,Herrera,0,3,0,0,100,1,0,0,104
+SANTIAGO DEL ESTERO,Avellaneda,Icaño,0,3,0,0,0,1,0,79,83
+SANTIAGO DEL ESTERO,Avellaneda,Lugones,0,2,0,0,0,1,0,0,3
+SANTIAGO DEL ESTERO,Avellaneda,Real Sayana,0,2,0,0,0,0,0,0,2
+SANTIAGO DEL ESTERO,Avellaneda,Villa Mailín,0,0,0,0,0,1,0,1,2
+SANTIAGO DEL ESTERO,Banda,Clodomira,0,0,0,3,5,1,0,417,426
+SANTIAGO DEL ESTERO,Banda,La Banda,27,43,0,1272,0,3,0,367,1712
+SANTIAGO DEL ESTERO,Banda,Los Quiroga,0,0,0,0,0,1,0,45,46
+SANTIAGO DEL ESTERO,Banda,Simbolar,0,0,0,0,0,1,0,0,1
+SANTIAGO DEL ESTERO,Banda,Abra Grande,1,0,0,0,0,0,0,0,1
+SANTIAGO DEL ESTERO,Banda,Chaupi Pozo,0,0,0,1,0,0,0,0,1
+SANTIAGO DEL ESTERO,Belgrano,Bandera,0,429,0,3,0,3,0,68,503
+SANTIAGO DEL ESTERO,Belgrano,Cuatro Bocas,0,0,0,0,0,1,0,97,98
+SANTIAGO DEL ESTERO,Belgrano,Fortín Inca,0,0,0,0,0,1,0,111,112
+SANTIAGO DEL ESTERO,Belgrano,Guardia Escolta,6,4,0,0,0,1,0,13,24
+SANTIAGO DEL ESTERO,Capital,El Mojón,0,0,0,0,0,1,0,3,4
+SANTIAGO DEL ESTERO,Capital,El Zanjón,0,0,0,0,0,1,0,96,97
+SANTIAGO DEL ESTERO,Capital,San Pedro,0,0,0,0,250,0,0,4,254
+SANTIAGO DEL ESTERO,Capital,Santa María,1,0,0,0,0,0,0,4,5
+SANTIAGO DEL ESTERO,Capital,Santiago del Estero,7526,77825,2,8776,1,5,0,1707,95842
+SANTIAGO DEL ESTERO,Capital,Los Cardozos,0,0,0,2,0,0,0,3,5
+SANTIAGO DEL ESTERO,Capital,Yanda,0,0,0,0,0,0,0,38,38
+SANTIAGO DEL ESTERO,Capital,Maco,0,0,0,0,0,0,0,78,78
+SANTIAGO DEL ESTERO,Capital,Maquito,0,0,0,0,0,1,0,43,44
+SANTIAGO DEL ESTERO,Capital,Morales,0,0,0,0,0,0,0,3,3
+SANTIAGO DEL ESTERO,Capital,Vuelta de la Barranca,0,0,0,0,0,0,0,4,4
+SANTIAGO DEL ESTERO,Choya,Choya,55,0,0,3,0,2,0,0,60
+SANTIAGO DEL ESTERO,Choya,Estación La Punta,505,0,0,0,0,0,0,0,505
+SANTIAGO DEL ESTERO,Choya,Frías,2857,23,0,806,0,2,0,782,4470
+SANTIAGO DEL ESTERO,Choya,Laprida,0,0,0,3,0,0,0,5,8
+SANTIAGO DEL ESTERO,Choya,Tapso,0,0,0,1,0,0,0,71,72
+SANTIAGO DEL ESTERO,Choya,Villa La Punta,0,0,0,4,0,1,0,5,10
+SANTIAGO DEL ESTERO,Copo,El Caburé,0,0,0,0,20,0,0,100,120
+SANTIAGO DEL ESTERO,Copo,La Firmeza,0,0,0,0,0,0,0,20,20
+SANTIAGO DEL ESTERO,Copo,Los Pirpintos,0,0,0,200,0,1,0,0,201
+SANTIAGO DEL ESTERO,Copo,Los Tigres,0,0,0,0,80,0,0,50,130
+SANTIAGO DEL ESTERO,Copo,Monte Quemado,0,0,0,243,2,5,0,0,250
+SANTIAGO DEL ESTERO,Copo,Nueva Esperanza,0,0,0,0,0,1,0,50,51
+SANTIAGO DEL ESTERO,Copo,Pampa de los Guanacos,0,0,0,203,0,3,0,0,206
+SANTIAGO DEL ESTERO,Copo,San José del Boquerón,0,0,0,0,120,0,0,5,125
+SANTIAGO DEL ESTERO,Copo,Urutaú,0,0,0,0,0,0,0,30,30
+SANTIAGO DEL ESTERO,Figueroa,Bandera Bajada,0,0,0,3,0,0,0,5,8
+SANTIAGO DEL ESTERO,Figueroa,Caspi Corral,1,0,0,0,0,0,0,5,6
+SANTIAGO DEL ESTERO,Figueroa,La Cañada,0,0,0,4,0,1,0,45,50
+SANTIAGO DEL ESTERO,Figueroa,Vaca Huañuna,0,0,0,0,0,0,0,3,3
+SANTIAGO DEL ESTERO,Figueroa,Villa Figueroa,0,0,0,1,0,0,0,3,4
+SANTIAGO DEL ESTERO,Figueroa,La Invernada,1,0,0,2,0,0,0,1,4
+SANTIAGO DEL ESTERO,General Taboada,Añatuya,137,750,0,1250,200,4,0,365,2706
+SANTIAGO DEL ESTERO,General Taboada,Averías,0,0,0,0,0,0,0,4,4
+SANTIAGO DEL ESTERO,General Taboada,Estación Tacañitas,0,0,0,2,0,1,0,3,6
+SANTIAGO DEL ESTERO,General Taboada,Los Juríes,0,153,0,4,0,1,0,0,158
+SANTIAGO DEL ESTERO,General Taboada,Tomás Young,0,43,0,0,0,0,0,2,45
+SANTIAGO DEL ESTERO,Guasayán,Lavalle,1,0,0,0,200,2,0,1,204
+SANTIAGO DEL ESTERO,Guasayán,San Pedro,1,0,0,0,0,0,0,2,3
+SANTIAGO DEL ESTERO,Jiménez,El Arenal,0,0,0,0,72,1,0,0,73
+SANTIAGO DEL ESTERO,Jiménez,El Bobadal,0,0,0,0,5,1,0,0,6
+SANTIAGO DEL ESTERO,Jiménez,El Charco,0,0,0,3,30,0,0,0,33
+SANTIAGO DEL ESTERO,Jiménez,Gramilla,0,0,0,1,48,0,0,0,49
+SANTIAGO DEL ESTERO,Jiménez,Isca Yacu,0,0,0,0,7,0,0,0,7
+SANTIAGO DEL ESTERO,Jiménez,Pozo Hondo,0,0,0,3,181,3,0,0,187
+SANTIAGO DEL ESTERO,Juan F. Ibarra,El Colorado,0,0,0,0,20,1,0,0,21
+SANTIAGO DEL ESTERO,Juan F. Ibarra,El Cuadrado,0,0,0,0,0,2,0,121,123
+SANTIAGO DEL ESTERO,Juan F. Ibarra,Matará,0,0,0,3,0,1,0,20,24
+SANTIAGO DEL ESTERO,Juan F. Ibarra,Suncho Corral,271,0,0,0,0,2,0,33,306
+SANTIAGO DEL ESTERO,Juan F. Ibarra,Vilelas,1,0,0,0,0,1,0,2,4
+SANTIAGO DEL ESTERO,Loreto,Villa San Martín (Est. Loreto),0,0,0,0,0,1,0,341,342
+SANTIAGO DEL ESTERO,Mitre,Villa Unión,0,3,0,0,0,1,0,0,4
+SANTIAGO DEL ESTERO,Moreno,Aerolito,1,0,0,0,25,1,0,0,27
+SANTIAGO DEL ESTERO,Moreno,Alhuampa,1,0,0,1,20,1,0,0,23
+SANTIAGO DEL ESTERO,Moreno,Hasse,1,0,0,0,15,0,0,0,16
+SANTIAGO DEL ESTERO,Moreno,Libertad,0,0,0,0,0,1,0,0,1
+SANTIAGO DEL ESTERO,Moreno,Pueblo Pablo Torelo (Est. Otumpa),1,0,0,1,50,0,0,0,52
+SANTIAGO DEL ESTERO,Moreno,Quimilí,393,661,0,0,250,6,0,8,1318
+SANTIAGO DEL ESTERO,Moreno,Roversi,1,0,0,0,15,1,0,0,17
+SANTIAGO DEL ESTERO,Moreno,Tintina,0,0,0,125,0,3,0,0,128
+SANTIAGO DEL ESTERO,Moreno,Weisburd,0,0,0,0,0,0,0,25,25
+SANTIAGO DEL ESTERO,Moreno,Hernán Mejía Miraval,1,0,0,0,0,2,0,0,3
+SANTIAGO DEL ESTERO,Moreno,Patay,1,0,0,0,0,0,0,0,1
+SANTIAGO DEL ESTERO,Moreno,Las Tinajas,0,0,0,0,0,1,0,0,1
+SANTIAGO DEL ESTERO,Ojo de Agua,OTROS,0,0,0,0,0,4,0,0,4
+SANTIAGO DEL ESTERO,Ojo de Agua,Sol de Julio,0,0,0,0,0,2,0,39,41
+SANTIAGO DEL ESTERO,Ojo de Agua,Villa Ojo de Agua,0,0,0,4,333,0,0,62,399
+SANTIAGO DEL ESTERO,OTROS,OTROS,0,0,0,0,310,0,0,0,310
+SANTIAGO DEL ESTERO,Pellegrini,El Mojón,0,0,0,0,20,0,0,4,24
+SANTIAGO DEL ESTERO,Pellegrini,Las Delicias,0,0,0,0,38,0,0,3,41
+SANTIAGO DEL ESTERO,Pellegrini,Nueva Esperanza,0,0,0,3,134,1,0,10,148
+SANTIAGO DEL ESTERO,Pellegrini,Rapelli,1,0,0,2,13,0,0,0,16
+SANTIAGO DEL ESTERO,Pellegrini,Santo Domingo,0,0,0,0,60,0,0,5,65
+SANTIAGO DEL ESTERO,Quebrachos,Sumampa,0,147,0,0,0,1,0,45,193
+SANTIAGO DEL ESTERO,Quebrachos,Sumampa Viejo,0,0,0,0,0,0,0,18,18
+SANTIAGO DEL ESTERO,Quebrachos,Ramírez de Velazco,1,0,0,0,0,0,0,0,1
+SANTIAGO DEL ESTERO,Río Hondo,Chañar Pozo de Abajo,0,0,0,0,3,0,0,0,3
+SANTIAGO DEL ESTERO,Río Hondo,Chauchillas,0,0,0,0,2,1,0,0,3
+SANTIAGO DEL ESTERO,Río Hondo,Colonia Tinco,0,0,0,0,4,1,0,0,5
+SANTIAGO DEL ESTERO,Río Hondo,El Charco,0,0,0,0,0,1,0,0,1
+SANTIAGO DEL ESTERO,Río Hondo,Gramilla,0,0,0,0,0,1,0,73,74
+SANTIAGO DEL ESTERO,Río Hondo,Los Núñez,0,0,0,1,7,0,0,0,8
+SANTIAGO DEL ESTERO,Río Hondo,Mansupa,0,0,0,0,2,0,0,0,2
+SANTIAGO DEL ESTERO,Río Hondo,Pozuelos,0,0,0,0,0,1,0,0,1
+SANTIAGO DEL ESTERO,Río Hondo,Termas de Río Hondo,2551,0,0,3,80,1,0,377,3012
+SANTIAGO DEL ESTERO,Río Hondo,Villa Río Hondo,0,0,0,0,10,0,0,0,10
+SANTIAGO DEL ESTERO,Rivadavia,Colonia Alpina,0,50,0,0,0,1,0,45,96
+SANTIAGO DEL ESTERO,Rivadavia,Palo Negro,0,0,0,0,0,0,0,8,8
+SANTIAGO DEL ESTERO,Rivadavia,Selva,0,557,0,0,0,2,0,11,570
+SANTIAGO DEL ESTERO,Robles,Beltrán,154,0,0,0,0,1,0,70,225
+SANTIAGO DEL ESTERO,Robles,Colonia El Simbolar,0,0,0,0,0,2,0,42,44
+SANTIAGO DEL ESTERO,Robles,Fernández,794,0,0,2,0,1,0,108,905
+SANTIAGO DEL ESTERO,Robles,Ingeniero Forres (Est. Chaguar Punco),0,0,0,1,0,1,0,96,98
+SANTIAGO DEL ESTERO,Robles,Vilmer,0,0,0,1,0,1,0,0,2
+SANTIAGO DEL ESTERO,Salavina,Chilca Juliana,0,0,0,2,0,1,0,1,4
+SANTIAGO DEL ESTERO,Salavina,Los Telares,0,0,0,2,0,1,0,0,3
+SANTIAGO DEL ESTERO,Salavina,Villa Salavina,0,0,0,0,0,1,0,1,2
+SANTIAGO DEL ESTERO,San Martín,Brea Pozo,0,0,0,0,0,1,0,73,74
+SANTIAGO DEL ESTERO,San Martín,Estación Robles,0,0,0,0,0,1,0,0,1
+SANTIAGO DEL ESTERO,San Martín,Estación Taboada,0,0,0,0,0,1,0,3,4
+SANTIAGO DEL ESTERO,Sarmiento,Garza,0,0,0,0,0,1,0,0,1
+SANTIAGO DEL ESTERO,Silípica,Nueva Francia,1,0,0,0,0,1,0,31,33
+SANTIAGO DEL ESTERO,Silípica,Árraga,1,0,0,2,0,1,0,83,87
+SANTIAGO DEL ESTERO,Silípica,Simbol,1,0,0,0,0,0,0,1,2
+TIERRA DEL FUEGO,Río Grande,Río Grande,8102,19188,137,397,138,15,0,2,27979
+TIERRA DEL FUEGO,Río Grande,Tolhuin,281,0,0,0,0,1,0,14,296
+TIERRA DEL FUEGO,Ushuaia,Laguna Escondida,0,0,0,0,0,2,0,0,2
+TIERRA DEL FUEGO,Ushuaia,Ushuaia,4371,20775,175,4,178,4,0,109,25616
+TIERRA DEL FUEGO,ANTARTIDA ARGENTINA,Base Orcadas,0,0,0,0,0,1,0,0,1
+TIERRA DEL FUEGO,ANTARTIDA ARGENTINA,Base Belgrano Ii,0,0,0,1,0,0,0,0,1
+TIERRA DEL FUEGO,ANTARTIDA ARGENTINA,Base San Martin,0,0,0,1,0,0,0,0,1
+TUCUMAN,Burruyacú,7 de Abril,0,0,0,0,0,2,0,3,5
+TUCUMAN,Burruyacú,OTROS,0,0,0,0,0,1,0,0,1
+TUCUMAN,Burruyacú,Villa Burruyacú,0,0,0,12,0,2,0,3,17
+TUCUMAN,Burruyacú,Garmendia,0,0,0,0,0,0,0,3,3
+TUCUMAN,Burruyacú,Piedrabuena,0,0,0,0,0,0,0,3,3
+TUCUMAN,Capital,San Miguel de Tucumán (Est. Tucumán),52350,17547,30,127401,338,15,0,498,198179
+TUCUMAN,Chicligasta,Arcadia,20,0,0,0,0,0,0,0,20
+TUCUMAN,Chicligasta,Concepción,3562,71,0,2553,0,0,0,23,6209
+TUCUMAN,Chicligasta,La Trinidad,6,0,0,0,0,0,0,0,6
+TUCUMAN,Cruz Alta,Alderetes,0,6,0,2914,5,0,0,0,2925
+TUCUMAN,Cruz Alta,Banda del Río Salí,0,66,0,2646,14,0,0,97,2823
+TUCUMAN,Cruz Alta,La Florida,1,0,0,0,0,1,0,10,12
+TUCUMAN,Cruz Alta,Pacará,0,0,0,0,0,0,0,2,2
+TUCUMAN,Cruz Alta,Ranchillos,0,0,0,0,0,0,0,1,1
+TUCUMAN,Cruz Alta,San Andrés,460,0,0,2,0,0,0,0,462
+TUCUMAN,Cruz Alta,El Bracho,0,0,0,0,0,0,0,10,10
+TUCUMAN,Cruz Alta,Delfín Gallo,0,0,0,0,0,0,0,10,10
+TUCUMAN,Cruz Alta,Los Ralos,0,0,0,0,0,0,0,10,10
+TUCUMAN,Cruz Alta,Las Cejas,0,0,0,0,0,1,0,0,1
+TUCUMAN,Famaillá,Famaillá,1337,0,0,117,0,1,0,80,1535
+TUCUMAN,Graneros,Graneros,0,0,0,0,0,2,0,15,17
+TUCUMAN,Graneros,Lamadrid,0,0,0,4,0,1,0,21,26
+TUCUMAN,Graneros,Taco Ralo,0,0,0,0,0,0,0,36,36
+TUCUMAN,Juan Bautista Alberdi,Juan Bautista Alberdi,1812,0,0,0,0,1,0,0,1813
+TUCUMAN,La Cocha,La Cocha,357,0,0,0,0,4,0,3,364
+TUCUMAN,La Cocha,San José de La Cocha,0,0,0,0,0,1,0,1,2
+TUCUMAN,Leales,Bella Vista,1356,0,0,95,4,0,0,55,1510
+TUCUMAN,Leales,Manuel García Fernández,44,0,0,0,0,0,0,0,44
+TUCUMAN,Leales,Pala Pala,0,0,0,0,0,1,0,15,16
+TUCUMAN,Leales,Río Colorado,0,0,0,0,0,0,0,85,85
+TUCUMAN,Leales,Santa Rosa de Leales,0,0,0,0,0,0,0,30,30
+TUCUMAN,Leales,Villa de Leales,0,0,0,0,0,0,0,30,30
+TUCUMAN,Leales,Villa Fiad - Ingenio Leales,0,0,0,0,0,0,0,15,15
+TUCUMAN,Lules,El Manantial,0,1,0,2334,1,0,0,29,2365
+TUCUMAN,Lules,Ingenio San Pablo,833,0,0,193,0,0,0,187,1213
+TUCUMAN,Lules,La Reducción,402,0,0,0,0,0,0,0,402
+TUCUMAN,Lules,Lules,2336,1,0,320,3,0,0,415,3075
+TUCUMAN,Monteros,Acheral,15,0,0,145,0,0,0,11,171
+TUCUMAN,Monteros,Monteros,2057,0,0,20,0,0,0,226,2303
+TUCUMAN,Monteros,Pueblo Independencia,4,0,0,0,0,0,0,0,4
+TUCUMAN,Monteros,Río Seco,14,0,0,6,0,0,0,330,350
+TUCUMAN,Monteros,Santa Lucía,2,0,0,0,0,0,0,13,15
+TUCUMAN,Monteros,Villa Quinteros,14,0,0,0,0,0,0,391,405
+TUCUMAN,Monteros,Capitán Cáceres,0,0,0,0,0,0,0,40,40
+TUCUMAN,Monteros,Sargento Moya,0,0,0,0,0,0,0,29,29
+TUCUMAN,Monteros,Teniente Berdina,0,0,0,0,0,0,0,26,26
+TUCUMAN,OTROS,OTROS,0,0,0,0,9,0,0,0,9
+TUCUMAN,Río Chico,Aguilares,2545,0,0,0,0,0,0,93,2638
+TUCUMAN,Río Chico,Los Sarmientos,43,0,0,0,0,0,0,0,43
+TUCUMAN,Río Chico,Santa Ana,4,0,0,0,0,0,0,0,4
+TUCUMAN,Simoca,Simoca,0,0,0,0,0,0,0,72,72
+TUCUMAN,Simoca,Atahona,0,0,0,0,0,0,0,15,15
+TUCUMAN,Simoca,Monteagudo,0,0,0,0,0,0,0,17,17
+TUCUMAN,Simoca,Nueva Trinidad,0,0,0,0,0,0,0,68,68
+TUCUMAN,Simoca,Villa Chicligasta,0,0,0,0,0,0,0,221,221
+TUCUMAN,Tafí del Valle,Amaicha del Valle,0,0,0,419,0,1,0,138,558
+TUCUMAN,Tafí del Valle,Colalao del Valle,0,0,0,0,0,0,0,56,56
+TUCUMAN,Tafí del Valle,El Mollar,0,0,0,0,0,1,0,11,12
+TUCUMAN,Tafí del Valle,Tafí del Valle,168,0,0,0,1,1,0,35,205
+TUCUMAN,Tafí Viejo,Barrio Lomas de Tafí,349,0,0,0,0,0,0,0,349
+TUCUMAN,Tafí Viejo,Barrio Mutual San Martín,23,0,0,0,0,0,0,0,23
+TUCUMAN,Tafí Viejo,Tafí Viejo,5620,622,0,6901,11,0,0,6,13160
+TUCUMAN,Tafí Viejo,Diagonal Norte - Luz y Fuerza - Los Pocitos - Villa Nueva Italia (6),0,0,0,281,0,0,0,0,281
+TUCUMAN,Tafí Viejo,Villa Mariano Moreno - El Colmenar,0,1,0,471,0,0,0,0,472
+TUCUMAN,Trancas,San Pedro de Colalao,0,0,0,0,0,0,0,313,313
+TUCUMAN,Trancas,Villa  de Trancas,150,0,0,0,33,0,0,99,282
+TUCUMAN,Yerba Buena,Villa Carmela,1725,0,0,0,1,0,0,97,1823
+TUCUMAN,Yerba Buena,Yerba Buena - Marcos Paz,129,203,0,15511,33,0,0,0,15876
