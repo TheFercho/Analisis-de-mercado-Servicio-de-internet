@@ -89,7 +89,7 @@ Aunque los servicios de Internet en Argentina han mejorado en términos de veloc
 Sin embargo, también existen oportunidades prometedoras en el panorama de los servicios de Internet en Argentina. El desarrollo continuo de tecnologías como la fibra óptica y las redes móviles de última generación, junto con iniciativas gubernamentales y privadas, están contribuyendo a mejorar la conectividad en todo el país.
 
 
-![Series_de_tiempo_por_tecnologia](/images/Serie_de_tiempo_tecnologias_CABA.png)
+
 
 ![series_de_tiempo_CABA](/images/Serie_de_tiempo_tecnologias_CABA.png)
 
