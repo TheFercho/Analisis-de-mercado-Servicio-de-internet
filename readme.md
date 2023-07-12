@@ -89,9 +89,9 @@ Aunque los servicios de Internet en Argentina han mejorado en términos de veloc
 Sin embargo, también existen oportunidades prometedoras en el panorama de los servicios de Internet en Argentina. El desarrollo continuo de tecnologías como la fibra óptica y las redes móviles de última generación, junto con iniciativas gubernamentales y privadas, están contribuyendo a mejorar la conectividad en todo el país.
 
 
-![Series_de_tiempo_por_tecnologia](/Analisis-de-mercado-Servicio-de-internet/images/Serie_de_tiempo_tecnologias_CABA.png)
+![Series_de_tiempo_por_tecnologia](/images/Serie_de_tiempo_tecnologias_CABA.png)
 
-![series_de_tiempo_CABA](/Analisis-de-mercado-Servicio-de-internet/images/Serie_de_tiempo_tecnologias_CABA.png)
+![series_de_tiempo_CABA](/images/Serie_de_tiempo_tecnologias_CABA.png)
 
 ## Comparativa Fibra óptica vs Cablemodem
 
@@ -126,7 +126,7 @@ Menor capacidad: En términos de capacidad de carga de datos, el ADSL tiene una 
 
 Disponibilidad geográfica: El ADSL generalmente está más ampliamente disponible que la fibra óptica, ya que utiliza la infraestructura existente de líneas telefónicas de cobre. Esto significa que puede ser una opción más accesible en áreas donde la fibra óptica aún no está desplegada.
 
-![pie](/Analisis-de-mercado-Servicio-de-internet/images/tecnologias_dominantes_Nacion_pie.png)
+![pie](/images/tecnologias_dominantes_Nacion_pie.png)
 
 En resumen:
 
@@ -170,7 +170,7 @@ Velocidad variable: La velocidad de la conexión 4G puede verse afectada por var
 
 Costo: En algunos casos, los planes de datos 4G pueden ser más costosos en comparación con las conexiones por cable, especialmente si se utilizan grandes volúmenes de datos o se requieren velocidades de descarga y carga muy altas.
 
-![antenas_4g](/Analisis-de-mercado-Servicio-de-internet/images/Antenas_4g_por_provincia.png)
+![antenas_4g](/images/Antenas_4g_por_provincia.png)
 
 
 ## Ingresos Trimestrales ('$ En pesos') telefonía fija vs servicio de internet
@@ -179,7 +179,7 @@ En el siguiente gráfico podemos observar cómo a partir de 2017, los ingresos(e
 
 Recordemos que: con la llegada de la telefonía celular(Smart phones) y los cambios de hábitos y costumbres de las nuevas generaciones, se podría explicar la tendencia que se observa en la gráfica.
 
-![telefonia_vs_internet](/Analisis-de-mercado-Servicio-de-internet/images/ingresos_telefonia_fija_vs_internet.png)
+![telefonia_vs_internet](/images/ingresos_telefonia_fija_vs_internet.png)
 
 
 ## Atlas y Portabilidad de telefonía celular por prestadora de servicio
@@ -188,11 +188,11 @@ En el siguiente gráfico se observa que durante el último trimestre de 2016 des
 
 Se observa además, una marcada variación de altas a través de los meses y entre las distintas compañias.
 
-![altas](/Analisis-de-mercado-Servicio-de-internet/images/Altas_telefonia_celular.png)
+![altas](/images/Altas_telefonia_celular.png)
 
 Con respecto a la portabilidad numérica se puede observar la siguiente tendencia:
 
-![portabilidad_por_proveedor](/Analisis-de-mercado-Servicio-de-internet/images/portabilidad_2.png)
+![portabilidad_por_proveedor](/images/portabilidad_2.png)
 
 Nota : Podemos observar, que si bien no hay un patrón fácil de describir entre altas y bajas, quien ha perdido más clientes en el período detallado en el gráfico, es 'Movistar' frente a los saldos positivos de las competidoras : 
 
