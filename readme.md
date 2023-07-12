@@ -50,7 +50,7 @@ Promedio de bajada por provincia:
 -	San Juan	         5.8
 -	Santa Cruz	         5.6
 
-![velocidad_promedio_provincias](/Analisis-de-mercado-Servicio-de-internet/images/velocidad_promedio_provincias.png)
+![velocidad_promedio_provincias](../images/velocidad_promedio_provincias.png)
 
 ## Penetración de Internet
 La penetración de Internet en Argentina ha aumentado de manera constante en los últimos años. Según estadísticas recientes, aproximadamente el 49% de los hogares en argentina tienen acceso a Internet.
