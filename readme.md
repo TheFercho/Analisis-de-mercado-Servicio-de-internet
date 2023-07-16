@@ -19,7 +19,35 @@ En Argentina, existen varios ISP que ofrecen servicios de Internet a nivel nacio
 
 Estos proveedores ofrecen una variedad de opciones de conexión, que incluyen conexiones de banda ancha, fibra óptica, cable y servicios móviles.
 
+## Velocidades de conexión promedio
+La velocidad de conexión a Internet en Argentina ha experimentado mejoras significativas en los últimos años. Según datos recientes, la velocidad de conexión promedio en el país para el año 2022 fué de aproximadamente *37.22 Mbps (megabits por segundo)*. Sin embargo, es importante tener en cuenta que las velocidades pueden variar dependiendo de la ubicación geográfica y el proveedor de servicios.
 
+Promedio de bajada por provincia:
+    Provincia	    Mbps (Media de bajada)
+	Capital Federal	    94.4
+	Buenos Aires	    66.1
+	Catamarca	        56.3
+	Córdoba	            53.2
+	Tucumán	            50.2
+	Chaco	            49.9
+	Neuquén	            45.8
+	Misiones	        45.8
+	La Rioja	        43.0
+	Corrientes	        42.2
+	Santa Fe	        42.0
+	Entre Ríos	        39.4
+	Salta	            38.9
+	Río Negro	        32.8
+	Mendoza	            30.0
+	Jujuy	            29.8
+	Formosa	            29.7
+	San Luis	        19.9
+	La Pampa	        16.3
+	Santiago Del Estero	16.2
+	Chubut	            14.6
+	San Juan	        14.1
+	Santa Cruz	        11.8
+	Tierra Del Fuego	10.9
 
 ## Penetración de Internet
 La penetración de Internet en Argentina ha aumentado de manera constante en los últimos años. Según estadísticas recientes, aproximadamente el 49% de los hogares en argentina tienen acceso a Internet.
