@@ -19,38 +19,7 @@ En Argentina, existen varios ISP que ofrecen servicios de Internet a nivel nacio
 
 Estos proveedores ofrecen una variedad de opciones de conexión, que incluyen conexiones de banda ancha, fibra óptica, cable y servicios móviles.
 
-## Velocidades de conexión promedio
-La velocidad de conexión a Internet en Argentina ha experimentado mejoras significativas en los últimos años. Según datos recientes, la velocidad de conexión promedio en el país es de aproximadamente *13.86 Mbps (megabits por segundo)*. Sin embargo, es importante tener en cuenta que las velocidades pueden variar dependiendo de la ubicación geográfica y el proveedor de servicios.
 
-Promedio de bajada por provincia:
-
-    Provincia	        Mbps (Media de bajada)
--	Capital Federal	    33.3
--	Buenos Aires	    24.6
--	Córdoba	            19.6    
--	Tucumán	            19.2
--	Chaco	            18.3
--	Neuquén	            18.0
--	Catamarca	        18.0
--	Misiones	        16.2
--	Santa Fe	        15.8
--	Corrientes	        15.4
--	Salta	            14.4
--	Entre Ríos	        14.2
--	Río Negro	        12.6
--	La Rioja	        12.3
--	Formosa	            12.1
--	Jujuy	            11.7
--	San Luis	        11.0
--	Mendoza	             8.5
--	Santiago Del Estero	 7.6
--	La Pampa	         6.4
--	Tierra Del Fuego	 6.1
--   Chubut	             6.0
--	San Juan	         5.8
--	Santa Cruz	         5.6
-
-![velocidad_promedio_provincias](/images/velocidad_promedio_provincias.png)
 
 ## Penetración de Internet
 La penetración de Internet en Argentina ha aumentado de manera constante en los últimos años. Según estadísticas recientes, aproximadamente el 49% de los hogares en argentina tienen acceso a Internet.
