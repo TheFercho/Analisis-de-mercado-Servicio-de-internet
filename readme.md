@@ -23,6 +23,7 @@ Estos proveedores ofrecen una variedad de opciones de conexión, que incluyen co
 La velocidad de conexión a Internet en Argentina ha experimentado mejoras significativas en los últimos años. Según datos recientes, la velocidad de conexión promedio en el país para el año 2022 fué de aproximadamente *37.22 Mbps (megabits por segundo)*. Sin embargo, es importante tener en cuenta que las velocidades pueden variar dependiendo de la ubicación geográfica y el proveedor de servicios.
 
 *Promedio de bajada por provincia:*
+
     Provincia	        Mbps (Media de bajada)
 -	Capital Federal	    94.4
 -	Buenos Aires	    66.1
