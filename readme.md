@@ -51,7 +51,7 @@ La velocidad de conexión a Internet en Argentina ha experimentado mejoras signi
 -	Tierra Del Fuego	10.9
 
 
-![velocidad promedio 2022 por provincia](/images/velocidad_promedio_2022_por_provincia.png)  
+![Velocidad promedio 2022 por provincia](/images/velocidad_promedio_2022_por_provincia.png)  
 
 ## Penetración de Internet
 La penetración de Internet en Argentina ha aumentado de manera constante en los últimos años. Según estadísticas recientes, aproximadamente el 49% de los hogares en argentina tienen acceso a Internet.
