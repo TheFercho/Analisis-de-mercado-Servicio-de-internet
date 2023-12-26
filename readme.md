@@ -183,7 +183,7 @@ Recordemos que: con la llegada de la telefonía celular(Smart phones) y los camb
 ![telefonia_vs_internet](/images/ingresos_telefonia_fija_vs_internet.png)
 
 
-## Atlas y Portabilidad de telefonía celular por prestadora de servicio
+## Altas y Portabilidad de telefonía celular por prestadora de servicio
 
 En el siguiente gráfico se observa que durante el último trimestre de 2016 desciende la cantidad de altas mensuales, para luego subir de manera exponencial durante el período de la pandemia (COVID-19).
 
