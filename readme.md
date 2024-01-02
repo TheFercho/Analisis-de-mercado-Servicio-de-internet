@@ -111,7 +111,7 @@ Distancia de transmisión más larga: La fibra óptica puede transmitir datos a 
 
 Seguridad: Las señales transmitidas a través de cables de fibra óptica son difíciles de interceptar. La tecnología de fibra óptica proporciona una mayor seguridad en comparación con el cable módem, lo que puede ser importante para la protección de datos personales y empresariales.
 
-![](/imagenes/ProvinciasMasRapidas.png)
+![](/images/ProvinciasMasRapidas.png)
 
 ## Comparativa sobre el ADSL vs Fibra óptica:
 
@@ -135,7 +135,7 @@ En resumen:
 
 
 ## Conexión wifi 4G por Provincia
-![](/imagenes/RadioBases4G.png).
+![](/images/RadioBases4G.png).
 Dadas las características propias de nuestro país, dada su geografia y extensión, la alternativa de la conexión wireless posee las siguientes características, ventajas y desventajas:
 
 Velocidad: La tecnología 4G ofrece velocidades de conexión más rápidas en comparación con las generaciones anteriores, lo que permite una mejor experiencia de navegación, descarga y transmisión de contenido en línea.
